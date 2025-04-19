@@ -1,0 +1,70 @@
+name: Build files
+on:
+  push:
+    branches: [ "main" ]
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12' 
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r config/requirements.txt
+          pip install -i https://test.pypi.org/simple/ VSETH-Bylaw-Parser
+          echo "Finished installing dependencies"
+
+      - name: Check Bylaw Structure
+        run: |
+          python -m VSETH_Bylaw_Parser generate VSS_Rechtssammlung.xml --config config/config.yaml --output-folder output/ --format csv --lang de fr
+      
+      - name: Install Rust
+        run: |
+          curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
+          rustc --version
+          cargo --version
+          echo "Finished installing Rust"
+
+      - name: Install mdbook
+        run: |
+          cargo install mdbook --target x86_64-unknown-linux-gnu
+          echo "Finished installing mdbook"
+
+      - name: Install LaTeX
+        run: |
+          sudo apt-get install texlive-full
+          echo "Finished installing LaTeX"
+
+      - name: Build the book
+        run: |
+          python -m VSETH_Bylaw_Parser generate VSS_Rechtssammlung.xml --config config/config.yaml --output-folder output/ --format all --lang de fr
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload entire repository
+          path: './output/mdbook/'
+        
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
