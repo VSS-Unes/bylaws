@@ -1,5 +1,15 @@
 configuration:
   general:
+    name: 
+      fr: "Receuil de Règlements de l'UNES"
+      de: "Rechtssammlung des VSS"
+    intro_text:
+      fr: "Bienvenue dans le receuil de règlements de l'Union des Etudiant·e·s de Suisse (UNES)"
+      de: "Willkommen in der Rechtssammlung der Verband der Schweizerer Studierendenschaften (VSS)"
+    description:
+      fr: "Receuil de règlements de l'UNES"
+      de: "Rechtsammlung des VSS"
+    git-repository-url: "https://github.com/VSS-Unes/bylaws"
     institution:
       full_name:
         fr: Institution d'Exemple
