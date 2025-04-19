@@ -50,4 +50,5 @@ configuration:
           de: "des Fachvereinsrates"
   html:
     navbar:
+      logo: "/assets/VSS_Logo_White.svg"
       
