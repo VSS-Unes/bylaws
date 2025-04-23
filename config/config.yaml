@@ -1,5 +1,7 @@
 configuration:
   general:
+    assets:
+      relative_path: "/assets"
     name: 
       fr: "Receuil de Règlements de l'UNES"
       de: "Rechtssammlung des VSS"
@@ -60,5 +62,5 @@ configuration:
           de: "des Fachvereinsrates"
   html:
     navbar:
-      logo: "/assets/VSS_Logo_White.svg"
+      logo: "VSS_Logo_White.svg"
       
