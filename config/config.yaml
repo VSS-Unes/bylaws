@@ -1,7 +1,7 @@
 configuration:
   general:
     assets:
-      relative_path: "/assets"
+      relative-path: "assets/"
     name: 
       fr: "Receuil de Règlements de l'UNES"
       de: "Rechtssammlung des VSS"
