@@ -1,0 +1,107 @@
+\usepackage[sfdefault,light]{FiraSans}
+%Set the default font to FiraSans
+
+
+%Minimal requierements for a class file, will be overwritten by the scrreprt class and geometry.
+\renewcommand{\normalsize}{\fontsize{10pt}{12pt}\selectfont}
+\setlength{\textwidth}{6.5in}
+\setlength{\textheight}{8in}
+
+%Defines the VSETH CI Colors
+\definecolor{cyan}{cmyk}{100,0,0,0}
+\definecolor{vssblue}{rgb}{0.239, 0.349, 0.545}
+\definecolor{salsared}{cmyk}{0,0.89,0.66,0}
+
+%Setup the formatting of the links
+\hypersetup{
+	% colors
+	colorlinks={true},
+	linkcolor={vssblue},
+	urlcolor={vssblue},
+	% bookmarks in PDF
+	bookmarksnumbered={true},
+	% Only numbers in TOC should be links, as all the cyan in kinda ugly.
+	linktoc={page}
+}
+
+%Activate the headers if the option is set
+\newcommand{\dateheader}{
+	\ohead[
+		\begin{tabular}{>{\raggedright}p{1.1cm}p{2.5cm}}
+			{\fontseries{m}\selectfont \textcolor{vssblue}{D}} & \documentdate \\ & \\
+		\end{tabular}
+	]{}
+}
+
+%Fonts and formatting of the headers
+\setcounter{secnumdepth}{0}
+%\renewcommand*{\thesection}{\arabic{section}}
+\RedeclareSectionCommand[afterskip=0pt, runin=false, tocindent=1em, tocnumwidth=1.25em]{section}
+\RedeclareSectionCommand[afterskip=0pt, runin=false, tocindent=3.25em, tocnumwidth=2em]{subsection}
+\RedeclareSectionCommand[afterskip=0pt, runin=false]{subsubsection}
+\setkomafont{title}{\fontseries{b}\fontsize{26}{32}\selectfont}
+\setkomafont{subtitle}{\fontseries{m}\fontsize{15}{19}\selectfont \color{gray}}
+\setkomafont{chapter}{\fontseries{b}\fontsize{26}{32}\selectfont}
+\setkomafont{subtitle}{\fontseries{m}\fontsize{15}{19}\selectfont \color{gray}}
+\setkomafont{section}{\fontseries{b}\fontsize{20}{25}\selectfont \color{vssblue}}
+\setkomafont{subsection}{\fontseries{b}\fontsize{16}{20}\selectfont \color{vssblue}}
+\setkomafont{subsubsection}{\fontseries{b}\fontsize{14}{17}\selectfont \color{vssblue}}
+
+% Page setup
+\geometry{
+	paper=a4paper,
+	includeheadfoot,
+	top=2cm,
+	bottom=2cm,
+	left=2.5cm,
+	right=2.5cm,
+	head=41pt,
+	headsep=1cm,
+	foot=41pt,
+	footskip=1cm,
+	verbose=true,
+}
+
+% Header/footer
+\setkomafont{pageheadfoot}{\sffamily}
+\cfoot*{
+	\textbf{- \thepage\ / \pageref*{LastPage} -} \\
+	\noindent\textcolor{vssblue}{\rule\textwidth{1mm}} \\
+}
+
+%TODO: Make the path to the logo configurable
+\ihead*{
+	\includesvg[width=57mm]{\PathToAssets/VSS_Logo.svg}
+}
+
+%TODO: Make this a toggle
+
+%-------------------
+%Title Page setup
+%#1: Title
+%#2: Date
+%-------------------
+\newcommand{\maketitlepage}[2]{
+	\begin{titlepage}
+		\centering
+		\hspace{0pt}
+		\vfill
+		\includesvg[width=80mm]{\PathToAssets/VSS_Logo.svg}
+		\par
+		{\usekomafont{title} \textbf{#1} \par }
+		{\usekomafont{subtitle} #2 \par }
+		\vfill
+	\end{titlepage}
+}
+
+% Behavior of \maketitle
+\makeatletter
+\renewcommand{\maketitle}{\bgroup\setlength{\parindent}{0pt}
+	\vspace*{0.5cm} % for some reasor the effective space is twice as large
+	\begin{flushleft}
+		{\usekomafont{title} \@title}\par\vspace*{14pt}{\usekomafont{subtitle} \@subtitle}
+	\end{flushleft}\egroup\thispagestyle{plain.scrheadings}\vspace*{4pt}
+}
+
+
+\makeatother

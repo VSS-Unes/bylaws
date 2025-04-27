@@ -1,5 +1,6 @@
 configuration:
   general:
+    id-prefix: "RSVSS"
     assets:
       relative-path: "assets/"
     name: 
@@ -61,4 +62,6 @@ configuration:
   website:
     navbar:
       logo: "VSS_Logo_White.svg"
-      
+  latex:
+    styling: "styling/styling.tex"    
+  
