@@ -24,8 +24,6 @@ configuration:
         iso-code: fr
       - name: German
         iso-code: de
-    assets:
-      logo: ""
     dictionary:
       - code: Version
         fr: Version
@@ -60,7 +58,7 @@ configuration:
         name-datif:
           fr: "du Conseil des sections"
           de: "des Fachvereinsrates"
-  html:
+  website:
     navbar:
       logo: "VSS_Logo_White.svg"
       
