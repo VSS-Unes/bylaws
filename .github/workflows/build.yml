@@ -70,16 +70,7 @@ jobs:
         uses: actions/deploy-pages@v4
 
       - name: Upload artifact
+        if: always()
         uses: actions/upload-pages-artifact@v3
         with:
           path: './output/'
-
-  
-  # Publish artifacts even if the build fails
-  # This is useful to ensure that the artifacts are always available for download
-  publish-artifacts:
-    runs-on: ubuntu-latest
-    if: always()
-    needs: build
-    steps:
-      
