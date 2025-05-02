@@ -68,3 +68,16 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+  
+  # Publish artifacts even if the build fails
+  # This is useful to ensure that the artifacts are always available for download
+  publish-artifacts:
+    runs-on: ubuntu-latest
+    if: always()
+    needs: build
+    steps:
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: build-artifacts
+          path: ./output/
