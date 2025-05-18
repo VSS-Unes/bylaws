@@ -1,0 +1,24 @@
+<regulation id="43.03" title_de="Beschluss Entschädigung anderer Gremien" short_de="" title_fr="Indemnités autres organes" short_fr="" original_implementation_date="2025-05-05">
+    <preamble>
+        <text language="de"> Die 185. Delegiertenversammlung, gestützt auf Art. 17a des Reglements über die Finanzen im VSS, beschliesst: </text>
+        <text language="fr"> La 185e Assemblée des délégué·e·s, se fondant sur l'art. 17a du Règlement sur les finances de l'UNES, décide: </text>
+    </preamble>
+    <articles>
+        <article title_de="Entschädigung Kommissionspräsidien" title_fr="Indemnité présidences de commissions">
+            <text language="de"> Für die Mitglieder der Kommissionspräsidien beträgt die Entschädigung nach Art. 17a Finanzreglement CHF 300.00 brutto pro Amtsperiode. Bei Amtsantritt oder Austritt während der Amtsperiode wird der Betrag pro Rata berechnet. </text>
+            <text language="fr"> Conformément à l'art. 17a du Règlement des finances, l'indemnisation des membres des présidences des commissions pour une période de mandat s’élève à CHF 300.00 brut. En cas d'entrée en fonction ou de départ pendant la période de mandat, le montant est calculé au prorata. </text>
+        </article>
+        <article title_de="Entschädigung Sektionsratspräsidium " title_fr="Indemnité présidence du Conseil des sections">
+            <text language="de"> Für Mitglieder des Sektionsratspräsidiums beträgt die Entschädigung nach Art. 17a Finanzreglement CHF 600.00 brutto pro Amtsperiode. Bei Amtsantritt oder Austritt während der Amtsperiode wird der Betrag pro Rata berechnet. </text>
+            <text language="fr"> Conformément à l'art. 17a du Règlement des finances, l'indemnisation des membres des présidences du Conseil des sections pour une période de mandat s’élève à CHF 600.00 brut. En cas d'entrée en fonction ou de départ pendant la période de mandat, le montant est calculé au prorata. </text>
+        </article>
+        <article title_de="Entschädigung Geschäftsprüfungskommission" title_fr="Indemnité Commission de Contrôle">
+            <text language="de"> Für Mitglieder der Geschäftsprüfungskommission beträgt die Entschädigung nach Art. 17a Finanzreglement CHF 600.00 brutto pro Jahr. Bei Amtsantritt oder Austritt während der Amtsperiode wird der Betrag pro Rata berechnet. </text>
+            <text language="fr"> Conformément à l'art. 17a du Règlement des finances, l'indemnisation des membres de la Commission de Contrôle s’élève à CHF 600.00 brut par an. En cas d'entrée en fonction ou de départ pendant la période de mandat, le montant est calculé au prorata. </text>
+        </article>
+        <article title_de="Inkrafttreten" title_fr="Entrée en vigueur">
+            <text language="de"> Dieser Beschluss tritt am 05.05.2025 in Kraft und gilt bis auf Weiteres. </text>
+            <text language="fr"> La présente décision entre en vigueur le 05.05.2025 et reste valable jusqu'à nouvel ordre. </text>
+        </article>
+    </articles>
+</regulation>
