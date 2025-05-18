@@ -410,8 +410,9 @@
                                 <text language="fr"> La motion d'ordre oblige la présidence de séance à exclure les participant·e·s concerné·e·s de la réunion. </text>
                             </paragraph>
                             <paragraph>
-                                <text language="de"> Die Sitzungsleitung entscheidet über die Dauer. Im Einsprachefall entscheidet das einfache Mehr. </text>
-                                <text language="fr"> La présidence de séance décide de la durée. En cas d'opposition, la décision est prise à la majorité simple. </text>
+                                <changed gremium="DV" agenda_item="6.3" meeting_number="185" implementation_date="2025-05-05" />
+                                <text language="de"> Die Sitzungsleitung entscheidet über die Dauer. Im Einsprachefall entscheidet das Zweidrittelmehr. </text>
+                                <text language="fr"> La présidence de séance décide de la durée. En cas d'opposition, la décision est prise à la majorité des deux tiers. </text>
                             </paragraph>
                         </paragraphs>
                     </article>
