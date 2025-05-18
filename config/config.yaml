@@ -39,26 +39,44 @@ configuration:
         fr: Règlement
         de: Reglement
       - code: inserted
-        fr: "Ajouté par la décision [[ORGNANIZATION_DATIF]] au point [[ITEM]] lors de la séance du [[MEETING_DATE]], en vigueur depuis le [[SINCE]]."
+        fr: "Ajouté par décision [[ORGNANIZATION_DATIF]] au point [[ITEM]] lors de la séance du [[MEETING_DATE]], en vigueur depuis le [[SINCE]]."
         de: "Eingefügt durch den Beschluss [[ORGNANIZATION_DATIF]] in Traktandum [[ITEM]] in der Sitzung vom [[MEETING_DATE]], in Kraft seit [[SINCE]]."
       - code: inserted-no-date
-        fr: "Ajouté par la décision de la [[MEETING_NUMBER]]. [[ORGNANIZATION_NAME]] au point [[MEETING_DATE]], en vigueur depuis le [[SINCE]]."
-        de: "Eingefügt durch den Beschluss der [[MEETING_NUMBER]]. [[ORGNANIZATION_NAME]] in Traktandum [[MEETING_DATE]], in Kraft seit [[SINCE]]." 
+        fr: "Ajouté par décision de la [[MEETING_NUMBER]]. [[ORGANIZATION]] au point [[ITEM]], en vigueur depuis le [[SINCE]]."
+        de: "Eingefügt durch den Beschluss der [[MEETING_NUMBER]]. [[ORGANIZATION]] in Traktandum [[ITEM]], in Kraft seit [[SINCE]]." 
+      - code: changed
+        fr: "Modifié par décision [[ORGNANIZATION_DATIF]] au point [[ITEM]] lors de la séance du [[MEETING_DATE]], en vigueur depuis le [[SINCE]]."
+        de: "Geändert durch den Beschluss [[ORGNANIZATION_DATIF]] in Traktandum [[ITEM]] in der Sitzung vom [[MEETING_DATE]], in Kraft seit [[SINCE]]."
+      - code: changed-no-date
+        fr: "Modifié par décision de la [[MEETING_NUMBER]]. [[ORGANIZATION]] au point [[ITEM]], en vigueur depuis le [[SINCE]]."
+        de: "Geändert durch den Beschluss der [[MEETING_NUMBER]]. [[ORGANIZATION]] in Traktandum [[ITEM]], in Kraft seit [[SINCE]]." 
+      - code: deleted
+        fr: "Abrogé par décision [[ORGNANIZATION_DATIF]] au point [[ITEM]] lors de la séance du [[MEETING_DATE]], en vigueur depuis le [[SINCE]]."
+        de: "Aufgehoben durch den Beschluss [[ORGNANIZATION_DATIF]] in Traktandum [[ITEM]] in der Sitzung vom [[MEETING_DATE]], in Kraft seit [[SINCE]]."
+      - code: deleted-no-date
+        fr: "Abrogé par décision de la [[MEETING_NUMBER]]. [[ORGANIZATION]] au point [[ITEM]], en vigueur depuis le [[SINCE]]."
+        de: "Aufgehoben durch den Beschluss der [[MEETING_NUMBER]]. [[ORGANIZATION]] in Traktandum [[ITEM]], in Kraft seit [[SINCE]]." 
     suborganizations:
-      - short_name: MR
+      - short_name: DV
         name:
           fr: Assemblée des Delégués
           de: Mitgliederrat
         name-datif:
           fr: "de l'Assemblée des Délégués"
           de: "des Mitgliederrats"
-      - short_name: FR
+        name-abbreviated:
+          fr: "AD"
+          de: "DV"
+      - short_name: SR
         name:
           fr: Conseil des sections
-          de: Fachvereinsrat
+          de: Sektionsrat
         name-datif:
           fr: "du Conseil des sections"
           de: "des Fachvereinsrates"
+        name-abbreviated:
+          fr: "CdS"
+          de: "SR"
   website:
     navbar:
       logo: "VSS_Logo_White.svg"
