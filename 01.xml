@@ -120,8 +120,9 @@
                         <text language="fr"> les organisations d'étudiant·e·s dans les hautes écoles accréditées en Suisse ; </text>
                     </letter>
                     <letter>
-                        <text language="de"> Studierendenorganisationen an höheren Bildungsanstalten, die bisher nicht akkreditiert sind; </text>
-                        <text language="fr"> les organisations d'étudiant·e·s des établissements d'enseignement supérieur qui ne sont pas encore accrédités ; </text>
+                        <changed gremium="DV" agenda_item="6.4.1" meeting_number="185" implementation_date="2025-05-05" />
+                        <text language="de"> Studierendenorganisationen an Hochschulen, die bisher nicht akkreditiert sind; </text>
+                        <text language="fr"> les organisations d'étudiant·e·s des hautes écoles qui ne sont pas encore accréditées ; </text>
                     </letter>
                     <letter>
                         <text language="de"> nationale Dachverbände von Studierendenorganisationen an akkreditierten Hochschulen. </text>
@@ -228,8 +229,9 @@
                         <text language="fr"> les cotisations des membres selon l'art. 6 ; </text>
                     </letter>
                     <letter>
-                        <text language="de"> Finanzhilfen für die Betriebsstruktur und regelmässige Aktivitäten von Dachverbänden und Koordinationsplattformen nach Art. 7 des Kinder- und Jugendförderungsgesetzes des BSV; </text>
-                        <text language="fr"> les aides financières pour la structure de fonctionnement et les activités régulières des associations faîtières et des plateformes de coordination selon l'art. 7 de la loi sur l'encouragement de l'enfance et de la jeunesse de l'OFAS ; </text>
+                        <changed gremium="DV" agenda_item="6.4.1" meeting_number="185" implementation_date="2025-05-05" />
+                        <text language="de"> Finanzhilfen für die Betriebsstruktur und regelmässige Aktivitäten von Dachverbänden und Koordinationsplattformen nach Art. 7 des Kinder- und Jugendförderungsgesetz; </text>
+                        <text language="fr"> les aides financières pour la structure de fonctionnement et les activités régulières des associations faîtières et des plateformes de coordination selon l'art. 7 de la loi sur l’encouragement de l’enfance et de la jeunesse; </text>
                     </letter>
                     <letter>
                         <text language="de"> Weitere Einnahmequellen, darunter Spenden und Sponsoring. </text>
@@ -237,15 +239,16 @@
                     </letter>
                 </letters>
             </article>
-            <article title_de="Rechnungsrevisionsstelle" title_fr="Organe de révision des comptes">
+            <article title_de="Revisionsstelle" title_fr="Organe de révision">
+                <changed gremium="DV" agenda_item="6.4.1" meeting_number="185" implementation_date="2025-05-05" />
                 <paragraphs>
                     <paragraph>
-                        <text language="de"> Der VSS hat eine verbandsunabhängige Rechnungsrevisionsstelle. </text>
-                        <text language="fr"> L'UNES dispose d'un organe de révision des comptes indépendant de l'association. </text>
+                        <text language="de"> Der VSS lässt nach Abschluss der jährlichen Erfolgsrechnung eine verbandsunabhängige Revision durchführen. </text>
+                        <text language="fr"> L'UNES fait réaliser un audit indépendant par un organe de révisoin une fois le bilan annuel clôturé. </text>
                     </paragraph>
                     <paragraph>
-                        <text language="de"> Die Rechnungsrevisionsstelle wird auf Antrag des VSS-Vorstands von der Delegiertenversammlung für ein Jahr gewählt. Sie unterliegt keiner Amtszeitbeschränkung. </text>
-                        <text language="fr"> L'organe de révision des comptes est élu pour un an par l'Assemblée des délégué·e·s sur proposition du Comité de l'UNES. Le nombre de mandats n’est pas limité. </text>
+                        <text language="de"> Die Revisionsstelle wird auf Antrag des VSS-Vorstands von der Delegiertenversammlung für ein Jahr gewählt. Sie unterliegt keiner Amtszeitbeschränkung. </text>
+                        <text language="fr"> L'organe de révision est élu pour un an par l'Assemblée des délégué·e·s sur proposition du Comité de l'UNES. Le nombre de mandats n’est pas limité. </text>
                     </paragraph>
                 </paragraphs>
             </article>
