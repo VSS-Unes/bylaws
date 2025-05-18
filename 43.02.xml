@@ -48,21 +48,26 @@
                         </numeral>
                         <numeral>
                             <text language="de"> Akkreditierungsfonds. </text>
-                            <text language="fr"> le fonds d'accréditation; </text>
+                            <text language="fr"> le fonds d'accréditation. </text>
                         </numeral>
                     </numerals>
                 </letter>
                 <letter>
-                    <text language="de"> Information &amp; Aktion Fonds. </text>
+                    <text language="de"> Information &amp; Aktion Fonds; </text>
                     <text language="fr"> le fonds Information &amp; Action; </text>
                 </letter>
                 <letter>
-                    <text language="de"> Sozialfonds </text>
+                    <text language="de"> Sozialfonds; </text>
                     <text language="fr"> le fonds social; </text>
                 </letter>
                 <letter>
-                    <text language="de"> Archivierungsfonds </text>
-                    <text language="fr"> le fonds d'archivage. </text>
+                    <text language="de"> Archivierungsfonds; </text>
+                    <text language="fr"> le fonds d'archivage; </text>
+                </letter>
+                <letter>
+                    <inserted gremium="DV" agenda_item="4.5" meeting_number="185" implementation_date="2025-05-05" />
+                    <text language="de">Nachhaltigkeitsfonds.</text>
+                    <text language="fr">le fonds durabilité.</text>
                 </letter>
             </letters>
         </article>
@@ -143,6 +148,27 @@
                 <paragraph>
                     <text language="de"> Eine Auflösung kann durch die Delegiertenversammlung oder den Sektionsrat genehmigt werden. </text>
                     <text language="fr"> Une dissolution peut être approuvée par l'Assemblée des délégué·e·s ou le Conseil des sections. </text>
+                </paragraph>
+            </paragraphs>
+        </article>
+        <article title_de="Nachhaltigkeitsfonds" title_fr="Fonds durabilité">
+            <inserted gremium="DV" agenda_item="4.5" meeting_number="185" implementation_date="2025-05-05" />
+            <paragraphs>
+                <paragraph>
+                    <text language="de">Der Nachhaltigkeitsfonds dient der finanziellen Unterstützung von Projekten, Initiativen oder Massnahmen, welche die ökologische, soziale oder ökonomische Nachhaltigkeit innerhalb des VSS oder seiner Sektionen fördern.</text>
+                    <text language="fr">Le fonds durabilité sert à soutenir financièrement des projets, des initiatives ou des mesures qui favorisent le développement durableb écologique, social ou économique au sein de l'UNES ou de ses sections.</text>
+                </paragraph>
+                <paragraph>
+                    <text language="de">Antragsberechtigt ist der VSS-Vorstand und die Sektionen.</text>
+                    <text language="fr">Le Comité exécutif de l'UNES et les sections sont habilités à déposer des demandes.</text>
+                </paragraph>
+                <paragraph>
+                    <text language="de">Eine Auflösung kann durch die Delegiertenversammlung oder den Sektionsrat genehmigt werden.</text>
+                    <text language="fr">Une dissolution peut être approuvée par l'Assemblée des délégué-e-s ou le Conseil des Sections.</text>
+                </paragraph>
+                <paragraph>
+                    <text language="de">Für Beträge bis zu CHF 5'000.00, bis zu einem Total von CHF 25'000.00 pro Jahr, kann eine Auflösung durch den Vorstand genehmigt werden.</text>
+                    <text language="fr">Pour des montants jusqu'à CHF 5'000.00, jusqu'à un total de CHF 20'000.00 par an, une dissolution peut être approuvée par le Comité exécutif.</text>
                 </paragraph>
             </paragraphs>
         </article>
