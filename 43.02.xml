@@ -61,8 +61,7 @@
                     <text language="fr"> le fonds social; </text>
                 </letter>
                 <letter>
-                    <text language="de"> Archivierungsfonds; </text>
-                    <text language="fr"> le fonds d'archivage; </text>
+                    <deleted gremium="DV" agenda_item="4.6.2" meeting_number="185" implementation_date="2025-05-05" />
                 </letter>
                 <letter>
                     <inserted gremium="DV" agenda_item="4.5" meeting_number="185" implementation_date="2025-05-05" />
@@ -136,20 +135,7 @@
             </paragraphs>
         </article>
         <article title_de="Archivierungsfonds" title_fr="Fonds d'archivage">
-            <paragraphs>
-                <paragraph>
-                    <text language="de"> Der Archivierungsfonds dient der Finanzierung von Ausgaben für Massnahmen, die die langfristige Zugänglichkeit von Informationen im VSS sicherstellen sollen. </text>
-                    <text language="fr"> Le Fonds d'archivage sert à financer des dépenses pour des mesures visant à garantir l'accessibilité à long terme des informations dans l'UNES. </text>
-                </paragraph>
-                <paragraph>
-                    <text language="de"> Antragsberechtigt ist der VSS-Vorstand. </text>
-                    <text language="fr"> Le Comité exécutif est habilité à faire des propositions. </text>
-                </paragraph>
-                <paragraph>
-                    <text language="de"> Eine Auflösung kann durch die Delegiertenversammlung oder den Sektionsrat genehmigt werden. </text>
-                    <text language="fr"> Une dissolution peut être approuvée par l'Assemblée des délégué·e·s ou le Conseil des sections. </text>
-                </paragraph>
-            </paragraphs>
+            <deleted gremium="DV" agenda_item="4.6.2" meeting_number="185" implementation_date="2025-05-05" />
         </article>
         <article title_de="Nachhaltigkeitsfonds" title_fr="Fonds durabilité">
             <inserted gremium="DV" agenda_item="4.5" meeting_number="185" implementation_date="2025-05-05" />
