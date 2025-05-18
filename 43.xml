@@ -217,6 +217,23 @@
                     </paragraph>
                 </paragraphs>
             </article>
+            <article title_de="Weitere" title_fr="Autres">
+                <inserted gremium="DV" agenda_item="6.1" meeting_number="185" implementation_date="2025-05-05" />
+                <paragraphs>
+                    <paragraph>
+                        <text language="de"> Das Sektionsratspräsidium wird für seine Arbeit entschädigt. Die Höhe der Entschädigung legt die Delegiertenversammlung fest. </text>
+                        <text language="fr"> La présidence du Conseil des sections est indemnisée pour son travail. Le montant de l'indemnisation est fixé par l'Assemblée des délégué-e-s. </text>
+                    </paragraph>
+                    <paragraph>
+                        <text language="de"> Die Kommissionspräsidien werden für ihre Arbeit entschädigt. Die Höhe der Entschädigung legt die Delegiertenversammlung fest. </text>
+                        <text language="fr"> Les présidences des Commissions thématiques sont indemnisés pour leur travail. Le montant de l'indemnisation est fixé par l'Assemblée des délégué-e-s. </text>
+                    </paragraph>
+                    <paragraph>
+                        <text language="de"> Die Mitglieder der Geschäftsprüfungskommission werden für ihre Arbeit entschädigt. Die Höhe der Entschädigung legt die Delegiertenversammlung fest. </text>
+                        <text language="fr"> Les membres de la Commission de contrôle sont indemnisé-e-s pour leur travail. Le montant de l’indemnisation est fixé par l’Assemblée des délégué-e-s </text>
+                    </paragraph>
+                </paragraphs>
+            </article>
         </articles>
     </section>
     <section title_de="Auslagen und Spesen" title_fr="Dépenses et frais">
