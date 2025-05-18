@@ -59,11 +59,11 @@ configuration:
     suborganizations:
       - short_name: DV
         name:
-          fr: Assemblée des Delégués
-          de: Mitgliederrat
+          fr: Assemblée des délégué-e-s
+          de: Delegiertenversammlung
         name-datif:
-          fr: "de l'Assemblée des Délégués"
-          de: "des Mitgliederrats"
+          fr: "de l'Assemblée des délégué-e-s"
+          de: "der Delegiertenversammlung"
         name-abbreviated:
           fr: "AD"
           de: "DV"
@@ -73,7 +73,7 @@ configuration:
           de: Sektionsrat
         name-datif:
           fr: "du Conseil des sections"
-          de: "des Fachvereinsrates"
+          de: "des Sektiionsrates"
         name-abbreviated:
           fr: "CdS"
           de: "SR"
