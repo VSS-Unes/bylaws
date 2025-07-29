@@ -65,7 +65,7 @@ jobs:
         if: always()
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './output/'
+          path: './output/website/'
           
       - name: Deploy to GitHub Pages
         id: deployment
