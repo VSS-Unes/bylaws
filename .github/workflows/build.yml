@@ -61,12 +61,13 @@ jobs:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
         
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-
       - name: Upload artifact
         if: always()
         uses: actions/upload-pages-artifact@v3
         with:
           path: './output/'
+          
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+    
