@@ -82,7 +82,7 @@ configuration:
         name-datif:
           fr: "de l'Assemblée des délégué-e-s"
           de: "der Delegiertenversammlung"
-          it: "dell'Assemblea dei e delle delegati/e
+          it: "dell'Assemblea dei e delle delegati/e"
         name-abbreviated:
           fr: "AD"
           de: "DV"
