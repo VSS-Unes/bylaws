@@ -1,166 +1,167 @@
-<regulation id="43.02" title_de="Spezifische Bestimmungen zu den Fonds im VSS" short_de="Fonds im VSS" title_fr="Dispositions spécifiques relatives aux fonds de l'UNES" short_fr="Fonds de l'UNES" original_implementation_date="2025-01-01">
+<?xml version='1.0' encoding='utf-8'?>
+<regulation id="43.02" original_implementation_date="2025-01-01" short_de="Fonds im VSS" short_fr="Fonds de l'UNES" short_it="Fondi nell’USU" title_de="Spezifische Bestimmungen zu den Fonds im VSS" title_fr="Dispositions spécifiques relatives aux fonds de l'UNES" title_it="Disposizioni specifiche relative ai fondi nell’USU">
     <preamble>
         <text language="de"> Die 184. Delegiertenversammlung, gestützt auf Art. 10 des Reglements über die Finanzen im VSS, beschliesst: </text>
         <text language="fr"> La 184e Assemblée des délégué·e·s, se fondant sur l'art. 10 du Règlement sur les finances de l'UNES, décide: </text>
-    </preamble>
+    <text language="it"> La 184a assemblea dei e delle delegati/e, in base all’art. 10 del regolamento sulle finanze dell’USU, decide: </text></preamble>
     <articles>
-        <article title_de="Auflistung" title_fr="Liste">
+        <article title_de="Auflistung" title_fr="Liste" title_it="Elenco">
             <text language="de"> Der VSS hat folgende Fonds im Sinne von Art. 8ff Finanzreglement: </text>
             <text language="fr"> L'UNES dispose des fonds suivants au sens de des art. 8 et suivants du règlement des finances : </text>
-            <letters>
+            <text language="it"> L’USU dispone dei seguenti fondi ai sensi dell’art. 8 e seguenti del regolamento finanziario: </text><letters>
                 <letter>
                     <text language="de"> die Kommissionsfonds: </text>
                     <text language="fr"> les fonds des commissions : </text>
-                    <numerals>
+                    <text language="it"> fondi delle commissioni: </text><numerals>
                         <numeral>
                             <text language="de"> Fonds der Kommission für Gleichstellung (CodEg-Fonds); </text>
                             <text language="fr"> le fonds de la Commission pour l'égalité (Fonds de la CodEg) ; </text>
-                        </numeral>
+                        <text language="it"> fondo della commissione di parificazione (fondo CodEg); </text></numeral>
                         <numeral>
                             <text language="de"> Fonds der Kommission für Internationales und Solidarität (SOLIC-Fonds); </text>
                             <text language="fr"> le fonds de la Commission pour l'international et la solidarité (Fonds de la SOLIC) ; </text>
-                        </numeral>
+                        <text language="it"> fondo della commissione internazionale e per la solidarietà (fondo SOLIC); </text></numeral>
                         <numeral>
                             <text language="de"> Fonds der Hochschulpolitikkommission (HoPoKo-Fonds); </text>
                             <text language="fr"> le fonds de la Commission de politique universitaire (Fonds de la HoPoKo) ; </text>
-                        </numeral>
+                        <text language="it"> fondo della commissione per la politica delle università (fondo HoPoKo); </text></numeral>
                         <numeral>
                             <text language="de"> Fonds der Kommission für Soziales (SoKo-Fonds). </text>
                             <text language="fr"> le fonds de la Commission des affaires sociales (Fonds de la SoKo); </text>
-                        </numeral>
+                        <text language="it"> fondo della commissione sociale (fondo SoKo). </text></numeral>
                     </numerals>
                 </letter>
                 <letter>
                     <text language="de"> die Projektefonds: </text>
                     <text language="fr"> les fonds des projets : </text>
-                    <numerals>
+                    <text language="it"> fondi per progetti: </text><numerals>
                         <numeral>
                             <text language="de"> Perspektiven-Studium Fonds; </text>
                             <text language="fr"> le fonds Perspectives-Études ; </text>
-                        </numeral>
+                        <text language="it"> fondo prospettive-studio; </text></numeral>
                         <numeral>
                             <text language="de"> INVOST-Fonds; </text>
                             <text language="fr"> le fonds INVOST ; </text>
-                        </numeral>
+                        <text language="it"> fondo INVOST; </text></numeral>
                         <numeral>
                             <text language="de"> Students at Risk Fonds; </text>
                             <text language="fr"> le fonds Students at Risk ; </text>
-                        </numeral>
+                        <text language="it"> fondo students at risk; </text></numeral>
                         <numeral>
                             <text language="de"> Akkreditierungsfonds. </text>
                             <text language="fr"> le fonds d'accréditation. </text>
-                        </numeral>
+                        <text language="it"> fondo accreditamento. </text></numeral>
                     </numerals>
                 </letter>
                 <letter>
                     <text language="de"> Information &amp; Aktion Fonds; </text>
                     <text language="fr"> le fonds Information &amp; Action; </text>
-                </letter>
+                <text language="it"> fondo informazione &amp; azione; </text></letter>
                 <letter>
                     <text language="de"> Sozialfonds; </text>
                     <text language="fr"> le fonds social; </text>
-                </letter>
+                <text language="it"> fondo sociale; </text></letter>
                 <letter>
                     <deleted gremium="DV" agenda_item="4.6.2" meeting_number="185" implementation_date="2025-05-05" />
                 </letter>
                 <letter>
                     <inserted gremium="DV" agenda_item="4.5" meeting_number="185" implementation_date="2025-05-05" />
                     <text language="de">Nachhaltigkeitsfonds.</text>
-                    <text language="fr">le fonds durabilité.</text>
+                    <text language="it"> fondo sostenibilità. </text><text language="fr">le fonds durabilité.</text>
                 </letter>
             </letters>
         </article>
-        <article title_de="Kommissionsfonds" title_fr="Fonds des commissions">
+        <article title_de="Kommissionsfonds" title_fr="Fonds des commissions" title_it="Fondi delle commissioni">
             <paragraphs>
                 <paragraph>
                     <text language="de"> Die Kommissionsfonds dienen zur Finanzierung von punktuellen Aktionen der Kommissionen. </text>
                     <text language="fr"> Les fonds des commissions servent à financer des actions ponctuelles des commissions. </text>
-                </paragraph>
+                <text language="it"> I fondi delle commissioni servono a finanziare azioni puntuali delle commissioni. </text></paragraph>
                 <paragraph>
                     <text language="de"> Antragsberechtigt an den jeweiligen Kommissionsfonds sind die entsprechenden Kommissionen und der VSS-Vorstand. </text>
                     <text language="fr"> Les commissions concernées et le comité exécutif sont habilités à faire des demandes auprès des fonds de commission respectifs. </text>
-                </paragraph>
+                <text language="it"> Hanno diritto di presentare domanda ai rispettivi fondi delle commissioni le commissioni interessate e il comitato esecutivo dell’USU. </text></paragraph>
                 <paragraph>
                     <text language="de"> Eine Auflösung des Fonds kann durch den VSS-Vorstand genehmigt werden. </text>
                     <text language="fr"> Une dissolution du fonds peut être approuvée par le Comité exécutif. </text>
-                </paragraph>
+                <text language="it"> La revoca del fondo può essere approvato dal comitato esecutivo dell’USU. </text></paragraph>
             </paragraphs>
         </article>
-        <article title_de="Projektefonds" title_fr="Fonds pour des projets">
+        <article title_de="Projektefonds" title_fr="Fonds pour des projets" title_it="Fondi per progetti">
             <paragraphs>
                 <paragraph>
                     <text language="de"> Die Projektefonds dienen zur Finanzierung von Projekten, welche eine definierte und terminierte Laufzeit haben. </text>
                     <text language="fr"> Les fonds des projets servent à financer des projets qui ont une durée définie et déterminée. </text>
-                </paragraph>
+                <text language="it"> Il fondo per progetti serve a finanziare progetti che hanno una durata definita e limitata nel tempo. </text></paragraph>
                 <paragraph>
                     <text language="de"> Antragsberechtigt an den jeweiligen Projektfonds sind die Delegiertenversammlung, und der VSS-Vorstand. </text>
                     <text language="fr"> l’Assemblée des délégué·e·s, le comité exécutif sont habilités à faire des propositions au fonds de projets concerné. </text>
-                </paragraph>
+                <text language="it"> Hanno diritto di fare domanda del rispettivo fondo per progetti l’assemblea dei e delle delegati/e e il comitato esecutivo dell’USU. </text></paragraph>
                 <paragraph>
                     <text language="de"> Eine Auflösung kann durch die Delegiertenversammlung genehmigt werden. </text>
                     <text language="fr"> Une dissolution peut être seulement approuvée par l’Assemblée des délégué·e·s. </text>
-                </paragraph>
+                <text language="it"> La revoca del fondo può essere approvata dall’assemblea dei e delle delegati/e. </text></paragraph>
             </paragraphs>
         </article>
-        <article title_de="Information &amp; Aktion Fonds" title_fr="Fonds Information &amp; Actions">
+        <article title_de="Information &amp; Aktion Fonds" title_fr="Fonds Information &amp; Actions" title_it="Fondo informazione &amp; azione">
             <paragraphs>
                 <paragraph>
                     <text language="de"> Der Fonds “Information &amp; Aktionen” dient zur Finanzierung spezifischer Aktionen, deren Laufzeit ein Rechnungsjahr übersteigt und deren Finanzierung nicht im laufenden Basis-Budget vorgesehen ist, zur Entschädigung von Mandaten für Projekte oder für jegliche andere Aktivität, welche die statutarischen Ziele des VSS verfolgt. </text>
                     <text language="fr"> Le fonds “Information &amp; Actions” sert à financer des actions spécifiques dont la durée dépasse un exercice comptable et dont le financement n'est pas prévu dans le budget de base actuel, à indemniser des mandats pour des projets ou pour toute autre activité qui poursuit les objectifs statutaires de l'UNES. </text>
-                </paragraph>
+                <text language="it"> Il fondo «informazione &amp; azione» serve a finanziare azioni specifiche la cui durata supera un esercizio finanziario e il cui finanziamento non è previsto nel budget di base corrente, a compensare mandati per progetti o per qualsiasi altra attività che persegua gli obiettivi statutari dell’USU. </text></paragraph>
                 <paragraph>
                     <text language="de"> Antragsberechtigt an den Information &amp; Aktion Fonds ist der VSS-Vorstand, der Sektionsrat und die Delegiertenversammlung. </text>
                     <text language="fr"> Le comité exécutif, le Conseil des sections et l’Assemblée des délégué·e·s sont habilités à faire des propositions au Fonds Information &amp; Action. </text>
-                </paragraph>
+                <text language="it"> Hanno diritto di presentare richieste al fondo informazione &amp; azione il comitato esecutivo dell’USU, il consiglio delle sezioni e l’assemblea dei e delle delegati/e. </text></paragraph>
                 <paragraph>
                     <text language="de"> Eine Auflösung kann nur durch die Delegiertenversammlung oder den Sektionsrat genehmigt werden. </text>
                     <text language="fr"> Une dissolution peut être approuvée par l’Assemblée des délégué·e·s ou le Conseil des sections. </text>
-                </paragraph>
+                <text language="it"> La revoca può essere approvata solo dall’assemblea dei e delle delegati/e o dal consiglio delle sezioni. </text></paragraph>
             </paragraphs>
         </article>
-        <article title_de="Sozialfonds" title_fr="Fonds social">
+        <article title_de="Sozialfonds" title_fr="Fonds social" title_it="Fondo sociale">
             <paragraphs>
                 <paragraph>
                     <text language="de"> Der Sozialfonds dient dazu, punktuelle, einmalige und belegte Mitgliederbeitrags Zahlungsunfähigkeit von Sektionen durch andere Sektionen des VSS ausgleichen zu lassen. </text>
                     <text language="fr"> Le fonds social sert à compenser l'insolvabilité ponctuelle, unique et justifiée de sections par d'autres sections de l’UNES. </text>
-                </paragraph>
+                <text language="it"> Il fondo sociale serve a compensare l’insolvenza puntuale, una tantum e comprovata delle sezioni nel pagamento delle quote associative da parte di altre sezioni dell’USU. </text></paragraph>
                 <paragraph>
                     <text language="de"> Antragsberechtigt an den Sozialfonds sind der VSS-Vorstand, und die Sektionen. </text>
                     <text language="fr"> Le Comité exécutif ainsi que les sections sont habilités à faire des propositions au fonds social. </text>
-                </paragraph>
+                <text language="it"> Hanno diritto di presentare domanda al fondo sociale il comitato esecutivo dell’USU e le sezioni. </text></paragraph>
                 <paragraph>
                     <text language="de"> Eine Auflösung kann durch die Delegiertenversammlung genehmigt werden. </text>
                     <text language="fr"> Une dissolution peut être approuvée que par l'Assemblée des délégué·e·s. </text>
-                </paragraph>
+                <text language="it"> La revoca può essere approvata dall’assemblea dei e delle delegati/e. </text></paragraph>
             </paragraphs>
         </article>
-        <article title_de="Archivierungsfonds" title_fr="Fonds d'archivage">
+        <article title_de="Archivierungsfonds" title_fr="Fonds d'archivage" title_it="Fondo di archiviazione">
             <deleted gremium="DV" agenda_item="4.6.2" meeting_number="185" implementation_date="2025-05-05" />
         </article>
-        <article title_de="Nachhaltigkeitsfonds" title_fr="Fonds durabilité">
+        <article title_de="Nachhaltigkeitsfonds" title_fr="Fonds durabilité" title_it="Fondo sostenibilità">
             <inserted gremium="DV" agenda_item="4.5" meeting_number="185" implementation_date="2025-05-05" />
             <paragraphs>
                 <paragraph>
                     <text language="de">Der Nachhaltigkeitsfonds dient der finanziellen Unterstützung von Projekten, Initiativen oder Massnahmen, welche die ökologische, soziale oder ökonomische Nachhaltigkeit innerhalb des VSS oder seiner Sektionen fördern.</text>
                     <text language="fr">Le fonds durabilité sert à soutenir financièrement des projets, des initiatives ou des mesures qui favorisent le développement durableb écologique, social ou économique au sein de l'UNES ou de ses sections.</text>
-                </paragraph>
+                <text language="it"> Il fondo sostenibilità serve a sostenere finanziariamente progetti, iniziative o misure che promuovono la sostenibilità ecologica, sociale o economica all’interno dell’USU o delle sue sezioni. </text></paragraph>
                 <paragraph>
                     <text language="de">Antragsberechtigt ist der VSS-Vorstand und die Sektionen.</text>
                     <text language="fr">Le Comité exécutif de l'UNES et les sections sont habilités à déposer des demandes.</text>
-                </paragraph>
+                <text language="it"> Il comitato esecutivo dell’USU e le sezioni hanno diritto di presentare domanda. </text></paragraph>
                 <paragraph>
                     <text language="de">Eine Auflösung kann durch die Delegiertenversammlung oder den Sektionsrat genehmigt werden.</text>
                     <text language="fr">Une dissolution peut être approuvée par l'Assemblée des délégué-e-s ou le Conseil des Sections.</text>
-                </paragraph>
+                <text language="it"> La revoca del fondo può essere approvata dall’assemblea dei e delle delegati/e o dal consiglio delle sezioni. </text></paragraph>
                 <paragraph>
                     <text language="de">Für Beträge bis zu CHF 5'000.00, bis zu einem Total von CHF 25'000.00 pro Jahr, kann eine Auflösung durch den Vorstand genehmigt werden.</text>
                     <text language="fr">Pour des montants jusqu'à CHF 5'000.00, jusqu'à un total de CHF 20'000.00 par an, une dissolution peut être approuvée par le Comité exécutif.</text>
-                </paragraph>
+                <text language="it"> Per importi fino a CHF 5’000.00 e fino a un totale di CHF 25’000.00 all’anno, la revoca del fondo può essere approvata dal comitato esecutivo. </text></paragraph>
             </paragraphs>
         </article>
-        <article title_de="Inkrafttreten" title_fr="Entrée en vigueur">
+        <article title_de="Inkrafttreten" title_fr="Entrée en vigueur" title_it="Entrata in vigore">
             <text language="de"> Dieser Beschluss tritt am 01.01.2025 in Kraft und gilt bis auf Weiteres. </text>
             <text language="fr"> La présente décision entre en vigueur le 01.01.2025 et reste valable jusqu'à nouvel ordre. </text>
-        </article>
+        <text language="it"> Questa disposizione entra in vigore il 01.01.2025 e rimane in vigore fino a nuovo avviso. </text></article>
     </articles>
 </regulation>

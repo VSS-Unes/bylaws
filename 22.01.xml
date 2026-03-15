@@ -1,4 +1,5 @@
-<regulation id="22.01" title_de="Auftrag der Gleichstellungskommission" short_de="CodEg-Auftrag" title_fr="Mandat de la Commission pour l'égalité" short_fr="Mandat de la CodEg" original_implementation_date="2025-01-01">
+<?xml version='1.0' encoding='utf-8'?>
+<regulation id="22.01" original_implementation_date="2025-01-01" short_de="CodEg-Auftrag" short_fr="Mandat de la CodEg" short_it="Incarico della CodEg" title_de="Auftrag der Gleichstellungskommission" title_fr="Mandat de la Commission pour l'égalité" title_it="Incarico della commissione di parificazione">
 <preamble>
 <text language="de">
 Die 184. Delegiertenversammlung, gestützt auf Art. 3 des Gremienreglements über die thematischen Kommissionen im VSS, beschliesst:
@@ -6,24 +7,24 @@ Die 184. Delegiertenversammlung, gestützt auf Art. 3 des Gremienreglements übe
 <text language="fr">
 La 184e Assemblée des délégué·e·s, se fondant sur l'art. 3 du Règlement concernant les commissions thématiques au sein de l'UNES, décide:
 </text>
-</preamble>
+<text language="it"> La 184a assemblea dei e delle delegati/e, in base all’art. 3 del regolamento degli organi sulle commissioni tematiche dell’USU, decide: </text></preamble>
 <articles>
-<article title_de="Definition" title_fr="Définition">
+<article title_de="Definition" title_fr="Définition" title_it="Definizione">
 <text language="de">
 Unter dem Namen “Gleichstellungskommission”, abgekürzt “CodEg”, besteht eine thematische Kommission. 
 </text>
 <text language="fr">
 Sous le nom de “Commission pour l'égalité “, abrégé “CodEg”, il est constitué une Commission thématique.
 </text>
-</article>
-<article title_de="Zweck" title_fr="Buts">
+<text language="it"> Con il nome «commissione di parificazione», abbreviato «CodEg», viene creata una commissione tematica. </text></article>
+<article title_de="Zweck" title_fr="Buts" title_it="Scopo">
 <text language="de">
 Die Kommission bezweckt:
 </text>
 <text language="fr">
 La commission a pour but:
 </text>
-<letters>
+<text language="it"> La commissione ha lo scopo di: </text><letters>
 <letter>
 <text language="de">
 die Erreichung und Bewahrung der formellen und tatsächlichen Gleichstellung aller Geschlechter an Schweizer Hochschulen;
@@ -31,7 +32,7 @@ die Erreichung und Bewahrung der formellen und tatsächlichen Gleichstellung all
 <text language="fr">
 d’atteindre et maintenir l'égalité formelle et réelle de tous les genres dans les hautes écoles suisses ;
 </text>
-</letter>
+<text language="it"> raggiungere e mantenere la parità formale ed effettiva tra tutti i generi nelle scuole universitarie svizzere; </text></letter>
 <letter>
 <text language="de">
 die Unterstützung der LGBTQIA+ Gemeinschaft an Schweizer Hochschulen;
@@ -39,7 +40,7 @@ die Unterstützung der LGBTQIA+ Gemeinschaft an Schweizer Hochschulen;
 <text language="fr">
 de soutenir la communauté LGBTQIA+ dans les hautes écoles suisses ;
 </text>
-</letter>
+<text language="it"> sostenere la comunità LGBTQIA+ nelle scuole universitarie svizzere; </text></letter>
 <letter>
 <text language="de">
 die Bekämpfung von jeglicher Art von Diskriminierung an Schweizer Hochschulen; 
@@ -47,7 +48,7 @@ die Bekämpfung von jeglicher Art von Diskriminierung an Schweizer Hochschulen;
 <text language="fr">
 de lutter contre toutes les formes de discrimination dans les hautes écoles suisses ;
 </text>
-</letter>
+<text language="it"> combattere qualsiasi forma di discriminazione nelle scuole universitarie svizzere; </text></letter>
 <letter>
 <text language="de">
 die Förderung einer barrierefreien Hochschullandschaft.
@@ -55,10 +56,10 @@ die Förderung einer barrierefreien Hochschullandschaft.
 <text language="fr">
 de promouvoir l'accessibilité dans l'enseignement supérieur.
 </text>
-</letter>
+<text language="it"> promuovere un panorama universitario senza barriere. </text></letter>
 </letters>
 </article>
-<article title_de="Arbeitsbereich" title_fr="Domaine d'activité">
+<article title_de="Arbeitsbereich" title_fr="Domaine d'activité" title_it="Ambito di attività">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -67,7 +68,7 @@ Die Kommission ist Anlaufstelle und Plattform zur Förderung des Austauschs zwis
 <text language="fr">
 La commission est un point de contact et une plate-forme pour promouvoir l'échange entre les organisations et les commissions sur la même thématique dans le paysage universitaire suisse.
 </text>
-</paragraph>
+<text language="it"> La commissione è un riferimento e una piattaforma per promuovere lo scambio tra organizzazioni e commissioni che si occupano di tali tematiche nel panorama universitario svizzero. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Kommission engagiert sich für die Gleichstellung innerhalb des VSS und deren Förderung und Sensibilisierung in den Sektionen. Zur Erreichung ihrer Ziele lanciert sie konkrete Projekte und führt Kampagnen durch.
@@ -75,7 +76,7 @@ Die Kommission engagiert sich für die Gleichstellung innerhalb des VSS und dere
 <text language="fr">
 La commission s'engage pour l'égalité au sein de l'UNES et pour sa promotion et sa sensibilisation dans les sections. Pour atteindre ses objectifs, elle lance des projets concrets et mène des campagnes.
 </text>
-</paragraph>
+<text language="it"> La commissione si impegna a favore della parità all’interno dell’USU e della promozione e sensibilizzazione della parità all’interno delle sezioni. Per raggiungere i suoi obiettivi, lancia progetti concreti e realizza campagne. </text></paragraph>
 <paragraph>
 <text language="de">
 Darüber hinaus setzt sich die Kommission bei folgenden Themen ein:
@@ -83,7 +84,7 @@ Darüber hinaus setzt sich die Kommission bei folgenden Themen ein:
 <text language="fr">
 En outre, la commission s'engage sur les thèmes suivants :
 </text>
-<letters>
+<text language="it"> Inoltre, la commissione si impegna nelle seguenti tematiche: </text><letters>
 <letter>
 <text language="de">
 Institutionalisierung der Gender Studies als Fachrichtung;
@@ -91,7 +92,7 @@ Institutionalisierung der Gender Studies als Fachrichtung;
 <text language="fr">
 l’institutionnalisation des études de genre en tant que discipline ;
 </text>
-</letter>
+<text language="it"> istituzionalizzazione degli studi di genere come disciplina accademica; </text></letter>
 <letter>
 <text language="de">
 Erhalt und Förderung des Gender Mainstreamings sowie Thematisierung von Geschlechterdiskriminierung und Geschlechtervielfalt in allen Studienrichtungen;
@@ -99,7 +100,7 @@ Erhalt und Förderung des Gender Mainstreamings sowie Thematisierung von Geschle
 <text language="fr">
 le maintien et promotion du gender mainstreaming ainsi que thématisation de la discrimination sexuelle et de la diversité des genres dans toutes les disciplines ;
 </text>
-</letter>
+<text language="it"> mantenimento e promozione del gender mainstreaming e tematizzazione della discriminazione di genere e della diversità di genere in tutti gli indirizzi di studio; </text></letter>
 <letter>
 <text language="de">
 Barrierefreiheit an Schweizer Hochschulen.
@@ -107,18 +108,18 @@ Barrierefreiheit an Schweizer Hochschulen.
 <text language="fr">
 l’accessibilité dans les hautes écoles suisses.
 </text>
-</letter>
+<text language="it"> accessibilità nelle scuole universitarie svizzere. </text></letter>
 </letters>
 </paragraph>
 </paragraphs>
 </article>
-<article title_de="Inkrafttreten" title_fr="Entrée en vigueur">
+<article title_de="Inkrafttreten" title_fr="Entrée en vigueur" title_it="Entrata in vigore">
 <text language="de">
 Dieser Beschluss tritt am 01.01.2025 in Kraft und gilt bis auf Weiteres.
 </text>
 <text language="fr">
 La présente décision entre en vigueur le 01.01.2025 et reste valable jusqu'à nouvel ordre.
 </text>
-</article>
+<text language="it"> Questa disposizione entra in vigore il 01.01.2025 e rimane in vigore fino a nuovo avviso. </text></article>
 </articles>
 </regulation>

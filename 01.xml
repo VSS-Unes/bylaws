@@ -1,440 +1,531 @@
-<regulation id="01" title_de="Statuten" short_de="Statuten" title_fr="Statuts" short_fr="Statuts" original_implementation_date="2025-01-01">
-    <section title_de="Allgemeine Bestimmungen" title_fr="Dispositions générales">
+<?xml version='1.0' encoding='utf-8'?>
+<regulation id="01" original_implementation_date="2025-01-01" short_de="Statuten" short_fr="Statuts" short_it="Statuti" title_de="Statuten" title_fr="Statuts" title_it="Statuti">
+    <section title_de="Allgemeine Bestimmungen" title_fr="Dispositions générales" title_it="Disposizioni generali">
         <articles>
-            <article title_de="Rechtsform, Name, Sitz" title_fr="Forme juridique, nom, siège">
+            <article title_de="Rechtsform, Name, Sitz" title_fr="Forme juridique, nom, siège" title_it="Forma giuridica, nome, sede">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Der <quote>Verband der Schweizer Studierendenschaften</quote>, nachfolgend <quote>VSS</quote> genannt, ist ein Verein im Sinne von Art. 60ff ZGB mit Sitz in Bern. </text>
                         <text language="fr"> L’<quote>Union des Etudiant·e·s de Suisse</quote>, ci-après dénommée <quote>UNES</quote>, est une association au sens des articles 60 et suivants du Code civil suisse, dont le siège est à Berne. </text>
+                        <text language="it"> L’«Unione Svizzera degli e delle Universitari-e», in seguito denominata «USU» è un’associazione ai sensi dell’Art. 60 e seguenti del Codice Civile Svizzero, con sede a Berna. </text>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Der VSS ist parteipolitisch und konfessionell neutral. </text>
                         <text language="fr"> L’UNES est politiquement indépendante et confessionnellement neutre. </text>
+                        <text language="it"> L’USU è politicamente e confessionalmente neutrale. </text>
                     </paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Zweck" title_fr="Buts">
+            <article title_de="Zweck" title_fr="Buts" title_it="Scopo">
                 <text language="de"> Der VSS bezweckt: </text>
                 <text language="fr"> L'UNES a pour but : </text>
+                <text language="it"> L’USU ha lo scopo di: </text>
                 <letters>
                     <letter>
                         <text language="de"> die ideellen und materiellen Interessen der Studierenden auf nationaler und internationaler Ebene zu vertreten; </text>
                         <text language="fr"> de représenter les intérêts moraux et matériels des étudiant·e·s au niveau national et international ; </text>
+                        <text language="it"> rappresentare gli interessi ideali e materiali di studentesse e studenti a livello nazionale e internazionale; </text>
                     </letter>
                     <letter>
                         <text language="de"> die Gleichstellung, insbesondere an Hochschulen, unter Studierenden zu fördern; </text>
                         <text language="fr"> de promouvoir l'égalité parmi les étudiant·e·s, ceci en particulier dans les hautes école ; </text>
+                        <text language="it"> promuovere la parità tra studentesse e studenti, in particolare nelle università; </text>
                     </letter>
                     <letter>
                         <text language="de"> die Chancengleichheit und insbesondere die Möglichkeit zum allgemeinen Zugang zu Hochschulbildung und deren Abschluss zu fördern; </text>
                         <text language="fr"> de promouvoir l'égalité des chances et, en particulier, la possibilité d'un accès universel à l'enseignement supérieur et à l'obtention d'un diplôme ; </text>
+                        <text language="it"> promuovere le pari opportunità e in particolare la possibilità di accesso generale all’istruzione superiore e al conseguimento di un titolo di studio; </text>
                     </letter>
                     <letter>
                         <text language="de"> den Austausch mit nationalen und internationalen Studierendenorganisationen, mit Behörden, Standesvertretungen und anderen Interessenvertretungen. </text>
                         <text language="fr"> l'échange avec les organisations étudiantes nationales et internationales, avec les autorités, les associations professionnelles et d'autres groupes d'intérêt. </text>
+                        <text language="it"> favorire lo scambio con organizzazioni studentesche nazionali e internazionali, con autorità, rappresentanze professionali e altri gruppi di interesse. </text>
                     </letter>
                 </letters>
             </article>
-            <article title_de="Tätigkeit" title_fr="Activité">
+            <article title_de="Tätigkeit" title_fr="Activité" title_it="Attività">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Der VSS arbeitet im Sinne des in Art. 2 definierten Zwecks. </text>
                         <text language="fr"> L'UNES travaille dans le sens du but défini à l'art. 2. </text>
+                        <text language="it"> L’USU opera secondo lo scopo definito all’Articolo 2. </text>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Bei seiner Arbeit vertritt der VSS Studierende aus der ersten und zweiten Bildungsstufe gemäss Art. 11ff der Verordnung des Hochschulrates über die Koordination der Lehre an den Schweizer Hochschulen aus folgenden höheren Schweizer Bildungsanstalten: </text>
                         <text language="fr"> Dans son travail, l'UNES représente les étudiant·e·s des premier et deuxième degrés d'enseignement selon les articles 11 et suivants de l’Ordonnance du Conseil des hautes écoles sur la coordination de l’enseignement dans les hautes écoles suisses, dans les établissements d'enseignement supérieur suisses suivants : </text>
+                        <text language="it"> Nell’ambito della sua attività, l’USU rappresenta studentesse e studenti del primo e del secondo livello di formazione ai sensi dell’Articolo 11 e seguenti dell’ordinanza del consiglio delle scuole universitarie sul coordinamento dell’insegnamento nelle scuole universitarie svizzere provenienti dai seguenti istituti di formazione superiori svizzeri: </text>
                         <letters>
                             <letter>
                                 <text language="de"> Universitäre Hochschulen; </text>
                                 <text language="fr"> les hautes écoles universitaires ; </text>
+                                <text language="it"> scuole universitarie; </text>
                             </letter>
                             <letter>
                                 <text language="de"> Eidgenössische Technische Hochschulen; </text>
                                 <text language="fr"> les écoles polytechniques fédérales ; </text>
+                                <text language="it"> politecnici federali; </text>
                             </letter>
                             <letter>
                                 <text language="de"> Fachhochschulen; </text>
                                 <text language="fr"> les hautes écoles spécialisées ; </text>
+                                <text language="it"> scuole universitarie professionali; </text>
                             </letter>
                             <letter>
                                 <text language="de"> Pädagogische Hochschulen. </text>
                                 <text language="fr"> les hautes écoles pédagogiques. </text>
+                                <text language="it"> alte scuole pedagogiche. </text>
                             </letter>
                         </letters>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Der VSS arbeitet nicht diskriminierend. </text>
                         <text language="fr"> L'UNES travaille de manière non-discriminatoire. </text>
+                        <text language="it"> L’USU opera in modo non discriminatorio. </text>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Der VSS respektiert die Unabhängigkeit seiner Mitglieder und unterstützt sie bei gemeinsamen Aktionen und Einzelaktivitäten. </text>
                         <text language="fr"> L'UNES respecte l'indépendance de ses membres et les soutient dans leurs actions communes et leurs activités individuelles. </text>
+                        <text language="it"> L’USU rispetta l’indipendenza dei propri membri e li sostiene nelle azioni comuni e nelle attività individuali. </text>
                     </paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Zusammenarbeit" title_fr="Coopération">
+            <article title_de="Zusammenarbeit" title_fr="Coopération" title_it="Collaborazione">
                 <text language="de"> Der VSS kann sich Organisationen anschliessen, die gleiche oder ähnliche Ziele verfolgen. </text>
                 <text language="fr"> L'UNES peut s'affilier à des organisations qui poursuivent des objectifs identiques ou similaires. </text>
+                <text language="it"> L’USU può aderire ad altre organizzazioni che perseguono gli stessi obiettivi o simili obiettivi. </text>
             </article>
-            <article title_de="Verbandssprachen" title_fr="Langues de l'association">
+            <article title_de="Verbandssprachen" title_fr="Langues de l'association" title_it="Lingua dell’associazione">
                 <text language="de"> Die Verbandssprachen des VSS sind Deutsch, Französisch und Italienisch. </text>
                 <text language="fr"> Les langues de l'UNES sont l'allemand, le français et l'italien. </text>
+                <text language="it"> Le lingue dell’USU sono il tedesco, il francese e l’italiano. </text>
             </article>
         </articles>
     </section>
-    <section title_de="Mitgliedschaft" title_fr="Adhésion">
+    <section title_de="Mitgliedschaft" title_fr="Adhésion" title_it="Adesione">
         <articles>
-            <article title_de="Mitgliedschaft" title_fr="Adhésion">
+            <article title_de="Mitgliedschaft" title_fr="Adhésion" title_it="Adesione">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Der VSS kennt folgende Arten von Mitgliedern: </text>
                         <text language="fr"> L'UNES connaît les types de membres suivants : </text>
+                        <text language="it"> L’USU riconosce i seguenti tipi di membri: </text>
                         <letters>
                             <letter>
                                 <text language="de"> ordentliche Mitglieder, nachfolgenden “Sektionen” genannt; </text>
                                 <text language="fr"> les membres ordinaires, ci-après dénommés <quote>sections</quote> ; </text>
+                                <text language="it"> membri ordinari, di seguito denminati «sezioni»; </text>
                             </letter>
                             <letter>
                                 <text language="de"> assoziierte Mitglieder. </text>
                                 <text language="fr"> les membres associés. </text>
+                                <text language="it"> membri associati. </text>
                             </letter>
                         </letters>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Die Mitgliedschaft ist nur für juristische Personen möglich. </text>
                         <text language="fr"> L'adhésion n'est possible que pour les personnes morales. </text>
+                        <text language="it"> L’adesione è riservata esclusivamente alle persone giuridiche. </text>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Mitglieder entrichten einen Mitgliederbeitrag. Die Delegiertenversammlung bestimmt den Mitgliederbeitrag und setzt diesen im Mitgliedschaftsreglement fest. </text>
                         <text language="fr"> Les membres s'acquittent d'une cotisation. L'Assemblée des délégué·e·s détermine le montant de la cotisation de membre et le fixe dans le Règlement d'adhésion. </text>
+                        <text language="it"> I membri versano una quota associativa. L’assemblea dei e delle delegati-e stabilisce l’importo della quota associativa e lo specifica nel regolamento di adesione. </text>
                     </paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Sektionen" title_fr="Sections">
+            <article title_de="Sektionen" title_fr="Sections" title_it="Sezioni">
                 <text language="de"> Als Sektionen können folgende Organisationen aufgenommen werden: </text>
                 <text language="fr"> Les organisations suivantes peuvent être admises en tant que sections : </text>
+                <text language="it"> Come sezioni, possono essere ammesse le seguenti organizzazioni: </text>
                 <letters>
                     <letter>
                         <text language="de"> Studierendenorganisationen an akkreditierten Hochschulen in der Schweiz; </text>
                         <text language="fr"> les organisations d'étudiant·e·s dans les hautes écoles accréditées en Suisse ; </text>
+                        <text language="it"> organizzazioni studentesche presso università accreditate in Svizzera; </text>
                     </letter>
                     <letter>
                         <changed gremium="DV" agenda_item="6.4.1" meeting_number="185" implementation_date="2025-05-05" />
                         <text language="de"> Studierendenorganisationen an Hochschulen, die bisher nicht akkreditiert sind; </text>
+                        <text language="it"> organizzazioni studentesche presso università non ancora accreditate; </text>
                         <text language="fr"> les organisations d'étudiant·e·s des hautes écoles qui ne sont pas encore accréditées ; </text>
                     </letter>
                     <letter>
                         <text language="de"> nationale Dachverbände von Studierendenorganisationen an akkreditierten Hochschulen. </text>
                         <text language="fr"> les associations faîtières nationales d'organisations d'étudiant·e·s dans les hautes écoles accréditées. </text>
+                        <text language="it"> associazioni ombrello nazionali che raggruppano organizzazioni studentesche presso università accreditate. </text>
                     </letter>
                 </letters>
             </article>
-            <article title_de="Assoziierte Mitglieder" title_fr="Membres associés">
+            <article title_de="Assoziierte Mitglieder" title_fr="Membres associés" title_it="Membri associati">
                 <text language="de"> Organisationen, die wichtige regionale oder fachspezifische Interessen von Studierenden vertreten, können als assoziierte Mitglieder aufgenommen werden. </text>
                 <text language="fr"> Les organisations représentant d’importants intérêts régionaux ou spécifiques pour les étudiant·e·s peuvent être admises en tant que membres associés. </text>
+                <text language="it"> Possono essere ammesse come membri associati le organizzazioni che rappresentano importanti interessi regionali o specifici di studentesse e studenti. </text>
             </article>
-            <article title_de="Mitgliedschaftsreglement" title_fr="Règlement d'adhésion">
+            <article title_de="Mitgliedschaftsreglement" title_fr="Règlement d'adhésion" title_it="Regolamento di adesione">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Die Delegiertenversammlung legt die spezifischen Bestimmungen zur Mitgliedschaft im VSS im <quote>Reglement über die Mitgliedschaft im VSS</quote>, nachfolgend <quote>Mitgliedschaftsreglement</quote> genannt, fest. </text>
                         <text language="fr"> L'Assemblée des délégué·e·s fixe les dispositions particulières relatives à l'adhésion à l'UNES dans le <quote>Règlement d'adhésion à l'UNES</quote>, ci-après dénommé <quote>Règlement d'adhésion</quote>. </text>
+                        <text language="it"> L’assemblea dei e delle delegati-e stabilisce le specifiche condizioni per l’adesione all’USU nel «Regolamento di adesione all’USU», di seguito denominato «Regolamento di adesione». </text>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Dieses enthält mindestens Angaben zu: </text>
                         <text language="fr"> Celui-ci contient au moins des précisions sur : </text>
+                        <text language="it"> Esso contiene almeno le seguenti informazioni: </text>
                         <letters>
                             <letter>
                                 <text language="de"> den Voraussetzungen für eine Mitgliedschaft; </text>
                                 <text language="fr"> les conditions d'adhésion ; </text>
+                                <text language="it"> requisiti per l’adesione; </text>
                             </letter>
                             <letter>
                                 <text language="de"> dem Aufnahmeprozess von Mitgliedern; </text>
                                 <text language="fr"> le processus d'admission des membres ; </text>
+                                <text language="it"> procedura di ammissione di un membro; </text>
                             </letter>
                             <letter>
                                 <text language="de"> der Höhe des Mitgliederbeitrags; </text>
                                 <text language="fr"> le montant de la cotisation des membres ; </text>
+                                <text language="it"> importo della quota associativa; </text>
                             </letter>
                             <letter>
                                 <text language="de"> dem Ausschluss von Mitgliedern; </text>
                                 <text language="fr"> l'exclusion de membres ; </text>
+                                <text language="it"> esclusione dei membri; </text>
                             </letter>
                             <letter>
                                 <text language="de"> dem Austritt von Mitgliedern; </text>
                                 <text language="fr"> la démission de membres ; </text>
+                                <text language="it"> uscita dei membri; </text>
                             </letter>
                             <letter>
                                 <text language="de"> dem Erlöschen der Mitgliedschaft. </text>
                                 <text language="fr"> la perte de la qualité de membre. </text>
+                                <text language="it"> revoca dell’adesione. </text>
                             </letter>
                         </letters>
                     </paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Mitwirkung der Mitglieder" title_fr="Participation des membres">
+            <article title_de="Mitwirkung der Mitglieder" title_fr="Participation des membres" title_it="Partecipazione dei">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Mitglieder haben folgende Rechte der Mitwirkung: </text>
                         <text language="fr"> Les membres disposent des droit de participation suivants : </text>
+                        <text language="it"> I membri hanno i seguenti diritti di partecipazione: </text>
                         <letters>
                             <letter>
                                 <text language="de"> das Recht auf Antrag; </text>
                                 <text language="fr"> le droit de proposition, </text>
+                                <text language="it"> il diritto di presentare proposte; </text>
                             </letter>
                             <letter>
                                 <text language="de"> das Recht auf Vorstoss; </text>
                                 <text language="fr"> le droit d’intervention, </text>
+                                <text language="it"> il diritto di presentare interventi; </text>
                             </letter>
                             <letter>
                                 <text language="de"> das Recht auf Untersuchungsantrag und Rekurs; </text>
                                 <text language="fr"> le droit de requête d’enquête et de recours ; </text>
+                                <text language="it"> il diritto di presentare richieste di indagine e ricorsi; </text>
                             </letter>
                             <letter>
                                 <text language="de"> das Recht auf Öffentlichkeit; </text>
                                 <text language="fr"> le droit à la transparence. </text>
+                                <text language="it"> il diritto alla trasparenza; </text>
                             </letter>
                         </letters>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Sektionen haben zudem folgende Rechte der Mitwirkung: </text>
                         <text language="fr"> Les sections ont en outre les droits de participation suivants : </text>
+                        <text language="it"> Le sezioni hanno inoltre i seguenti diritti di partecipazione: </text>
                         <letters>
                             <letter>
                                 <text language="de"> Entsendung von Delegierten in die Delegiertenversammlung; </text>
                                 <text language="fr"> l’envoi de délégué·e·s à l'Assemblée des délégué·e·s ; </text>
+                                <text language="it"> invio di delegati all’assemblea dei e delle delegati-e; </text>
                             </letter>
                             <letter>
                                 <text language="de"> Entsendung von einer delegierten Person in den Sektionsrat. </text>
                                 <text language="fr"> l’envoi d'une personne déléguée au Conseil des sections. </text>
+                                <text language="it"> invio di una persona delegata al consiglio delle sezioni. </text>
                             </letter>
                         </letters>
                     </paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Mitwirkungs- und Öffentlichkeitsreglement" title_fr="Règlement sur la participation et la transparence">
+            <article title_de="Mitwirkungs- und Öffentlichkeitsreglement" title_fr="Règlement sur la participation et la transparence" title_it="Regolamento sulla partecipazione e sulla trasparenza">
                 <text language="de"> Die Delegiertenversammlung legt die spezifischen Bestimmungen zu den Rechten der Mitglieder im <quote>Reglement über die Verfahren der Mitwirkung und das Öffentlichkeitsprinzip im VSS</quote>, nachfolgend <quote>Mitwirkungs- und Öffentlichkeitsreglement</quote> genannt, fest. </text>
                 <text language="fr"> L'Assemblée des délégué·e·s fixe les dispositions spécifiques relatives aux droits des membres dans le <quote>Règlement sur les procédures de participation et le principe de transparence au sein de l'UNES</quote>, ci-après dénommé <quote>Règlement sur la participation et la transparence</quote>. </text>
+                <text language="it"> L’assemblea dei e delle delegati-e stabilisce le specifiche disposizioni relative ai diritti dei membri nel «Regolamento sulle procedure di partecipazione e sul principio di trasparenza nell’USU», di seguito denominato «Regolamento sulla partecipazione e sulla trasparenza». </text>
             </article>
         </articles>
     </section>
-    <section title_de="Mittel" title_fr="Moyens">
+    <section title_de="Mittel" title_fr="Moyens" title_it="Mezzi">
         <articles>
-            <article title_de="Mittel" title_fr="Moyens">
+            <article title_de="Mittel" title_fr="Moyens" title_it="Mezzi">
                 <text language="de"> Zur Verfolgung des Verbandszwecks verfügt der VSS über folgende Mittel: </text>
                 <text language="fr"> Pour poursuivre les buts de l'association, l'UNES dispose des moyens financiers suivants : </text>
+                <text language="it"> Per perseguire lo scopo dell’associazione, l’USU dispone dei seguenti mezzi: </text>
                 <letters>
                     <letter>
                         <text language="de"> Mitgliederbeiträge gemäss Art. 6; </text>
                         <text language="fr"> les cotisations des membres selon l'art. 6 ; </text>
+                        <text language="it"> quote associative ai sensi dell’Art. 6; </text>
                     </letter>
                     <letter>
                         <changed gremium="DV" agenda_item="6.4.1" meeting_number="185" implementation_date="2025-05-05" />
                         <text language="de"> Finanzhilfen für die Betriebsstruktur und regelmässige Aktivitäten von Dachverbänden und Koordinationsplattformen nach Art. 7 des Kinder- und Jugendförderungsgesetz; </text>
+                        <text language="it"> aiuti finanziari per la struttura operativa e le attività regolari delle associazioni mantello e delle piattaforme di coordinamento ai sensi dell’Art. 7 della legge sulla promozione delle attività giovanili extrascolastiche; </text>
                         <text language="fr"> les aides financières pour la structure de fonctionnement et les activités régulières des associations faîtières et des plateformes de coordination selon l'art. 7 de la loi sur l’encouragement de l’enfance et de la jeunesse; </text>
                     </letter>
                     <letter>
                         <text language="de"> Weitere Einnahmequellen, darunter Spenden und Sponsoring. </text>
                         <text language="fr"> les autres sources de revenus, dont les dons et le parrainage. </text>
+                        <text language="it"> altre fonti d’ingresso, tra cui donazioni e sponsorizzazioni. </text>
                     </letter>
                 </letters>
             </article>
-            <article title_de="Revisionsstelle" title_fr="Organe de révision">
+            <article title_de="Revisionsstelle" title_fr="Organe de révision" title_it="Ufficio di revisione">
                 <changed gremium="DV" agenda_item="6.4.1" meeting_number="185" implementation_date="2025-05-05" />
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Der VSS lässt nach Abschluss der jährlichen Erfolgsrechnung eine verbandsunabhängige Revision durchführen. </text>
                         <text language="fr"> L'UNES fait réaliser un audit indépendant par un organe de révisoin une fois le bilan annuel clôturé. </text>
+                        <text language="it"> Dopo la chiusura del conto economico annuale, l’USU fa eseguire una revisione indipendente dall’associazione. </text>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Die Revisionsstelle wird auf Antrag des VSS-Vorstands von der Delegiertenversammlung für ein Jahr gewählt. Sie unterliegt keiner Amtszeitbeschränkung. </text>
                         <text language="fr"> L'organe de révision est élu pour un an par l'Assemblée des délégué·e·s sur proposition du Comité de l'UNES. Le nombre de mandats n’est pas limité. </text>
+                        <text language="it"> L’ufficio di revisione viene eletto dall’assemblea dei e delle delegati/e su richiesta del comitato esecutivo dell’USU per un anno. L’ufficio di revisione non è soggetto ad alcuna limitazione della durata del mandato. </text>
                     </paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Haftung" title_fr="Responsabilité">
+            <article title_de="Haftung" title_fr="Responsabilité" title_it="Responsabilità">
                 <text language="de"> Für Verbindlichkeiten des VSS haftet nur das Verbandsvermögen. Die Haftung der Mitglieder ist beschränkt auf den Mitgliederbeitrag. Mitglieder, welche keinen Mitgliederbeitrag bezahlen, haften nicht für den VSS. </text>
                 <text language="fr"> L’UNES répond seule de ses dettes, qui sont garanties par sa fortune sociale. La responsabilité des membres se limite à leur cotisation. Les membres qui ne paient pas de cotisation ne sont pas responsables pour les dettes de l’UNES. </text>
+                <text language="it"> Per gli oneri dell’USU risponde solo il patrimonio dell’associazione. La responsabilità dei membri è limitata alla quota associativa. I membri che non versano la quota associativa non sono responsabili nei confronti dell’USU. </text>
             </article>
-            <article title_de="Finanzreglement" title_fr="Règlement des finances">
+            <article title_de="Finanzreglement" title_fr="Règlement des finances" title_it="Regolamento finanziario">
                 <text language="de"> Die Delegiertenversammlung legt die spezifischen Bestimmungen zum Umgang mit finanziellen Mitteln im “Reglement über die Finanzen des VSS”, nachfolgend “Finanzreglement” genannt, fest. </text>
                 <text language="fr"> L'Assemblée des délégué·e·s fixe les dispositions particulières relatives à la gestion des ressources financières dans le <quote>Règlement des finances de l'UNES</quote>, ci-après dénommé <quote>Règlement des finances</quote>. </text>
+                <text language="it"> L’assemblea dei e delle delegati/e stabilisce le disposizioni specifiche relative alla gestione dei mezzi finanziari nel «Regolamento sulle finanze dell’USU», di seguito denominato «Regolamento finanziario». </text>
             </article>
         </articles>
     </section>
-    <section title_de="Organisation" title_fr="Organisation">
+    <section title_de="Organisation" title_fr="Organisation" title_it="Organizzazione">
         <articles>
-            <article title_de="Aufbau" title_fr="Structure">
+            <article title_de="Aufbau" title_fr="Structure" title_it="Struttura">
                 <text language="de"> Der VSS besteht aus: </text>
                 <text language="fr"> L'UNES se compose : </text>
+                <text language="it"> L’USU si compone di: </text>
                 <letters>
                     <letter>
                         <text language="de"> den Organen: </text>
                         <text language="fr"> des organes : </text>
+                        <text language="it"> gli organi: </text>
                         <numerals>
                             <numeral>
                                 <text language="de"> Delegiertenversammlung (DV); </text>
                                 <text language="fr"> l’Assemblée des délégué·e·s (AD) ; </text>
+                                <text language="it"> assemblea dei e delle delegati/e (AD); </text>
                             </numeral>
                             <numeral>
                                 <text language="de"> Sektionsrat (SR); </text>
                                 <text language="fr"> le Conseil des sections (CS) ; </text>
+                                <text language="it"> consiglio delle sezioni (CS); </text>
                             </numeral>
                             <numeral>
                                 <text language="de"> Finanzkommission (CoFi); </text>
                                 <text language="fr"> la Commission des finances (CoFi) ; </text>
+                                <text language="it"> commissione delle finanze (CoFi); </text>
                             </numeral>
                             <numeral>
                                 <text language="de"> Vorstand (VS); </text>
                                 <text language="fr"> le Comité exécutif ; </text>
+                                <text language="it"> comitato esecutivo (CE); </text>
                             </numeral>
                             <numeral>
                                 <text language="de"> thematische Kommissionen; </text>
                                 <text language="fr"> les Commissions thématiques ; </text>
+                                <text language="it"> commissioni tematiche; </text>
                             </numeral>
                             <numeral>
                                 <text language="de"> Geschäftsprüfungskommission (GPK); </text>
                                 <text language="fr"> la Commission de contrôle (CdC) ; </text>
+                                <text language="it"> commissione della gestione (CDG); </text>
                             </numeral>
                         </numerals>
                     </letter>
                     <letter>
                         <text language="de"> den Vertretungen; </text>
                         <text language="fr"> des représentations ; </text>
+                        <text language="it"> le rappresentanze; </text>
                     </letter>
                     <letter>
                         <text language="de"> den Arbeitsgruppen (AG) </text>
                         <text language="fr"> des groupes de travail (GT) </text>
+                        <text language="it"> i gruppi di lavoro (GL); </text>
                     </letter>
                     <letter>
                         <text language="de"> der Geschäftsstelle: </text>
                         <text language="fr"> de l’administration : </text>
+                        <text language="it"> l’ufficio: </text>
                         <numerals>
                             <numeral>
                                 <text language="de"> Generalsekretariat (GS); </text>
                                 <text language="fr"> du Secrétariat général (SG) ; </text>
+                                <text language="it"> segretario generale (SG); </text>
                             </numeral>
                             <numeral>
                                 <text language="de"> weitere Mitarbeitende. </text>
                                 <text language="fr"> autres collaborateur·trice·s. </text>
+                                <text language="it"> altre collaboratrici e altri collaboratori. </text>
                             </numeral>
                         </numerals>
                     </letter>
                 </letters>
             </article>
         </articles>
-        <subsection title_de="Organe" title_fr="Organes">
-            <subsubsection title_de="Delegiertenversammlung (DV)" title_fr="Assemblée des délégué·e·s (AD)">
+        <subsection title_de="Organe" title_fr="Organes" title_it="Organi">
+            <subsubsection title_de="Delegiertenversammlung (DV)" title_fr="Assemblée des délégué·e·s (AD)" title_it="Assemblea dei e delle delegati/e (AD)">
                 <articles>
-                    <article title_de="Definition" title_fr="Définition">
+                    <article title_de="Definition" title_fr="Définition" title_it="Definizione">
                         <text language="de"> Die Delegiertenversammlung, abgekürzt “DV”, ist das oberste Organ des Verbands. Sie ist befugt, über alle Belange des VSS zu verhandeln und zu beschliessen, solange die Statuten oder Reglemente diese Aufgaben keinem anderen Organ oder Gremium zuweisen. </text>
                         <text language="fr"> L'Assemblée des délégué·e·s, abrégée <quote>AD</quote>, est l'organe suprême de l'association. Elle est habilitée à délibérer et à prendre des décisions sur toutes les questions concernant l'UNES, tant que les Statuts ou les règlements n'attribuent pas ces tâches à un autre organe ou à une autre entité. </text>
+                        <text language="it"> L' assemblea dei e delle delegati/e, abbreviata in «AD», è l'organo supremo dell'associazione. Essa è autorizzata a discutere e decidere su tutte le questioni relative alla VSS, purché gli statuti o i regolamenti non attribuiscano tali compiti ad altri organi o comitati. </text>
                     </article>
-                    <article title_de="Zusammensetzung" title_fr="Composition">
+                    <article title_de="Zusammensetzung" title_fr="Composition" title_it="Composizione">
                         <paragraphs>
                             <paragraph>
                                 <text language="de"> Die Delegiertenversammlung setzt sich aus den stimmberechtigten Delegierten der Sektionen zusammen. </text>
                                 <text language="fr"> L'Assemblée des délégué·e·s se compose des délégué·e·s des sections ayant le droit de vote. </text>
+                                <text language="it"> L’ assemblea dei e delle delegati/e è composta dai e dalle delegati/e delle sezioni aventi diritto di voto. </text>
                             </paragraph>
                             <paragraph>
                                 <text language="de"> Die Anzahl Delegierter einer Sektion wird nach der Anzahl Mitglieder dieser Sektion berechnet. Die Berechnung erfolgt nach folgendem Schlüssel: </text>
                                 <text language="fr"> Le nombre de délégué·e·s d'une section est calculé en fonction du nombre de membres de cette section. Le calcul se fait selon la clé suivante : </text>
+                                <text language="it"> Il numero dei e delle delegati/e delle delegate di una sezione è calcolato in base al numero dei membri di tale sezione. Il calcolo viene effettuato secondo il seguente criterio: </text>
                                 <letters>
                                     <letter>
                                         <text language="de"> bis 1’000 Mitglieder: eine delegierte Person; </text>
                                         <text language="fr"> jusqu'à 1 000 membres : une personne déléguée ; </text>
+                                        <text language="it"> fino a 1'000 membri: un delegato; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> zwischen 1’001 und 2’500 Mitglieder: zwei delegierte Personen; </text>
                                         <text language="fr"> entre 1'001 et 2'500 membres : deux personnes déléguées ; </text>
+                                        <text language="it"> tra 1'001 e 2'500 membri: due delegati/e ; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> zwischen 2’501 und 5’000 Mitglieder: drei delegierte Personen; </text>
                                         <text language="fr"> entre 2'501 et 5'000 membres : trois personnes déléguées ; </text>
+                                        <text language="it"> tra 2'501 e 5'000 membri: tre delegati/e ; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> zwischen 5’001 und 7’500 Mitglieder: vier delegierte Personen; </text>
                                         <text language="fr"> entre 5'001 et 7'500 membres : quatre personnes déléguées ; </text>
+                                        <text language="it"> tra 5'001 e 7'500 membri: quattro delegati/e ; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> zwischen 7’501 und 10’000 Mitglieder: fünf delegierte Personen; </text>
                                         <text language="fr"> entre 7'501 et 10'000 membres : cinq personnes déléguées ; </text>
+                                        <text language="it"> tra 7'501 e 10'000 membri: cinque delegati/e ; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> zwischen 10’001 und 15’000 Mitglieder: sechs delegierte Personen; </text>
                                         <text language="fr"> entre 10'001 et 15'000 membres : six personnes déléguées ; </text>
+                                        <text language="it"> tra 10 001 e 15 000 membri: sei delegati/e; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> zwischen 15’001 und 20’000 Mitglieder: sieben delegierte Personen; </text>
                                         <text language="fr"> entre 15'001 et 20'000 membres : sept personnes déléguées ; </text>
+                                        <text language="it"> tra 15 001 e 20 000 membri: sette delegati/e; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> über 20’000 Mitglieder: acht delegierte Personen. </text>
                                         <text language="fr"> plus de 20 000 membres : huit personnes déléguées. </text>
+                                        <text language="it"> oltre 20 000 membri: otto delegati/e. </text>
                                     </letter>
                                 </letters>
                             </paragraph>
                             <paragraph>
                                 <text language="de"> Für die Anzahl Mitglieder ist die Definition nach Art. 12 des Mitgliedschaftsreglement, massgebend. </text>
                                 <text language="fr"> Le nombre de membres est déterminé selon la définition de l'art. 12 du règlement d'adhésion. </text>
+                                <text language="it"> Per il numero dei membri fa fede la definizione di cui all'art. 12 del regolamento di adesione. </text>
                             </paragraph>
                             <paragraph>
                                 <text language="de"> Weiter nehmen als Beobachtende an der Delegiertenversammlung folgende Personen teil: </text>
                                 <text language="fr"> En outre, les personnes suivantes participent à l'Assemblée des délégué·e·s en tant qu'observateur·trice·s : </text>
+                                <text language="it"> Inoltre, partecipano all' assemblea dei e delle delegati/e in qualità di osservatori le seguenti persone: </text>
                                 <letters>
                                     <letter>
                                         <text language="de"> die Mitglieder des VSS-Vorstands; </text>
                                         <text language="fr"> les membres du Comité exécutif ; </text>
+                                        <text language="it"> le persone membri del Comitato direttivo dell'UNES; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> die Mitglieder der GPK; </text>
                                         <text language="fr"> les membres de la CdC ; </text>
+                                        <text language="it"> le persone membri della Commissione di gestione; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> die Mitglieder der Finanzkommission; </text>
                                         <text language="fr"> les membres de la Commission des finances ; </text>
+                                        <text language="it"> le persone membri della Commissione finanziaria; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> die Mitglieder der thematischen Kommissionen; </text>
                                         <text language="fr"> les membres des commissions thématiques ; </text>
+                                        <text language="it"> le persone membri delle commissioni tematiche; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> das SR-Präsidium; </text>
                                         <text language="fr"> la présidence du CS ; </text>
+                                        <text language="it"> la Presidenza del Consiglio degli studenti; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> die Repräsentanten der assoziierten Mitglieder; </text>
                                         <text language="fr"> les représentants membres associés ; </text>
+                                        <text language="it"> le persone rappresentanti dei membri associati; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> das Generalsekretariat. </text>
                                         <text language="fr"> les membres du Secrétariat général. </text>
+                                        <text language="it"> il Segretariato generale. </text>
                                     </letter>
                                 </letters>
                             </paragraph>
                         </paragraphs>
                     </article>
-                    <article title_de="DV-Reglement" title_fr="Règlement de l'AD">
+                    <article title_de="DV-Reglement" title_fr="Règlement de l'AD" title_it="Regolamento dell'assemblea dei e delle delegati/e">
                         <paragraphs>
                             <paragraph>
                                 <text language="de"> Alle weiteren Bestimmungen regelt die Delegiertenversammlung selbstständig im <quote>Reglement über die Delegiertenversammlung</quote>, nachfolgend <quote>DV-Reglement</quote> genannt. </text>
                                 <text language="fr"> Toutes les autres dispositions sont réglées de manière autonome par l'Assemblée des délégué·e·s dans le <quote>Règlement de l'Assemblée des délégué·e·s</quote>, ci-après dénommé <quote>Règlement de l'AD</quote>. </text>
+                                <text language="it"> Tutte le altre disposizioni sono regolate autonomamente dall'assemblea dei e delle delegati/e nel «Regolamento dell'assemblea dei e delle delegati/e », di seguito denominato «Regolamento AD». </text>
                             </paragraph>
                             <paragraph>
                                 <text language="de"> Dieses enthält mindestens Angaben zu: </text>
                                 <text language="fr"> Celui-ci contient au moins des précisions sur: </text>
+                                <text language="it"> Esso contiene almeno le seguenti informazioni: </text>
                                 <letters>
                                     <letter>
                                         <text language="de"> Zusammensetzung; </text>
                                         <text language="fr"> la composition ; </text>
+                                        <text language="it"> composizione; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> Beschlussfindung und; </text>
                                         <text language="fr"> la prise de décision et ; </text>
+                                        <text language="it"> processo decisionale e; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> materiellen Kompetenzen. </text>
                                         <text language="fr"> les compétences matérielles. </text>
+                                        <text language="it"> competenze materiali. </text>
                                     </letter>
                                 </letters>
                             </paragraph>
@@ -442,45 +533,53 @@
                     </article>
                 </articles>
             </subsubsection>
-            <subsubsection title_de="Sektionsrat (SR)" title_fr="Conseil des sections (CS)">
+            <subsubsection title_de="Sektionsrat (SR)" title_fr="Conseil des sections (CS)" title_it="Consiglio di sezione (CS)">
                 <articles>
-                    <article title_de="Definition" title_fr="Définition">
+                    <article title_de="Definition" title_fr="Définition" title_it="Definizione">
                         <paragraphs>
                             <paragraph>
                                 <text language="de"> Der Sektionsrat, abgekürzt “SR”, ist im Rahmen der ihm durch das Sektionsratsreglement zugesprochenen Kompetenzen befugt, über bestimmte Belange des VSS zu entscheiden. </text>
                                 <text language="fr"> Le Conseil des sections, abrégé <quote>CS</quote>, est habilité, dans le cadre des compétences qui lui sont attribuées par le règlement du Conseil des sections, à prendre des décisions concernant certains intérêts de l'UNES. </text>
+                                <text language="it"> Il Consiglio di Sezione, abbreviato in «CS», è autorizzato, nell'ambito delle competenze attribuitegli dal Regolamento del Consiglio di Sezione, a decidere in merito a determinate questioni dell'USU. </text>
                             </paragraph>
                             <paragraph>
                                 <text language="de"> Der Sektionsrat übt im Rahmen des Tagesgeschäfts die legislative Kontrolle über die Verbandstätigkeit aus. </text>
                                 <text language="fr"> Le Conseil des sections exerce un contrôle législatif sur les activités de l'association dans le cadre de la gestion quotidienne. </text>
+                                <text language="it"> Il Consiglio di Sezione esercita il controllo legislativo sull'attività dell'associazione nell'ambito delle attività quotidiane. </text>
                             </paragraph>
                             <paragraph>
                                 <text language="de"> Der Sektionsrat fördert Information und Zusammenarbeit zwischen den Mitgliedern und den Organen des VSS sowie zwischen den Mitgliedern untereinander. </text>
                                 <text language="fr"> Le Conseil des sections encourage l'information et la collaboration entre les membres et les organes de l'UNES ainsi qu'entre les membres. </text>
+                                <text language="it"> Il Consiglio di sezione promuove l'informazione e la collaborazione tra i membri e gli organi dell'USU, nonché tra i membri stessi. </text>
                             </paragraph>
                         </paragraphs>
                     </article>
-                    <article title_de="Sektionsrat-Reglement" title_fr="Règlement du Conseil des sections">
+                    <article title_de="Sektionsrat-Reglement" title_fr="Règlement du Conseil des sections" title_it="Regolamento del Consiglio di sezione">
                         <paragraphs>
                             <paragraph>
                                 <text language="de"> Die Delegiertenversammlung erlässt das <quote>Reglement über den Sektionsrat</quote>, nachfolgend <quote>Sektionsratsreglement</quote> genannt. </text>
                                 <text language="fr"> L'Assemblée des délégué·e·s édicte le <quote>Règlement du Conseil des sections</quote>, ci-après dénommé <quote>Règlement du CS</quote>. </text>
+                                <text language="it"> L'assemblea dei e delle delegati/e emana il «Regolamento del Consiglio di sezione», di seguito denominato «Regolamento del Consiglio di sezione». </text>
                             </paragraph>
                             <paragraph>
                                 <text language="de"> Dieses enthält mindestens Angaben zu: </text>
                                 <text language="fr"> Celui-ci contient au moins des précisions sur: </text>
+                                <text language="it"> Esso contiene almeno le seguenti informazioni: </text>
                                 <letters>
                                     <letter>
                                         <text language="de"> Zusammensetzung; </text>
                                         <text language="fr"> la composition ; </text>
+                                        <text language="it"> composizione; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> Beschlussfindung und; </text>
                                         <text language="fr"> la prise de décision et ; </text>
+                                        <text language="it"> processo decisionale e; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> materiellen Kompetenzen. </text>
                                         <text language="fr"> les compétences matérielles. </text>
+                                        <text language="it"> competenze materiali. </text>
                                     </letter>
                                 </letters>
                             </paragraph>
@@ -488,37 +587,44 @@
                     </article>
                 </articles>
             </subsubsection>
-            <subsubsection title_de="Finanzkommission (CoFi)" title_fr="Commission des finances (CoFi)">
+            <subsubsection title_de="Finanzkommission (CoFi)" title_fr="Commission des finances (CoFi)" title_it="Commissione finanziaria (CoFi)">
                 <articles>
-                    <article title_de="Definition" title_fr="Définition">
+                    <article title_de="Definition" title_fr="Définition" title_it="Definizione">
                         <text language="de"> Die Finanzkommission, abgekürzt “CoFi”, ist für die strategische Budget- und Finanzplanung sowie für die kontinuierliche Überwachung der Finanzen des VSS verantwortlich. </text>
                         <text language="fr"> La Commission des finances, abrégé <quote>CoFi</quote>, est responsable de la planification stratégique du budget et des finances ainsi que de la surveillance continue des finances de l'UNES. </text>
+                        <text language="it"> La commissione finanziaria, abbreviata in «CoFi», è responsabile della pianificazione strategica del bilancio e delle finanze, nonché del monitoraggio continuo delle finanze dell'USU. </text>
                     </article>
-                    <article title_de="Finanzkommissionsreglement" title_fr="Règlement de la Commission des finances">
+                    <article title_de="Finanzkommissionsreglement" title_fr="Règlement de la Commission des finances" title_it="Regolamento della commissione finanziaria">
                         <paragraphs>
                             <paragraph>
                                 <text language="de"> Die Delegiertenversammlung erlässt das <quote>Reglement über die Finanzkommission</quote>, nachfolgend <quote>Finanzkommissionsreglement</quote> genannt. </text>
                                 <text language="fr"> L'Assemblée des délégué·e·s édicte le <quote>Règlement de la Commission des finances</quote>, ci-après dénommé <quote>Règlement de la CoFi</quote>. </text>
+                                <text language="it"> L'assemblea dei e delle delegati/e emana il «Regolamento della commissione finanziaria», di seguito denominato «Regolamento della commissione finanziaria». </text>
                             </paragraph>
                             <paragraph>
                                 <text language="de"> Dieses enthält mindestens Angaben zu: </text>
                                 <text language="fr"> Celui-ci contient au moins des précisions sur : </text>
+                                <text language="it"> Esso contiene almeno le seguenti informazioni: </text>
                                 <letters>
                                     <letter>
                                         <text language="de"> Zusammensetzung; </text>
                                         <text language="fr"> la composition ; </text>
+                                        <text language="it"> composizione; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> Beschlussfindung; </text>
                                         <text language="fr"> la prise de décision ; </text>
+                                        <text language="it"> processo decisionale; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> materiellen Kompetenzen und; </text>
                                         <text language="fr"> les compétences matérielles et ; </text>
+                                        <text language="it"> competenze materiali e; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> Berichterstattung. </text>
                                         <text language="fr"> les rapports. </text>
+                                        <text language="it"> rendicontazione. </text>
                                     </letter>
                                 </letters>
                             </paragraph>
@@ -526,37 +632,44 @@
                     </article>
                 </articles>
             </subsubsection>
-            <subsubsection title_de="Vorstand" title_fr="Comité exécutif">
+            <subsubsection title_de="Vorstand" title_fr="Comité exécutif" title_it="Consiglio direttivo">
                 <articles>
-                    <article title_de="Definition" title_fr="Définition">
+                    <article title_de="Definition" title_fr="Définition" title_it="Definizione">
                         <text language="de"> Der VSS-Vorstand leitet als Exekutive den VSS. Er führt die Geschäfte des VSS und vollzieht die von der Delegiertenversammlung und dem Sektionsrat gefassten Beschlüsse. </text>
                         <text language="fr"> Le Comité exécutif de l'UNES dirige l'UNES en qualité de pouvoir exécutif. Il gère les affaires de l'UNES et exécute les décisions prises par l'Assemblée des délégué·e·s et le Conseil des sections. </text>
+                        <text language="it"> Il Comitato direttivo dell'USU gestisce l'USU in qualità di organo esecutivo. Gestisce gli affari dell'USU e attua le decisioni prese dall'assemblea dei e delle delegati/e e dal Consiglio delle sezioni. </text>
                     </article>
-                    <article title_de="Vorstandsreglement" title_fr="Règlement du Comité exécutif">
+                    <article title_de="Vorstandsreglement" title_fr="Règlement du Comité exécutif" title_it="Regolamento del Comitato direttivo">
                         <paragraphs>
                             <paragraph>
                                 <text language="de"> Die Delegiertenversammlung erlässt das <quote>Reglement über den VSS-Vorstand</quote>, nachfolgend <quote>Vorstandsreglement</quote> genannt. </text>
                                 <text language="fr"> L'Assemblée des délégué·e·s édicte le <quote>Règlement du Comité exécutif de l'UNES</quote>, ci-après dénommé <quote>Règlement du Comité</quote>. </text>
+                                <text language="it"> L’assemblea dei e delle delegati/e approva il «Regolamento del Comitato direttivo dell'USU», di seguito denominato «Regolamento del Comitato direttivo». </text>
                             </paragraph>
                             <paragraph>
                                 <text language="de"> Dieses enthält mindestens Angaben zu : </text>
                                 <text language="fr"> Celui-ci contient au moins des précisions sur: </text>
+                                <text language="it"> Esso contiene almeno le seguenti informazioni: </text>
                                 <letters>
                                     <letter>
                                         <text language="de"> Zusammensetzung; </text>
                                         <text language="fr"> la composition ; </text>
+                                        <text language="it"> composizione; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> Beschlussfindung; </text>
                                         <text language="fr"> la prise de décision ; </text>
+                                        <text language="it"> processo decisionale; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> materiellen Kompetenzen und; </text>
                                         <text language="fr"> les compétences matérielles et ; </text>
+                                        <text language="it"> competenze materiali e; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> Berichterstattung. </text>
                                         <text language="fr"> les rapports. </text>
+                                        <text language="it"> rendicontazione. </text>
                                     </letter>
                                 </letters>
                             </paragraph>
@@ -564,37 +677,44 @@
                     </article>
                 </articles>
             </subsubsection>
-            <subsubsection title_de="Thematische Kommissionen" title_fr="Commissions thématiques">
+            <subsubsection title_de="Thematische Kommissionen" title_fr="Commissions thématiques" title_it="Commissioni tematiche">
                 <articles>
-                    <article title_de="Definition" title_fr="Définition">
+                    <article title_de="Definition" title_fr="Définition" title_it="Definizione">
                         <text language="de"> Die Delegiertenversammlung kann zur Entlastung und Ergänzung des Vorstands für bestimmte Geschäfte eine thematische Kommission einsetzen. </text>
                         <text language="fr"> L'Assemblée des délégué·e·s peut mettre en place des commissions thématiques pour décharger et compléter le Comité exécutif pour des dossiers spécifiques. </text>
+                        <text language="it"> L'assemblea dei e delle delegati/e può istituire una commissione tematica per alleggerire e integrare il Comitato direttivo in determinate attività. </text>
                     </article>
-                    <article title_de="Allgemeines Kommissionsreglement" title_fr="Règlement général des commissions">
+                    <article title_de="Allgemeines Kommissionsreglement" title_fr="Règlement général des commissions" title_it="Regolamento generale delle commissioni">
                         <paragraphs>
                             <paragraph>
                                 <text language="de"> Die Delegiertenversammlung legt die spezifischen Bestimmungen zu den Kommissionen im <quote>Allgemeinen Reglement über die thematischen Kommissionen des VSS</quote>, nachfolgend <quote>Allgemeines Kommissionsreglement</quote> genannt, fest. </text>
                                 <text language="fr"> L'Assemblée des délégué·e·s fixe les dispositions spécifiques relatives aux commissions dans le <quote>Règlement général concernant les commissions thématiques de l'UNES</quote>, ci-après dénommé <quote>Règlement des commissions</quote>. </text>
+                                <text language="it"> L'assemblea dei e delle delegati/e stabilisce le disposizioni specifiche relative alle commissioni nel «Regolamento generale sulle commissioni tematiche dell'USU», di seguito denominato «Regolamento generale delle commissioni». </text>
                             </paragraph>
                             <paragraph>
                                 <text language="de"> Dieses enthält mindestens Angaben zu: </text>
                                 <text language="fr"> Celui-ci contient au moins des précisions sur: </text>
+                                <text language="it"> Questo contiene almeno informazioni su: </text>
                                 <letters>
                                     <letter>
                                         <text language="de"> Zusammensetzung; </text>
                                         <text language="fr"> la composition ; </text>
+                                        <text language="it"> composizione; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> Beschlussfindung; </text>
                                         <text language="fr"> la prise de décision ; </text>
+                                        <text language="it"> processo decisionale; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> materiellen Kompetenzen und; </text>
                                         <text language="fr"> les compétences matérielles et ; </text>
+                                        <text language="it"> competenze materiali e; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> Berichterstattung. </text>
                                         <text language="fr"> les rapports. </text>
+                                        <text language="it"> rendicontazione. </text>
                                     </letter>
                                 </letters>
                             </paragraph>
@@ -602,37 +722,44 @@
                     </article>
                 </articles>
             </subsubsection>
-            <subsubsection title_de="Geschäftsprüfungskommission (GPK)" title_fr="Commission de Contrôle (CdC)">
+            <subsubsection title_de="Geschäftsprüfungskommission (GPK)" title_fr="Commission de Contrôle (CdC)" title_it="Commissione di gestione (CG)">
                 <articles>
-                    <article title_de="Definition" title_fr="Définition">
+                    <article title_de="Definition" title_fr="Définition" title_it="Definizione">
                         <text language="de"> Die Geschäftsprüfungskommission, nachfolgend “GPK” genannt, überwacht die Verbandstätigkeit des VSS. </text>
                         <text language="fr"> La commission de contrôle, ci-après <quote>CdC</quote>, surveille l'activité de l'UNES. </text>
+                        <text language="it"> La commissione di gestione, di seguito denominata «CG», sorveglia l'attività dell'associazione VSS. </text>
                     </article>
-                    <article title_de="GPK-Reglement" title_fr="Règlement de la CdC">
+                    <article title_de="GPK-Reglement" title_fr="Règlement de la CdC" title_it="Regolamento della CG">
                         <paragraphs>
                             <paragraph>
                                 <text language="de"> Die Delegiertenversammlung erlässt das <quote>Reglement über die Geschäftsprüfungskommission</quote>, nachfolgend <quote>GPK-Reglement</quote> genannt. </text>
                                 <text language="fr"> L'Assemblée des délégué·e·s édicte le <quote>Règlement de la Commission de contrôle</quote>, ci-après dénommé <quote>Règlement de la CdC</quote>. </text>
+                                <text language="it"> L'assemblea dei e delle delegati/e emana il «Regolamento della Commissione di gestione», di seguito denominato «Regolamento della CG». </text>
                             </paragraph>
                             <paragraph>
                                 <text language="de"> Dieses enthält mindestens Angaben zu : </text>
                                 <text language="fr"> Celui-ci contient au moins des précisions sur: </text>
+                                <text language="it"> Esso contiene almeno le seguenti informazioni: </text>
                                 <letters>
                                     <letter>
                                         <text language="de"> Zusammensetzung; </text>
                                         <text language="fr"> la composition ; </text>
+                                        <text language="it"> composizione; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> Beschlussfindung; </text>
                                         <text language="fr"> la prise de décision ; </text>
+                                        <text language="it"> processo decisionale; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> materiellen Kompetenzen und; </text>
                                         <text language="fr"> les compétences matérielles et ; </text>
+                                        <text language="it"> competenze materiali e; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> Berichterstattung. </text>
                                         <text language="fr"> les rapports. </text>
+                                        <text language="it"> rendicontazione. </text>
                                     </letter>
                                 </letters>
                             </paragraph>
@@ -641,104 +768,122 @@
                 </articles>
             </subsubsection>
         </subsection>
-        <subsection title_de="Vertretungen" title_fr="Représentations">
+        <subsection title_de="Vertretungen" title_fr="Représentations" title_it="Rappresentanze">
             <articles>
-                <article title_de="Definition" title_fr="Définition">
+                <article title_de="Definition" title_fr="Définition" title_it="Definizione">
                     <text language="de"> Die Vertretungen repräsentieren den VSS im Auftrag des VSS-Vorstands in spezifischen Gremien ausserhalb des Verbands. </text>
                     <text language="fr"> Sur mandat du Comité exécutif de l'UNES, les représentations représentent l'UNES auprès d’entités particulières externes à l'association. </text>
+                    <text language="it"> Le rappresentanze operano per l’USU su incarico del comitato esecutivo dell’USU in specifici organi esterni all’associazione. </text>
                 </article>
-                <article title_de="Vertretungsreglement" title_fr="Règlement des représentation">
+                <article title_de="Vertretungsreglement" title_fr="Règlement des représentation" title_it="Regolamento sulle rappresentanze">
                     <text language="de"> Die Delegiertenversammlung legt die spezifischen Bestimmungen zu den Vertretungen im <quote>Reglement über die Vertretungen des VSS</quote>, nachfolgend <quote>Vertretungsreglement</quote> genannt, fest. </text>
                     <text language="fr"> L'Assemblée des délégué·e·s fixe les dispositions spécifiques relatives aux représentations dans le <quote>Règlement des représentations de l'UNES</quote>, ci-après dénommé <quote>Règlement des représentations</quote>. </text>
+                    <text language="it"> L’assemblea dei e delle delegati/e stabilisce le disposizioni specifiche relative alle rappresentanze nel «Regolamento sulle rappresentanze dell’USU», di seguito denominato «Regolamento sulle rappresentanze». </text>
                 </article>
             </articles>
         </subsection>
-        <subsection title_de="Arbeitsgruppen (AG)" title_fr="Groupes de travail (GT)">
+        <subsection title_de="Arbeitsgruppen (AG)" title_fr="Groupes de travail (GT)" title_it="Gruppi di lavoro (GL)">
             <articles>
-                <article title_de="Definition" title_fr="Définition">
+                <article title_de="Definition" title_fr="Définition" title_it="Definizione">
                     <text language="de"> Die Delegiertenversammlung kann zeitlich begrenzte Arbeitsgruppen, abgekürzt “AG”, einsetzen. </text>
                     <text language="fr"> L'Assemblée des délégués peut créer des groupes de travail temporaires, abrégés <quote> GT </quote>. </text>
+                    <text language="it"> L’assemblea dei e delle delegati/e può istituire dei gruppi di lavoro a tempo determinato, abbreviati con «GL». </text>
                 </article>
-                <article title_de="Pflichtenheft" title_fr="Cahier des charges">
+                <article title_de="Pflichtenheft" title_fr="Cahier des charges" title_it="Capitolato d’oneri">
                     <text language="de"> Die Delegiertenversammlung legt weitere Bestimmungen zu jeder Arbeitsgruppe in einem Pflichtenheft fest. Dieses enthält mindestens Angaben zu: </text>
                     <text language="fr"> L'Assemblée des délégué·e·s fixe des dispositions supplémentaires pour chaque groupe de travail dans un cahier des charges. Celui-ci contient au moins des précisions sur: </text>
+                    <text language="it"> L’assemblea dei e delle delegati/e stabilisce ulteriori disposizioni relative a ciascun gruppo di lavoro in un capitolato d’oneri. Esso contiene almeno le seguenti informazioni: </text>
                     <letters>
                         <letter>
                             <text language="de"> Laufzeit; </text>
                             <text language="fr"> la durée de fonctionnement ; </text>
+                            <text language="it"> durata; </text>
                         </letter>
                         <letter>
                             <text language="de"> Zusammensetzung; </text>
                             <text language="fr"> la composition ; </text>
+                            <text language="it"> composizione; </text>
                         </letter>
                         <letter>
                             <text language="de"> Auftrag; </text>
                             <text language="fr"> le mandat ; </text>
+                            <text language="it"> mandato; </text>
                         </letter>
                         <letter>
                             <text language="de"> Berichterstattung. </text>
                             <text language="fr"> les Rapports. </text>
+                            <text language="it"> redazione del rapporto. </text>
                         </letter>
                     </letters>
                 </article>
             </articles>
         </subsection>
-        <subsection title_de="Geschäftsstelle" title_fr="Administration">
-            <subsubsection title_de="Allgemeines" title_fr="Généralités">
+        <subsection title_de="Geschäftsstelle" title_fr="Administration" title_it="Ufficio">
+            <subsubsection title_de="Allgemeines" title_fr="Généralités" title_it="Informazioni generali">
                 <articles>
-                    <article title_de="Definition" title_fr="Définition">
+                    <article title_de="Definition" title_fr="Définition" title_it="Definizione">
                         <paragraphs>
                             <paragraph>
                                 <text language="de"> Die Geschäftsstelle unterstützt den VSS-Vorstand in administrativen Belangen und bei Projekten. </text>
                                 <text language="fr"> L’administration soutient le comité de l'UNES dans les questions administratives et dans les projets. </text>
+                                <text language="it"> La segreteria sostiene il comitato dell'USU nelle questioni amministrative e nei progetti. </text>
                             </paragraph>
                             <paragraph>
                                 <text language="de"> Sie wird vom Generalsekretariat geleitet. </text>
                                 <text language="fr"> Elle est dirigée par le Secrétariat général. </text>
+                                <text language="it"> È diretta dal segretariato generale. </text>
                             </paragraph>
                         </paragraphs>
                     </article>
-                    <article title_de="Anstellungen" title_fr="Engagement">
+                    <article title_de="Anstellungen" title_fr="Engagement" title_it="Assunzioni">
                         <paragraphs>
                             <paragraph>
                                 <text language="de"> Die Geschäftsstelle besteht aus Mitarbeitenden. </text>
                                 <text language="fr"> L’administration se compose de collaborateur·trice·s. </text>
+                                <text language="it"> La segreteria è composta da collaboratori. </text>
                             </paragraph>
                             <paragraph>
                                 <text language="de"> Die Mitglieder des Generalsekretariats sind die direkten Vorgesetzten sämtlicher Mitarbeitenden des VSS. </text>
                                 <text language="fr"> Les membres du Secrétariat général sont les supérieurs directs de tous les collaborateur-rices de l'UNES. </text>
+                                <text language="it"> I membri del segretariato generale sono i superiori diretti di tutti i collaboratori dell'USU. </text>
                             </paragraph>
                         </paragraphs>
                     </article>
-                    <article title_de="Anstellungsreglement" title_fr="Règlement d’engagement">
+                    <article title_de="Anstellungsreglement" title_fr="Règlement d’engagement" title_it="Regolamento di assunzione">
                         <text language="de"> Die Delegiertenversammlung legt die spezifischen Bestimmungen zur Anstellung von Mitarbeitenden im <quote>Reglement über die Anstellungen des VSS</quote>, nachfolgend <quote>Anstellungsreglement</quote> genannt, fest. </text>
                         <text language="fr"> L'Assemblée des délégué·e·s fixe les dispositions particulières relatives à l'engagement des collaborateur-rices dans le <quote>Règlement relatif aux engagements de l'UNES</quote>, ci-après <quote>Règlement d’engagement</quote>. </text>
+                        <text language="it"> L'Assemblea dei e delle delegati/e stabilisce le disposizioni specifiche relative all'assunzione dei collaboratori nel «Regolamento sulle assunzioni dell'USU», di seguito denominato «Regolamento di assunzione». </text>
                     </article>
                 </articles>
             </subsubsection>
-            <subsubsection title_de="Generalsekretariat" title_fr="Secrétariat général">
+            <subsubsection title_de="Generalsekretariat" title_fr="Secrétariat général" title_it="Segreteria generale">
                 <articles>
-                    <article title_de="Definition" title_fr="Définition">
+                    <article title_de="Definition" title_fr="Définition" title_it="Definizione">
                         <text language="de"> Dem Generalsekretariat, abgekürzt “GS”, obliegt die operative Verbandsführung nach Vorgaben des Vorstands. </text>
                         <text language="fr"> Le Secrétariat général, abrégé <quote>SG</quote>, est chargé de la gestion opérationnelle de l'association selon les directives du Comité exécutif. </text>
+                        <text language="it"> La Segreteria generale, abbreviata in «SG», è responsabile della gestione operativa dell'associazione secondo le direttive del Comitato direttivo. </text>
                     </article>
-                    <article title_de="GS-Reglement" title_fr="Règlement du SG">
+                    <article title_de="GS-Reglement" title_fr="Règlement du SG" title_it="Regolamento SG">
                         <paragraphs>
                             <paragraph>
                                 <text language="de"> Die Delegiertenversammlung legt die spezifischen Bestimmungen zum Generalsekretariat im <quote>Reglement über das Generalsekretariat des VSS</quote>, nachfolgend <quote>GS-Reglement</quote> genannt, fest. </text>
                                 <text language="fr"> L'Assemblée des délégué·e·s fixe les dispositions particulières relatives au Secrétariat général dans le <quote>Règlement du Secrétariat général de l'UNES</quote>, ci-après dénommé <quote>Règlement du SG</quote>. </text>
+                                <text language="it"> L'Assemblea dei e delle delegati/e stabilisce le disposizioni specifiche relative al Segretariato generale nel «Regolamento sul Segretariato generale dell'USU», di seguito denominato «Regolamento SG». </text>
                             </paragraph>
                             <paragraph>
                                 <text language="de"> Es enthält mindestens Angaben: </text>
                                 <text language="fr"> Celui-ci contient au moins des précisions sur: </text>
+                                <text language="it"> Esso contiene almeno le seguenti informazioni: </text>
                                 <letters>
                                     <letter>
                                         <text language="de"> zur Zusammensetzung und; </text>
                                         <text language="fr"> la composition et ; </text>
+                                        <text language="it"> sulla composizione e; </text>
                                     </letter>
                                     <letter>
                                         <text language="de"> dessen Aufgaben. </text>
                                         <text language="fr"> les tâches. </text>
+                                        <text language="it"> sui compiti. </text>
                                     </letter>
                                 </letters>
                             </paragraph>
@@ -748,105 +893,123 @@
             </subsubsection>
         </subsection>
     </section>
-    <section title_de="Präzisierung der Statuten und Revisionsbestimmungen" title_fr="Précision des statuts et des dispositions relatives à la révision">
+    <section title_de="Präzisierung der Statuten und Revisionsbestimmungen" title_fr="Précision des statuts et des dispositions relatives à la révision" title_it="Precisazione sugli statuti e disposizioni per la revisione">
         <articles>
-            <article title_de="Präzisierung der Statuten" title_fr="Précision des statuts">
+            <article title_de="Präzisierung der Statuten" title_fr="Précision des statuts" title_it="Precisazione sugli statuti">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Zur Präzisierung der vorliegenden Statuten können Reglemente erlassen werden. Reglemente sind im gleichen Masse verbindlich wie die vorliegenden Statuten. </text>
                         <text language="fr"> Des règlements peuvent être édictés pour préciser les présents statuts. Les règlements sont tout autant contraignants que les présents statuts. </text>
+                        <text language="it"> Per precisare i presenti statuti possono essere emanati dei regolamenti. I regolamenti sono vincolanti nella stessa misura dei presenti statuti. </text>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Reglemente können einzig von der Delegiertenversammlung erlassen werden. </text>
                         <text language="fr"> Les règlements ne peuvent être édictés que par l'Assemblée des délégué·e·s. </text>
+                        <text language="it"> I regolamenti possono essere emanati solo dall’assemblea dei e delle delegati/e. </text>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Sie bedürfen einer expliziten Grundlage in den Statuten oder einem anderen Reglement. </text>
                         <text language="fr"> Ils nécessitent un fondement explicite dans les statuts ou un autre règlement. </text>
+                        <text language="it"> Essi devono avere una base esplicita negli statuti o in un altro regolamento. </text>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Reglemente dürfen den Statuten und anderen Reglementen nicht widersprechen. Im Zweifelsfall gehen die Statuten dem Reglement vor. </text>
                         <text language="fr"> Les règlements ne doivent pas être en contradiction avec les statuts et les autres règlements. En cas de doute, les statuts prévalent sur le règlement. </text>
+                        <text language="it"> I regolamenti non possono contraddire gli statuti e gli altri regolamenti. In caso di dubbio, gli statuti prevalgono sul regolamento. </text>
                     </paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Änderung der Statuten" title_fr="Modification des statuts">
+            <article title_de="Änderung der Statuten" title_fr="Modification des statuts" title_it="Modifica degli statuti">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Änderungen an den Statuten werden, mit Ausnahme von Art. 43, von der Delegiertenversammlung mit Zweidrittelmehrheit genehmigt. </text>
                         <text language="fr"> Les modifications des statuts, à l'exception de l'art. 43, sont approuvées par l'Assemblée des délégué·e·s à la majorité des deux tiers. </text>
+                        <text language="it"> Tutte le modifiche agli statuti, ad eccezione dell’art. 43, vengono approvate dall’assemblea dei e delle delegati/e con una maggioranza di due terzi. </text>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Über jeden Artikel wird auf Verlangen einzeln mit absolutem Mehr abgestimmt, die gesamten Änderungen unterliegen sodann einer Schlussabstimmung mit Zweidrittelmehrheit. </text>
                         <text language="fr"> Sur demande, chaque article est voté séparément à la majorité absolue, l'ensemble des modifications étant ensuite soumis à un vote final à la majorité des deux tiers. </text>
+                        <text language="it"> Su richiesta, ogni articolo è votato singolarmente a maggioranza assoluta, mentre tutte le modifiche vengono poi sottoposte ad una votazione finale che richiede una maggioranza dei due terzi. </text>
                     </paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Reglemente auf Grundlage der Statuten" title_fr="Règlements basés sur les statuts">
+            <article title_de="Reglemente auf Grundlage der Statuten" title_fr="Règlements basés sur les statuts" title_it="Regolamenti basati sugli statuti">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Alle Reglemente, welche die Delegiertenversammlung auf Grundlage der vorliegenden Statuten erlässt, werden mit einer Zweidrittelmehrheit genehmigt. </text>
                         <text language="fr"> Tous les règlements édictés par l'Assemblée des délégué·e·s sur la base des présents statuts sont approuvés à la majorité des deux tiers. </text>
+                        <text language="it"> Tutti i regolamenti emanati dall’assemblea dei e delle delegati/e sulla base dei presenti statuti sono approvati a maggioranza dei due terzi. </text>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Über jeden Artikel wird auf Verlangen einzeln mit absolutem Mehr abgestimmt, die gesamten Änderungen unterliegen sodann einer Schlussabstimmung mit Zweidrittelmehrheit. </text>
                         <text language="fr"> Sur demande, chaque article est voté séparément à la majorité absolue, l'ensemble des modifications étant ensuite soumis à un vote final à la majorité des deux tiers. </text>
+                        <text language="it"> Su richiesta, ogni articolo è votato singolarmente a maggioranza assoluta, mentre tutte le modifiche vengono poi sottoposte ad una votazione finale che richiede una maggioranza dei due terzi. </text>
                     </paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Publizierung" title_fr="Publication">
+            <article title_de="Publizierung" title_fr="Publication" title_it="Pubblicazione">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Die Statuten und Reglemente werden auf geeignetem Weg auf Deutsch, Französisch und Italienisch publiziert. </text>
                         <text language="fr"> Les statuts et les règlements sont publiés par les voies appropriées en allemand, en français et en italien. </text>
+                        <text language="it"> Gli statuti e i regolamenti sono pubblicati in modo idoneo in tedesco, francese e italiano. </text>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Einzig die deutsche Fassung der Statuten und Reglemente ist rechtlich bindend. </text>
                         <text language="fr"> Seule la version allemande des statuts et des règlements fait juridiquement foi. </text>
+                        <text language="it"> Solo la versione tedesca degli statuti e dei regolamenti è giuridicamente vincolante. </text>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Die Geschäftsstelle ist für die Übersetzungen auf Französisch und Italienisch verantwortlich. Diese müssen laufend aktualisiert werden, um der deutschen Fassung zu entsprechen. </text>
                         <text language="fr"> L’administration est responsable des traductions en français et en italien. Celles-ci doivent être actualisées en continu afin de correspondre à la version allemande. </text>
+                        <text language="it"> L’ufficio è responsabile delle traduzioni in francese e italiano. Queste devono essere aggiornate costantemente per conformarsi alla versione tedesca. </text>
                     </paragraph>
                 </paragraphs>
             </article>
         </articles>
     </section>
-    <section title_de="Schlussbestimmungen" title_fr="Dispositions finales">
+    <section title_de="Schlussbestimmungen" title_fr="Dispositions finales" title_it="Disposizioni finali">
         <articles>
-            <article title_de="Auflösung" title_fr="Dissolution et fusion">
+            <article title_de="Auflösung" title_fr="Dissolution et fusion" title_it="Dissoluzione">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Die Delegiertenversammlung kann mit einer Dreiviertelmehrheit die Auflösung des VSS beschliessen. </text>
                         <text language="fr"> L'Assemblée des délégué·e·s peut décider de la dissolution de l'UNES à la majorité des trois quarts. </text>
+                        <text language="it"> L’assemblea dei e delle delegati/e può decidere la dissoluzione dell’USU con una maggioranza di tre quarti. </text>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Bei Auflösung des VSS werden die Verbandsakten gesichtet und gebunden dem Bundesarchiv vermacht. </text>
                         <text language="fr"> En cas de dissolution de l'UNES, les dossiers de l'association sont triés et reliés pour être légués aux Archives fédérales. </text>
+                        <text language="it"> In caso di dissoluzione dell’USU, gli atti dell’associazione vengono esaminati e consegnati rilegati all’Archivio federale. </text>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Das Verbandsvermögen wird einer aufgrund Gemeinnützigkeit oder öffentlichen Zwecks steuerbefreiten juristischen Person mit Sitz in der Schweiz vermacht. Die Delegiertenversammlung bestimmt, an welche juristische Person. </text>
                         <text language="fr"> La fortune de l'association est léguée à une personne morale, déterminée par l'Assemblée des délégué·e·s, ayant son siège en Suisse et exonérée d'impôts en raison de son utilité publique ou de son but public. </text>
+                        <text language="it"> Il patrimonio dell’associazione viene devoluto a una persona giuridica con sede in Svizzera esente da imposte per motivi di utilità pubblica o di interesse pubblico. L’assemblea dei e delle delegati/e decide a quale persona giuridica. </text>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Im Falle einer Fusion mit einem anderen Verband kann diese nur mit einem anderen wegen Gemeinnützigkeit oder öffentlichen Zwecks von der Steuerpflicht befreiten juristischen Person mit Sitz in der Schweiz erfolgen. </text>
                         <text language="fr"> En cas de fusion avec une autre association, celle-ci ne peut se faire qu'avec une autre personne morale exemptée d'impôts en raison de son utilité publique ou de son but public et ayant son siège en Suisse. </text>
+                        <text language="it"> In caso di fusione con un’altra associazione, questa può avvenire solo con un’altra persona giuridica con sede in Svizzera esente da imposte per motivi di utilità pubblica o di interesse pubblico. </text>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Änderungen am vorliegenden Artikel benötigen in Abweichung zu den Bestimmungen in Art. 40 eine Dreiviertelmehrheit der Delegiertenversammlung. </text>
                         <text language="fr"> Les modifications du présent article nécessitent, en dérogation aux dispositions de l'art. 40, une majorité des trois quarts de l'Assemblée des délégué·e·s. </text>
+                        <text language="it"> Le modifiche al presente articolo richiedono, in deroga alle disposizioni dell’art. 40, una maggioranza dei tre quarti dell’assemblea dei e delle delegati/e. </text>
                     </paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Version" title_fr="Version">
+            <article title_de="Version" title_fr="Version" title_it="Versione">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Diese Statuten wurden der 184. Delegiertenversammlung einer Totalrevision unterzogen und genehmigt. </text>
                         <text language="fr"> Ces statuts ont été soumis à une révision totale et approuvés par la 184e Assemblée des délégué·e·s. </text>
+                        <text language="it"> I presenti statuti sono stati sottoposti a revisione totale e approvati dalla 184a assemblea dei e delle delegati/e. </text>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Sie ersetzen die Statuten von 2014 und treten am 01.01.2025 in Kraft. </text>
                         <text language="fr"> Ils remplacent les statuts de 2014 et entrent en vigueur le 01.01.2025. </text>
+                        <text language="it"> Essi sostituiscono gli statuti del 2014 ed entreranno in vigore il 1° gennaio 2025. </text>
                     </paragraph>
                 </paragraphs>
             </article>

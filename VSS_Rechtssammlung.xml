@@ -1,5 +1,6 @@
 <bylaws title_de="VSS Rechtssammlung"
 	title_fr="Recueil des Règlements de l'UNES"
+	title_it="Raccolta giuridica dell’USU"
 	xmlns:xi="http://www.w3.org/2001/XInclude">
 	<xi:include href="01.xml" />
 	<xi:include href="11.xml" />

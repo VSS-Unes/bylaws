@@ -1,4 +1,5 @@
-<regulation id="22.04" title_de="Auftrag der Sozialkommission" short_de="SoKo-Auftrag" title_fr="Mandat de la Commission pour les affaires sociales" short_fr="Mandat de la SoKo" original_implementation_date="2025-01-01">
+<?xml version='1.0' encoding='utf-8'?>
+<regulation id="22.04" original_implementation_date="2025-01-01" short_de="SoKo-Auftrag" short_fr="Mandat de la SoKo" short_it="Incarico SoKo" title_de="Auftrag der Sozialkommission" title_fr="Mandat de la Commission pour les affaires sociales" title_it="Incarico della commissione sociale">
 <preamble>
 <text language="de">
 Die 184. Delegiertenversammlung, gestützt auf Art. 3 des Gremienreglements über die thematischen Kommissionen im VSS, beschliesst:
@@ -6,24 +7,24 @@ Die 184. Delegiertenversammlung, gestützt auf Art. 3 des Gremienreglements übe
 <text language="fr">
 La 184e Assemblée des délégué·e·s, se fondant sur l'art. 3 du Règlement concernant les commissions thématiques au sein de l'UNES, décide:
 </text>
-</preamble>
+<text language="it"> La 184a assemblea dei e delle delegati/e, in base all’art. 3 del regolamento degli organi sulle commissioni tematiche dell’USU, decide: </text></preamble>
 <articles>
-<article title_de="Definition" title_fr="Définition">
+<article title_de="Definition" title_fr="Définition" title_it="Definizione">
 <text language="de">
 Unter dem Namen “Sozialkommission”, abgekürzt “SoKo”, besteht eine thematische Kommission. 
 </text>
 <text language="fr">
 Sous le nom de “ Commission pour les affaires sociales “, abrégé “SoKo”, il est constitué une commission thématique.
 </text>
-</article>
-<article title_de="Zweck" title_fr="Buts">
+<text language="it"> Con il nome «commissione sociale», abbreviato «SoKo», viene creata una commissione tematica. </text></article>
+<article title_de="Zweck" title_fr="Buts" title_it="Scopo">
 <text language="de">
 Die Kommission bezweckt:
 </text>
 <text language="fr">
 La commission a pour but de :
 </text>
-<letters>
+<text language="it"> La commissione ha lo scopo di: </text><letters>
 <letter>
 <text language="de">
 die Verbesserung der finanziellen Lage von Studierenden;
@@ -31,7 +32,7 @@ die Verbesserung der finanziellen Lage von Studierenden;
 <text language="fr">
 d’améliorer la situation financière des étudiant·e·s ;
 </text>
-</letter>
+<text language="it"> migliorare la situazione finanziaria di studenti e studentesse; </text></letter>
 <letter>
 <text language="de">
 die Verbesserung der Wohnsituation von Studierenden;
@@ -39,7 +40,7 @@ die Verbesserung der Wohnsituation von Studierenden;
 <text language="fr">
 d’améliorer les conditions de logement des étudiant·e·s ;
 </text>
-</letter>
+<text language="it"> migliorare le condizioni di alloggio di studenti e studentesse; </text></letter>
 <letter>
 <text language="de">
 die Stärkung der studentischen Partizipation und des Mitspracherechts im Hochschulkontext;
@@ -47,7 +48,7 @@ die Stärkung der studentischen Partizipation und des Mitspracherechts im Hochsc
 <text language="fr">
 de renforcer la participation des étudiant·e·s et leur droit à la parole dans le contexte de l'enseignement supérieur ;
 </text>
-</letter>
+<text language="it"> rafforzare la partecipazione studentesca e il diritto di espressione nel contesto delle scuole superiori. </text></letter>
 <letter>
 <text language="de">
 die Unterstützung von Studierenden in Notlagen.
@@ -55,17 +56,17 @@ die Unterstützung von Studierenden in Notlagen.
 <text language="fr">
 de soutenir les étudiant·e·s en situation de détresse.
 </text>
-</letter>
+<text language="it"> sostenere studenti e studentesse in situazioni d’emergenza. </text></letter>
 </letters>
 </article>
-<article title_de="Arbeitsbereich" title_fr="Domaine d'activité">
+<article title_de="Arbeitsbereich" title_fr="Domaine d'activité" title_it="Aree di competenza">
 <text language="de">
 Die Kommission bearbeitet Themen in den Bereichen:
 </text>
 <text language="fr">
 La commission traite de sujets dans les domaines suivants :
 </text>
-<letters>
+<text language="it"> La commissione tratta tematiche nelle seguenti aree: </text><letters>
 <letter>
 <text language="de">
 Stipendienwesen;
@@ -73,7 +74,7 @@ Stipendienwesen;
 <text language="fr">
 les bourses d'études ;
 </text>
-</letter>
+<text language="it"> borse di studio; </text></letter>
 <letter>
 <text language="de">
 Gleichberechtigung für Menschen mit Beeinträchtigungen;
@@ -81,7 +82,7 @@ Gleichberechtigung für Menschen mit Beeinträchtigungen;
 <text language="fr">
 l’égalité des chances pour les personnes en situation de handicap ;
 </text>
-</letter>
+<text language="it"> parità di diritti per persone con disabilità; </text></letter>
 <letter>
 <text language="de">
 Hochschulzugang;
@@ -89,7 +90,7 @@ Hochschulzugang;
 <text language="fr">
 l’accès à l'enseignement supérieur ;
 </text>
-</letter>
+<text language="it"> accesso all’istruzione superiore; </text></letter>
 <letter>
 <text language="de">
 weitere Bereiche, welche innerhalb ihres Zwecks fallen.
@@ -97,16 +98,16 @@ weitere Bereiche, welche innerhalb ihres Zwecks fallen.
 <text language="fr">
 d'autres domaines qui entrent dans le cadre de ses objectifs.
 </text>
-</letter>
+<text language="it"> ulteriori aree che ricadono nello scopo della commissione. </text></letter>
 </letters>
 </article>
-<article title_de="Inkrafttreten" title_fr="Entrée en vigueur">
+<article title_de="Inkrafttreten" title_fr="Entrée en vigueur" title_it="Entrata in vigore">
 <text language="de">
 Dieser Beschluss tritt am 01.01.2025 in Kraft und gilt bis auf Weiteres.
 </text>
 <text language="fr">
 La présente décision entre en vigueur le 01.01.2025 et reste valable jusqu'à nouvel ordre.
 </text>
-</article>
+<text language="it"> Questa disposizione entra in vigore il 01.01.2025 e rimane in vigore fino a nuovo avviso. </text></article>
 </articles>
 </regulation>

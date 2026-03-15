@@ -1,4 +1,5 @@
-<regulation id="31" title_de="Reglement über die Geschäftsprüfungskommission" short_de="GPK-Reglement" title_fr="Règlement de la Commission de contrôle" short_fr="Règlement de la CdC" original_implementation_date="2025-01-01">
+<?xml version='1.0' encoding='utf-8'?>
+<regulation id="31" original_implementation_date="2025-01-01" short_de="GPK-Reglement" short_fr="Règlement de la CdC" short_it="Regolamento CDG" title_de="Reglement über die Geschäftsprüfungskommission" title_fr="Règlement de la Commission de contrôle" title_it="Regolamento della commissione della gestione">
 <preamble>
 <text language="de">
 Die Delegiertenversammlung, gestützt auf Art. 29 der Statuten, beschliesst:
@@ -6,18 +7,18 @@ Die Delegiertenversammlung, gestützt auf Art. 29 der Statuten, beschliesst:
 <text language="fr">
 L’Assemblée des délégué·e·s, se fondant sur l'art. 29 des Statuts, décide:
 </text>
-</preamble>
-<section title_de="Zusammensetzung" title_fr="Composition">
+<text language="it"> L’assemblea dei e delle delegati/e, in base all’art. 29 degli statuti, decide: </text></preamble>
+<section title_de="Zusammensetzung" title_fr="Composition" title_it="Composizione">
 <articles>
-<article title_de="Mitglieder" title_fr="Membres">
+<article title_de="Mitglieder" title_fr="Membres" title_it="Membri">
 <text language="de">
 Die GPK besteht aus drei Personen.
 </text>
 <text language="fr">
 La CdC est composée de trois personnes.
 </text>
-</article>
-<article title_de="Amtsperiode, Amtszeit" title_fr="Mandat, durée du mandat">
+<text language="it"> La CDG è composta da tre persone. </text></article>
+<article title_de="Amtsperiode, Amtszeit" title_fr="Mandat, durée du mandat" title_it="Mandato, durata del mandato">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -26,7 +27,7 @@ Die reguläre Amtsperiode eines GPK-Mitglieds beträgt zwei Jahre.
 <text language="fr">
 Le mandat régulier d'un membre de la CdC est de deux ans.
 </text>
-</paragraph>
+<text language="it"> Il mandato regolare di un membro della CDG è di due anni. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Anzahl Amtsperioden ist unbegrenzt.
@@ -34,10 +35,10 @@ Die Anzahl Amtsperioden ist unbegrenzt.
 <text language="fr">
 Le nombre de mandats n’est pas limité.
 </text>
-</paragraph>
+<text language="it"> Il numero dei mandati è illimitato. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Wählbarkeit" title_fr="Éligibilité">
+<article title_de="Wählbarkeit" title_fr="Éligibilité" title_it="Eleggibilità">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -46,7 +47,7 @@ Aktive oder ehemalige Mitglieder einer Sektion oder ehemalige aktive Personen im
 <text language="fr">
 Seuls les membres ou anciens membres d'une section ou les anciennes personnes actives au sein de l'UNES sont éligibles pour la CdC.
 </text>
-</paragraph>
+<text language="it"> I membri attivi o ex membri di una sezione o ex membri attivi dell’USU hanno diritto di voto passivo per la CDG. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Mitglieder der GPK dürfen keine weiteren Ämter im Verband übernehmen, oder vom Verband angestellt sein.
@@ -54,10 +55,10 @@ Die Mitglieder der GPK dürfen keine weiteren Ämter im Verband übernehmen, ode
 <text language="fr">
 Les membres de la CdC ne peuvent pas assumer d'autres fonctions au sein de l'association, ni être employés par l'association.
 </text>
-</paragraph>
+<text language="it"> I membri della CDG non sono autorizzati a ricoprire altre cariche all’interno dell’associazione né essere impiegati dall’associazione stessa. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="GPK-Mitglieder ad interim" title_fr="Membres de la CdC par intérim">
+<article title_de="GPK-Mitglieder ad interim" title_fr="Membres de la CdC par intérim" title_it="Membri della CDG ad interim">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -66,7 +67,7 @@ Als GPK-Mitglieder ad interim werden Personen bezeichnet, welche zwischen den Si
 <text language="fr">
 Les membres de la CdC par intérim sont des personnes élues par le Conseil des sections entre les réunions de l'Assemblée des délégué·e·s.
 </text>
-</paragraph>
+<text language="it"> Sono designati membri della CDG ad interim le persone elette dal consiglio delle sezioni tra una riunione e l’altra dell’assemblea dei e delle delegati/e. </text></paragraph>
 <paragraph>
 <text language="de">
 GPK-Mitglieder ad interim haben die gleichen Rechte und Pflichten wie die von der Delgiertenversammlung gewählten GPK-Mitglieder.
@@ -74,14 +75,14 @@ GPK-Mitglieder ad interim haben die gleichen Rechte und Pflichten wie die von de
 <text language="fr">
 Les membres de la CdC par intérim ont les mêmes droits et obligations que les membres de la CdC élus par l'Assemblée des délégué·e·s.
 </text>
-</paragraph>
+<text language="it"> I membri della CDG ad interim hanno gli stessi diritti e doveri dei membri della CDG eletti dall’assemblea dei e delle delegati/e. </text></paragraph>
 </paragraphs>
 </article>
 </articles>
 </section>
-<section title_de="Aufgaben, Zuständigkeiten und Kompetenzen" title_fr="Tâches, responsabilités et compétences">
+<section title_de="Aufgaben, Zuständigkeiten und Kompetenzen" title_fr="Tâches, responsabilités et compétences" title_it="Compiti, responsabilità e competenze">
 <articles>
-<article title_de="Tagesgeschäft" title_fr="Activités quotidiennes">
+<article title_de="Tagesgeschäft" title_fr="Activités quotidiennes" title_it="Attività giornaliere">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -90,7 +91,7 @@ Die GPK verfolgt und überprüft die Geschäfte aller VSS-Organe routinemässig 
 <text language="fr">
 La CdC suit et vérifie de manière routinière les affaires de tous les organes de l'UNES à l'aide des procès-verbaux.
 </text>
-</paragraph>
+<text language="it"> La CDG segue e verifica regolarmente le attività di tutti gli organi dell’USU sulla base dei verbali. </text></paragraph>
 <paragraph>
 <text language="de">
 Sie gewährleistet die korrekte Auslegung von Statuten und Reglementen.
@@ -98,7 +99,7 @@ Sie gewährleistet die korrekte Auslegung von Statuten und Reglementen.
 <text language="fr">
 Elle garantit l'interprétation correcte des statuts et des règlements.
 </text>
-</paragraph>
+<text language="it"> La CDG garantisce la corretta interpretazione degli statuti e dei regolamenti. </text></paragraph>
 <paragraph>
 <text language="de">
 Stellt die GPK Unregelmässigkeiten fest, ist sie befugt, Beschlüsse der Organe des VSS für ungültig zu erklären. In diesem Fall informiert sie das Organ und die Delgiertenversammlung über die festgestellten Unregelmässigkeiten und die Entscheidung.
@@ -106,18 +107,18 @@ Stellt die GPK Unregelmässigkeiten fest, ist sie befugt, Beschlüsse der Organe
 <text language="fr">
 Si la CdC constate des irrégularités, elle est habilitée à déclarer nulles les décisions des organes de l'UNES. Dans ce cas, elle informe l'organe et l'Assemblée des délégué·e·s des irrégularités constatées et de la décision prise.
 </text>
-</paragraph>
+<text language="it"> Se riscontra delle irregolarità, la CDG è autorizzata a dichiarare nulle le decisioni degli organi dell’USU. In questo caso, informa l’organo e l’assemblea dei e delle delegati/e circa le irregolarità riscontrate e la decisione presa. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Beratung und Unterstützung" title_fr="Conseil et assistance">
+<article title_de="Beratung und Unterstützung" title_fr="Conseil et assistance" title_it="Consulenza e sostegno">
 <text language="de">
 Die GPK unterstützt und berät die VSS-Organe in rechtlichen, statutarischen und reglementarischen Belangen.
 </text>
 <text language="fr">
 La CdC soutient et conseille les organes de l'UNES dans les domaines juridiques, statutaires et réglementaires.
 </text>
-</article>
-<article title_de="Prüfung und Berichterstattung" title_fr="Audit et rapports">
+<text language="it"> La CDG sostiene e offre consulenza agli organi dell’USU in materia legale, statutaria e regolamentare. </text></article>
+<article title_de="Prüfung und Berichterstattung" title_fr="Audit et rapports" title_it="Valutazione e redazione del rapporto">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -126,7 +127,7 @@ Die GPK überprüft die Jahresrechnung des VSS und erstellt zuhanden der ordentl
 <text language="fr">
 La CdC vérifie les comptes annuels de l'UNES et rédige un rapport sur la gestion et les finances à l'attention de l'Assemblée des délégué·e·s ordinaire de printemps.
 </text>
-</paragraph>
+<text language="it"> La CDG verifica il conto annuale dell’USU e redige un rapporto sulla gestione e sulle finanze all’attenzione dell’assemblea ordinaria dei e delle delegati/e primaverile. </text></paragraph>
 <paragraph>
 <text language="de">
 Zusätzlich führt die GPK einmal pro Jahr eine Kontrolle und Stichproben in mindestens einem der folgenden Themenbereiche durch:
@@ -134,7 +135,7 @@ Zusätzlich führt die GPK einmal pro Jahr eine Kontrolle und Stichproben in min
 <text language="fr">
 En outre, la CdC effectue une fois par an un contrôle et une analyse dans au moins un des domaines thématiques suivants :
 </text>
-<letters>
+<text language="it"> Inoltre, una volta all’anno, la CDG effettua un controllo e dei sondaggi in almeno uno dei seguenti ambiti tematici: </text><letters>
 <letter>
 <text language="de">
 der VSS als Arbeitgeber;
@@ -142,7 +143,7 @@ der VSS als Arbeitgeber;
 <text language="fr">
 l'UNES en tant qu'employeur ;
 </text>
-</letter>
+<text language="it"> sull’USU in quanto datore di lavoro; </text></letter>
 <letter>
 <text language="de">
 Pflichtenhefte;
@@ -150,7 +151,7 @@ Pflichtenhefte;
 <text language="fr">
 les cahiers des charges ;
 </text>
-</letter>
+<text language="it"> capitolati d’oneri; </text></letter>
 <letter>
 <text language="de">
 Finanzen;
@@ -158,7 +159,7 @@ Finanzen;
 <text language="fr">
 les finances ;
 </text>
-</letter>
+<text language="it"> finanze; </text></letter>
 <letter>
 <text language="de">
 Protokollierung;
@@ -166,7 +167,7 @@ Protokollierung;
 <text language="fr">
 la prise des procès-verbaux ;
 </text>
-</letter>
+<text language="it"> protocollazione; </text></letter>
 <letter>
 <text language="de">
 Archivierung;
@@ -174,7 +175,7 @@ Archivierung;
 <text language="fr">
 l’archivage ;
 </text>
-</letter>
+<text language="it"> archiviazione; </text></letter>
 <letter>
 <text language="de">
 Datenschutz;
@@ -182,7 +183,7 @@ Datenschutz;
 <text language="fr">
 la protection des données ;
 </text>
-</letter>
+<text language="it"> protezione dei dati; </text></letter>
 <letter>
 <text language="de">
 Vorstand;
@@ -190,7 +191,7 @@ Vorstand;
 <text language="fr">
 le Comité exécutif ;
 </text>
-</letter>
+<text language="it"> comitato esecutivo; </text></letter>
 <letter>
 <text language="de">
 Geschäftsführung.
@@ -198,7 +199,7 @@ Geschäftsführung.
 <text language="fr">
 la gestion des affaires.
 </text>
-</letter>
+<text language="it"> direzione. </text></letter>
 </letters>
 </paragraph>
 <paragraph>
@@ -208,10 +209,10 @@ Die Resultate dieser Kontrolle, sowie Empfehlungen und Verbesserungsvorschläge 
 <text language="fr">
 Les résultats de ce contrôle, ainsi que les recommandations et propositions d'amélioration de la CdC, sont présentés dans un rapport à l'attention de l'Assemblée des délégué·e·s ordinaire d'automne.
 </text>
-</paragraph>
+<text language="it"> I risultati di questo controllo, nonché le raccomandazioni e i suggerimenti di miglioramento della CDG saranno presentati in un rapporto all’assemblea ordinaria dei e delle delegati/e autunnale. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Akteneinsicht" title_fr="Accès aux dossiers">
+<article title_de="Akteneinsicht" title_fr="Accès aux dossiers" title_it="Consultazione degli atti">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -220,7 +221,7 @@ Die GPK ist befugt, an allen Sitzungen sämtlicher Organe des VSS teilzunehmen.
 <text language="fr">
 La CdC est autorisée à participer à toutes les réunions de tous les organes de l'UNES.
 </text>
-</paragraph>
+<text language="it"> La CDG è autorizzata a partecipare a tutte le riunioni di tutti gli organi dell’USU. </text></paragraph>
 <paragraph>
 <text language="de">
 Zur Wahrnehmung ihrer Pflichten haben die Mitglieder der GPK volle Akteneinsicht in alle analogen und digitalen Unterlagen und Speichermedien.
@@ -228,7 +229,7 @@ Zur Wahrnehmung ihrer Pflichten haben die Mitglieder der GPK volle Akteneinsicht
 <text language="fr">
 Afin d'exercer leurs fonctions, les membres de la CdC ont un accès complet à tous les documents et supports de stockage analogiques et numériques.
 </text>
-</paragraph>
+<text language="it"> Per l’adempimento dei propri compiti, i membri della CDG hanno pieno accesso a tutti i documenti analogici e digitali e ai supporti di memorizzazione. </text></paragraph>
 <paragraph>
 <text language="de">
 Der Persönlichkeitsschutz und die Verhältnismässigkeit müssen gewahrt werden. Einsicht in sensible, personenbezogene Daten darf nur genommen werden, wenn dies für die Erfüllung der Pflichten zwingend notwendig ist.
@@ -236,10 +237,10 @@ Der Persönlichkeitsschutz und die Verhältnismässigkeit müssen gewahrt werden
 <text language="fr">
 La protection de la personnalité et la proportionnalité doivent être respectées. Les données personnelles sensibles ne peuvent être consultées que si cela est absolument nécessaire à l'exécution des obligations.
 </text>
-</paragraph>
+<text language="it"> Devono essere garantite la tutela della privacy e della riservatezza. L’accesso a dati sensibili e personali è consentito solo se strettamente necessario per l’adempimento degli obblighi. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Genehmigung Anträge zuhanden der DV" title_fr="Approbation des propositions à l'attention de l'AD">
+<article title_de="Genehmigung Anträge zuhanden der DV" title_fr="Approbation des propositions à l'attention de l'AD" title_it="Approvazione delle proposte all’attenzione dell’AD">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -248,7 +249,7 @@ Die GPK prüft in Vorbereitung auf die Delgiertenversammlung alle Anträge zuhan
 <text language="fr">
 En préparation de l'Assemblée des délégué·e·s, la CdC examine toutes les propositions soumises à l'Assemblée des délégué·e·s.
 </text>
-</paragraph>
+<text language="it"> La CDG esamina tutte le proposte destinate all’assemblea dei e delle delegati/e in preparazione di quest’ultima. </text></paragraph>
 <paragraph>
 <text language="de">
 Die GPK ist angehalten, Antragstellenden Rückmeldungen sowie Änderungsvorschläge zur Verbesserung der Qualität der Formulierungen und zur Klärung für das Erreichen des Zwecks des Antrags zu geben. Insbesondere prüft sie ungewollte Konsequenzen der Anträge.
@@ -256,7 +257,7 @@ Die GPK ist angehalten, Antragstellenden Rückmeldungen sowie Änderungsvorschl�
 <text language="fr">
 La CdC est tenue de donner un retour aux auteur·rice·s et de proposer des modifications afin d'améliorer la qualité de la formulation et de clarifier l'objectif de la proposition. Elle examine en particulier les conséquences non souhaitées des propositions.
 </text>
-</paragraph>
+<text language="it"> La CDG è tenuta a fornire a chi ha formulato una proposta un feedback e proposte di modifica volte a migliorare la qualità delle formulazioni e a chiarire il raggiungimento dello scopo della proposta. In particolare, esamina le conseguenze indesiderate delle proposte. </text></paragraph>
 <paragraph>
 <text language="de">
 Die GPK genehmigt Anträge, sofern kein Widerspruch zu den VSS-Statuten, den Reglementen oder gesetzlichen Vorgaben besteht. Andernfalls werden die Anträge zur Überarbeitung in einer durch die GPK definierten zeitlich limitierten Überarbeitungsphase an die Antragstellenden zurückgewiesen.
@@ -264,10 +265,10 @@ Die GPK genehmigt Anträge, sofern kein Widerspruch zu den VSS-Statuten, den Reg
 <text language="fr">
 La CdC approuve les propositions dans la mesure où elles ne sont pas en contradiction avec les statuts de l'UNES, les règlements ou les dispositions légales. Dans le cas contraire, les propositions sont renvoyées à leurs auteur·rice·s pour être retravaillées dans une phase de révision limitée dans le temps et définie par la CdC.
 </text>
-</paragraph>
+<text language="it"> La CDG approva le proposte, purché non siano in contrasto con gli statuti dell’USU, i regolamenti o le disposizioni di legge. In caso contrario, le proposte saranno rinviate ai richiedenti per essere rielaborate entro un termine definito dalla CDG. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Delegiertenversammlung" title_fr="Assemblée des délégués">
+<article title_de="Delegiertenversammlung" title_fr="Assemblée des délégués" title_it="Assemblea dei e delle delegati/e">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -276,7 +277,7 @@ Die GPK unterstützt die Vorbereitung und Durchführung der Delgiertenversammlun
 <text language="fr">
 La CdC soutient activement la préparation et le déroulement de l'Assemblée des délégué·e·s et la conseille.
 </text>
-</paragraph>
+<text language="it"> La CDG sostiene attivamente la preparazione e lo svolgimento dell’assemblea dei e delle delegati/e e fornisce consulenza sull’organizzazione. </text></paragraph>
 <paragraph>
 <text language="de">
 Sie gewährleistet die ordentliche Durchführung der Delgiertenversammlung gemäss der Statuten und Reglemente.
@@ -284,7 +285,7 @@ Sie gewährleistet die ordentliche Durchführung der Delgiertenversammlung gemä
 <text language="fr">
 Elle assure le bon déroulement de l'Assemblée des délégué·e·s conformément aux statuts et aux règlements.
 </text>
-</paragraph>
+<text language="it"> La CDG garantisce la corretta interpretazione degli statuti e dei regolamenti. </text></paragraph>
 <paragraph>
 <text language="de">
 Die GPK ist für die Bestimmung der Beschlussfähigkeit, der Durchführung von Abstimmungen und Wahlen sowie für die Prüfung deren Auszählung zuständig.
@@ -292,10 +293,10 @@ Die GPK ist für die Bestimmung der Beschlussfähigkeit, der Durchführung von A
 <text language="fr">
 La CdC est chargée de déterminer le quorum, d'organiser les votes et les élections et de vérifier leur dépouillement.
 </text>
-</paragraph>
+<text language="it"> La CDG è responsabile della determinazione del quorum, dello svolgimento di votazioni ed elezioni, nonché della verifica del loro conteggio. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Untersuchungsanträge" title_fr="Demandes d'enquête">
+<article title_de="Untersuchungsanträge" title_fr="Demandes d'enquête" title_it="Richieste d’indagine">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -304,7 +305,7 @@ Auf Einreichung eines Untersuchungsantrags gemäss Art. 29 des Mitwirkungs- und 
 <text language="fr">
 Suite au dépôt d'une demande d’enquête conformément à l'article 29 du Règlement sur la participation et la transparence, la CdC examine les reproches formulés dans le cadre d'une enquête. Elle est tenue d'entendre toutes les parties et de tenir compte du contexte et des circonstances des faits.
 </text>
-</paragraph>
+<text language="it"> Previa presentazione di una richiesta d’indagine ai sensi dell’art. 29 del regolamento sulla partecipazione e sulla trasparenza, la CDG esamina le accuse presentate nell’ambito di un’indagine. In questo caso, essa è tenuta ad ascoltare tutte le parti e a tenere conto dei retroscena e delle circostanze del fatto. </text></paragraph>
 <paragraph>
 <text language="de">
 Sie behandelt die zur Entscheidungsfindung benötigten Dokumente, insbesondere Protokolle, vertraulich.
@@ -312,7 +313,7 @@ Sie behandelt die zur Entscheidungsfindung benötigten Dokumente, insbesondere P
 <text language="fr">
 Elle traite de manière confidentielle les documents nécessaires à la prise de décision, notamment les procès-verbaux.
 </text>
-</paragraph>
+<text language="it"> Tratta con riservatezza i documenti necessari al processo decisionale, in particolare i verbali. </text></paragraph>
 <paragraph>
 <text language="de">
 Sie erstellt einen Abschlussbericht zuhanden der Delegiertenversammlung, der Antragstellenden Person und des beschuldigten Organs bzw. der beschuldigten Personen.
@@ -320,7 +321,7 @@ Sie erstellt einen Abschlussbericht zuhanden der Delegiertenversammlung, der Ant
 <text language="fr">
 Elle rédige un rapport final à l'attention de l'Assemblée des délégué·e·s, des auteur·rice·s de la demande et de l'organe ou des personnes impliquées.
 </text>
-</paragraph>
+<text language="it"> Redige un rapporto finale all’attenzione dell’assemblea dei e delle delegati/e, della persona che ha presentato la denuncia e dell’organo o delle persone accusate. </text></paragraph>
 <paragraph>
 <text language="de">
 Kann den Untersuchungsantrag nicht innerhalb von vier Wochen abschliessend behandelt werden, informiert die GPK alle beteiligten Personen, Organe und Sektionen innert dieser Frist über den Zwischenstand.
@@ -328,10 +329,10 @@ Kann den Untersuchungsantrag nicht innerhalb von vier Wochen abschliessend behan
 <text language="fr">
 Si la demande d'enquête ne peut être traitée définitivement dans un délai de quatre semaines, la CdC informe toutes les personnes, organes et sections impliqués de l'état d'avancement intermédiaire dans ce délai.
 </text>
-</paragraph>
+<text language="it"> Se la richiesta d’indagine non può essere trattata in modo definitivo entro quattro settimane, la CDG informa tutte le persone, gli organi e le sezioni coinvolti in merito allo stato di avanzamento dei lavori entro tale termine. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Rekurse" title_fr="Recours">
+<article title_de="Rekurse" title_fr="Recours" title_it="Ricorsi">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -340,7 +341,7 @@ Auf Einreichung eines Rekurses gemäss Art. 30 des Mitwirkungs- und Öffentlichk
 <text language="fr">
 Suite au dépôt d'un recours selon l'art. 30 du Règlement sur la participation et la transparence, la CdC examine la réalisation formelle de l'affaire contestée. Elle est tenue d'entendre toutes les parties et de tenir compte du contexte et des circonstances de l'affaire.
 </text>
-</paragraph>
+<text language="it"> Previa presentazione di un ricorso ai sensi dell’art. 30 del regolamento sulla partecipazione e sulla trasparenza, la CDG verifica la validità formale dell’atto contestato. In tal caso, essa è tenuta ad ascoltare tutte le parti e a tenere conto dei retroscena e delle circostanze del fatto. </text></paragraph>
 <paragraph>
 <text language="de">
 Sie behandelt die zur Entscheidungsfindung benötigten Dokumente, insbesondere Protokolle, vertraulich.
@@ -348,7 +349,7 @@ Sie behandelt die zur Entscheidungsfindung benötigten Dokumente, insbesondere P
 <text language="fr">
 Elle traite de manière confidentielle les documents nécessaires à la prise de décision, notamment les procès-verbaux.
 </text>
-</paragraph>
+<text language="it"> Tratta con riservatezza i documenti necessari al processo decisionale, in particolare i verbali. </text></paragraph>
 <paragraph>
 <text language="de">
 Rekurse haben aufschiebende Wirkung. Die GPK gelangt in kürzest möglicher Frist zu einer Entscheidung.
@@ -356,7 +357,7 @@ Rekurse haben aufschiebende Wirkung. Die GPK gelangt in kürzest möglicher Fris
 <text language="fr">
 Les recours ont un effet suspensif. La CdC rend sa décision dans le délai le plus court possible.
 </text>
-</paragraph>
+<text language="it"> I ricorsi hanno effetto sospensivo. La CDG prende una decisione nel più breve tempo possibile. </text></paragraph>
 <paragraph>
 <text language="de">
 Falls die GPK den Rekurs gutheisst, setzt sie den Beschluss, oder die Wahl ausser Kraft und weist das Geschäft an das entsprechende Organ zurück.
@@ -364,7 +365,7 @@ Falls die GPK den Rekurs gutheisst, setzt sie den Beschluss, oder die Wahl ausse
 <text language="fr">
 Si la CdC accepte le recours, elle annule la décision ou l'élection et renvoie l'affaire à l'organe concerné.
 </text>
-</paragraph>
+<text language="it"> Se la CDG accoglie il ricorso, annulla la decisione o l’elezione e rinvia la questione all’organo competente. </text></paragraph>
 <paragraph>
 <text language="de">
 Sie erstellt einen Abschlussbericht zuhanden der Delgiertenversammlung, der rekursführenden Partei und des beschuldigten Organs.
@@ -372,7 +373,7 @@ Sie erstellt einen Abschlussbericht zuhanden der Delgiertenversammlung, der reku
 <text language="fr">
 Elle rédige un rapport final à l'attention de l'Assemblée des délégué·e·s, de la partie recourante et de l'organe concerné.
 </text>
-</paragraph>
+<text language="it"> Redige un rapporto finale all’attenzione dell’assemblea dei e delle delegati/e, della parte che ha fatto ricorso e dell’organo accusato. </text></paragraph>
 <paragraph>
 <text language="de">
 Kann der Rekurs nicht innerhalb von sechs Wochen abschliessend behandelt werden, informiert die GPK alle beteiligten Personen, Organe und Sektionen innert dieser Frist über den Zwischenstand.
@@ -380,10 +381,10 @@ Kann der Rekurs nicht innerhalb von sechs Wochen abschliessend behandelt werden,
 <text language="fr">
 Si le recours ne peut pas être traité définitivement dans un délai de six semaines, la CdC informe toutes les personnes, organes et sections concernés de l'état intermédiaire dans ce délai.
 </text>
-</paragraph>
+<text language="it"> Se il ricorso non può essere trattato in modo definitivo entro sei settimane, la CDG informa tutte le persone, gli organi e le sezioni coinvolti in merito allo stato di avanzamento dei lavori entro tale termine. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Beschlussfindung" title_fr="Prise de décision">
+<article title_de="Beschlussfindung" title_fr="Prise de décision" title_it="Processo decisionale">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -392,7 +393,7 @@ Die GPK vertritt die Beschlüsse gemeinsam nach aussen.
 <text language="fr">
 La CdC représente collectivement les décisions à l'extérieur.
 </text>
-</paragraph>
+<text language="it"> La CDG rappresenta le decisioni all’esterno. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Modalitäten der Abstimmungsverfahren sind in Art. 25ff Mitwirkungs- und Öffentlichkeitsreglement geregelt.
@@ -400,7 +401,7 @@ Die Modalitäten der Abstimmungsverfahren sind in Art. 25ff Mitwirkungs- und Öf
 <text language="fr">
 Les modalités des procédures de vote sont régies par les articles 25 et suivants du Règlement sur la participation et la transparence.
 </text>
-</paragraph>
+<text language="it"> Le modalità delle procedure di voto sono disciplinate dall’art. 25 e seguenti del regolamento sulla partecipazione e sulla trasparenza. </text></paragraph>
 <paragraph>
 <text language="de">
 Beschlüsse der GPK werden protokolliert.
@@ -411,7 +412,7 @@ Les décisions de la CdC sont consignées dans un procès-verbal.
 </paragraph>
 </paragraphs>
 </article>
-<article title_de="Beizug von Fachpersonen" title_fr="Recours à des spécialistes">
+<article title_de="Beizug von Fachpersonen" title_fr="Recours à des spécialistes" title_it="Ricorso a personale specializzato">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -420,7 +421,7 @@ Die GPK kann in schwierigen Fällen ihr geeignet erscheinende Fachpersonen zur B
 <text language="fr">
 Dans les cas difficiles, la CdC peut faire appel à des experts qu'elle juge appropriés pour la conseiller.
 </text>
-</paragraph>
+<text language="it"> In casi complessi, la CDG può ricorrere alla consulenza di persone esperte che ritiene idonee. </text></paragraph>
 <paragraph>
 <text language="de">
 Diese können für ihre Leistungen entschädigt werden.
@@ -428,34 +429,34 @@ Diese können für ihre Leistungen entschädigt werden.
 <text language="fr">
 Ceux-ci peuvent être rémunérés pour leurs prestations.
 </text>
-</paragraph>
+<text language="it"> Queste possono essere retribuite per le loro prestazioni. </text></paragraph>
 </paragraphs>
 </article>
 </articles>
 </section>
-<section title_de="Berichterstattung" title_fr="Rapport">
+<section title_de="Berichterstattung" title_fr="Rapport" title_it="Redazione del rapporto">
 <articles>
-<article title_de="Bericht" title_fr="Rapport">
+<article title_de="Bericht" title_fr="Rapport" title_it="Rapporto">
 <text language="de">
 Die GPK informiert die Delgiertenversammlung mittels Jahresbericht über ihre Tätigkeiten.
 </text>
 <text language="fr">
 La CdC informe l'Assemblée des Délégué·e·s de ses activités par le biais d'un rapport annuel.
 </text>
-</article>
+<text language="it"> La CDG redige un rapporto annuale per tenere informata l’assemblea dei e delle delegati/e delle proprie attività. </text></article>
 </articles>
 </section>
-<section title_de="Schlussbestimmungen" title_fr="Dispositions finales">
+<section title_de="Schlussbestimmungen" title_fr="Dispositions finales" title_it="Disposizioni finali">
 <articles>
-<article title_de="Revision" title_fr="Révision">
+<article title_de="Revision" title_fr="Révision" title_it="Revisione">
 <text language="de">
 Dieses Reglement unterliegt den Revisionsbestimmungen gemäss Art. 41 der Statuten.
 </text>
 <text language="fr">
 Le présent règlement est soumis aux dispositions relatives à la révision conformément à l'article 41 des statuts.
 </text>
-</article>
-<article title_de="Version" title_fr="Version">
+<text language="it"> Il presente regolamento è soggetto alle disposizioni di revisione sulla base dell’art. 41 degli statuti. </text></article>
+<article title_de="Version" title_fr="Version" title_it="Versione">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -464,7 +465,7 @@ Dieses Reglement wurde von der 184. Delegiertenversammlung erlassen.
 <text language="fr">
 Le présent règlement a été adopté par la 184e Assemblée des délégué·e·s.
 </text>
-</paragraph>
+<text language="it"> Il presente regolamento è stato approvato dalla 184a assemblea dei e delle delegati/e. </text></paragraph>
 <paragraph>
 <text language="de">
 Es tritt am 01.01.2025 in Kraft.
@@ -472,7 +473,7 @@ Es tritt am 01.01.2025 in Kraft.
 <text language="fr">
 Il entre en vigueur le 01.01.2025.
 </text>
-</paragraph>
+<text language="it"> Entra in vigore il 1° gennaio 2025. </text></paragraph>
 </paragraphs>
 </article>
 </articles>

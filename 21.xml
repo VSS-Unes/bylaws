@@ -1,330 +1,331 @@
-<regulation id="21" title_de="Reglement über den VSS-Vorstand" short_de="Vorstandsreglement" title_fr="Règlement du Comité exécutif de l'UNES" short_fr="Règlement du Comité" original_implementation_date="2025-01-01">
+<?xml version='1.0' encoding='utf-8'?>
+<regulation id="21" original_implementation_date="2025-01-01" short_de="Vorstandsreglement" short_fr="Règlement du Comité" short_it="Regolamento del comitato esecutivo" title_de="Reglement über den VSS-Vorstand" title_fr="Règlement du Comité exécutif de l'UNES" title_it="Regolamento del comitato esecutivo dell’USU">
     <preamble>
         <text language="de"> Die Delegiertenversammlung, gestützt auf Art. 25 der Statuten, beschliesst: </text>
         <text language="fr"> L’Assemblée des délégué·e·s, se fondant sur l'art. 25 des Statuts, décide: </text>
-    </preamble>
-    <section title_de="Zusammensetzung" title_fr="Composition">
+    <text language="it"> L’assemblea dei e delle delegati/e, in base all’art. 25 degli statuti, decide: </text></preamble>
+    <section title_de="Zusammensetzung" title_fr="Composition" title_it="Composizione">
         <articles>
-            <article title_de="Zusammensetzung" title_fr="Composition">
+            <article title_de="Zusammensetzung" title_fr="Composition" title_it="Composizione">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Der Vorstand setzt sich aus dem Co-Präsidium und fünf weiteren Vorstandsmitgliedern zusammen. </text>
                         <text language="fr"> Le Comité exécutif se compose de la coprésidence et de cinq autresd membres. </text>
-                    </paragraph>
+                    <text language="it"> Il comitato esecutivo è composto dalla copresidenza e da altri cinque membri. </text></paragraph>
                     <paragraph>
                         <text language="de"> Bleiben Sitze vakant, muss es bei einer allfälligen Besetzung durch Nachwahlen möglich sein, die Quoten ohne Abwahlen einzuhalten. </text>
                         <text language="fr"> Si des sièges restent vacants, il doit être possible, lors d'une éventuelle élection complémentaire, de respecter les quotas sans avoir à procéder à des destitutions. </text>
-                    </paragraph>
+                    <text language="it"> Se alcuni seggi rimangono vacanti, in caso di eventuali elezioni suppletive deve essere possibile rispettare le quote senza procedere a destituzioni. </text></paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Quoten im Vorstand" title_fr="Quotas au sein du Comité">
+            <article title_de="Quoten im Vorstand" title_fr="Quotas au sein du Comité" title_it="Quote nel comitato esecutivo">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Bei einem vollbesetzten Vorstand muss darauf geachtet werden, dass: </text>
                         <text language="fr"> Lorsque le Comité exécutif est complet, il faut veiller à ce que : </text>
-                        <letters>
+                        <text language="it"> Quando il comitato esecutivo è al completo, bisogna garantire che: </text><letters>
                             <letter>
                                 <text language="de"> keine Geschlechtsidentität mit mehr als vier Personen vertreten ist; </text>
                                 <text language="fr"> aucune identité de genre ne soit représentée par plus de quatre personnes ; </text>
-                            </letter>
+                            <text language="it"> nessuna identità di genere sia rappresentata da più di quattro persone; </text></letter>
                             <letter>
                                 <text language="de"> zwei Sprachregionen des Verbandes mit mindestens zwei Personen vertreten sind; </text>
                                 <text language="fr"> deux régions linguistiques de l'association soit représentées par au moins deux personnes chacune ; </text>
-                            </letter>
+                            <text language="it"> due regioni linguistiche dell’associazione siano rappresentate da almeno due persone; </text></letter>
                             <letter>
                                 <text language="de"> mindestens eine Person an einer Fachhochschule immatrikuliert ist; </text>
                                 <text language="fr"> au moins une personne soit inscrite dans une haute école spécialisée ; </text>
-                            </letter>
+                            <text language="it"> almeno una persona sia iscritta a una scuola universitaria professionale; </text></letter>
                             <letter>
                                 <text language="de"> mindestens eine Person an einer pädagogischen Hochschule immatrikuliert ist und; </text>
                                 <text language="fr"> au moins une personne soit inscrite dans une haute école pédagogique, et ; </text>
-                            </letter>
+                            <text language="it"> almeno una persona sia iscritta a un’alta scuola pedagogica e; </text></letter>
                             <letter>
                                 <text language="de"> mindestens eine Person an einer Eidgenössischen Technische Hochschule immatrikuliert ist. </text>
                                 <text language="fr"> au moins une personne soit inscrite dans une école polytechnique fédérale. </text>
-                            </letter>
+                            <text language="it"> almeno una persona sia iscritta a un politecnico federale. </text></letter>
                         </letters>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Die Sektionen des jeweiligen Hochschultypus nach Art. 3 Mitgliedschaftsreglement können auf die jeweilige Quote nach Abs.1 Bst. c-e vor oder während der Wahl verzichten. Bei Uneinigkeit entscheidet das Absolute-Mehr der Delegierten aus Sektionen, welche diesem Hochschultypus zugeordnet werden. </text>
                         <text language="fr"> Les sections de chaque type de haute école selon l'art. 3 du règlement d’adhésion peuvent renoncer à leur quota respectif selon l'al. 1 let. c-e avant ou pendant l'élection. En cas de désaccord, la décision est prise à la majorité absolue des délégué·e·s des sections appartenant à ce type de haute école. </text>
-                    </paragraph>
+                    <text language="it"> Le sezioni del rispettivo di scuola ai sensi dell’art. 3 del regolamento di adesione possono rinunciare alla rispettiva quota di cui al cpv. 1 lett. c-e prima o durante l’elezione. In caso di disaccordo, decide la maggioranza assoluta dei delegati e delle delegate delle sezioni assegnate a questo tipo di scuola superiore. </text></paragraph>
                     <paragraph>
                         <text language="de"> Ein Verzicht gilt bis zur nächsten ordentlichen Wahl. </text>
                         <text language="fr"> Une renonciation porte jusqu'à la prochaine élection ordinaire. </text>
-                    </paragraph>
+                    <text language="it"> La rinuncia è valida fino alla successiva elezione ordinaria. </text></paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Quoten im Co-Präsidium" title_fr="Quotas au sein de la coprésidence">
+            <article title_de="Quoten im Co-Präsidium" title_fr="Quotas au sein de la coprésidence" title_it="Quote nella copresidenza">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Bei einem vollbesetzten Co-Präsidium: </text>
                         <text language="fr"> Dans le cas d'une coprésidence complète : </text>
-                        <letters>
+                        <text language="it"> Quando si ha una copresidenza al completo: </text><letters>
                             <letter>
                                 <text language="de"> dürfen beide Personen nicht gleicher Geschlechtsidentität sein und; </text>
                                 <text language="fr"> les deux personnes ne doivent pas avoir la même identité de genre et ; </text>
-                            </letter>
+                            <text language="it"> le due persone non possono avere la stessa identità di genere e; </text></letter>
                             <letter>
                                 <text language="de"> sollen nach Möglichkeit zwei Sprachregionen vertreten sein. </text>
                                 <text language="fr"> doivent, dans la mesure du possible, représenter deux régions linguistiques. </text>
-                            </letter>
+                            <text language="it"> devono essere rappresentate, per quanto possibile, due regioni linguistiche. </text></letter>
                         </letters>
                     </paragraph>
                     <paragraph>
                         <text language="de"> Die Delegiertenversammlung kann vor der Wahl des Co-Präsidiums mit Zwei-Drittel-Mehr entscheiden, von der Quote nach Abs. 1 Bst. a abzusehen. Dieser Beschluss gilt dann bis zur nächsten ordentlichen Wahl des Co-Präsidiums. </text>
                         <text language="fr"> Avant l'élection de la coprésidence, l'Assemblée des délégué·e·s peut décider à la majorité des deux tiers de ne pas appliquer le quota prévu à l'al. 1, let. a. Cette décision porte alors jusqu'à la prochaine élection ordinaire de la coprésidence. </text>
-                    </paragraph>
+                    <text language="it"> Prima dell’elezione della copresidenza, l’assemblea dei e delle delegati/e può decidere con una maggioranza dei due terzi di astenersi dalla quota di cui al cpv. 1 lett. a. Tale decisione è valida fino alla successiva elezione ordinaria della copresidenza. </text></paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Amtsperiode, Amtszeit" title_fr="Mandat, durée du mandat">
+            <article title_de="Amtsperiode, Amtszeit" title_fr="Mandat, durée du mandat" title_it="Mandato, durata del mandato">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Die reguläre Amtsperiode eines Vorstandsmitglieds beginnt am 1. August und endet am nachfolgenden 31. Juli. </text>
                         <text language="fr"> Le mandat régulier d'un membre du Comité exécutif commence le 1er août et se termine le 31 juillet suivant. </text>
-                    </paragraph>
+                    <text language="it"> Il mandato regolare di un membro del comitato esecutivo inizia il 1° agosto e termina il 31 luglio successivo. </text></paragraph>
                     <paragraph>
                         <text language="de"> Die Anzahl Amtsperioden ist unbegrenzt. </text>
                         <text language="fr"> Le nombre de mandats n’est pas limité. </text>
-                    </paragraph>
+                    <text language="it"> Il numero dei mandati è illimitato. </text></paragraph>
                 </paragraphs>
             </article>
         </articles>
     </section>
-    <section title_de="Organisation" title_fr="Organisation">
+    <section title_de="Organisation" title_fr="Organisation" title_it="Organizzazione">
         <articles>
-            <article title_de="Co-Präsidium" title_fr="Coprésidence">
+            <article title_de="Co-Präsidium" title_fr="Coprésidence" title_it="Copresidenza">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Das Co-Präsidium des Vorstands ist zugleich Co-Präsidium des Verbands. </text>
                         <text language="fr"> La coprésidence du Comité exécutif est également la coprésidence de l'association. </text>
-                    </paragraph>
+                    <text language="it"> La copresidenza del comitato esecutivo è contemporaneamente copresidenza dell’associazione. </text></paragraph>
                     <paragraph>
                         <text language="de"> Die Mitglieder des Co-Präsidiums teilen sich die Arbeit untereinander auf. </text>
                         <text language="fr"> Les membres de la coprésidence se répartissent le travail entre eux-mêmes. </text>
-                    </paragraph>
+                    <text language="it"> I membri della copresidenza si ripartiscono il lavoro tra di loro. </text></paragraph>
                     <paragraph>
                         <text language="de"> Die Mitglieder des Co-Präsidiums unterstützen sich gegenseitig und vertreten einander bei Abwesenheiten. </text>
                         <text language="fr"> Les membres de la coprésidence s'entraident et se suppléent mutuellement en cas d'absence. </text>
-                    </paragraph>
+                    <text language="it"> I membri della copresidenza si sostengono a vicenda e si sostituiscono in caso di assenza. </text></paragraph>
                     <paragraph>
                         <text language="de"> Bei einer längeren Abwesenheit oder Vakanz im Co-Präsidium, kann der Vorstand intern die Aufgaben des Co-Präsidiums verteilen. Insbesondere kann der VSS-Vorstand eine Person bestimmen, welche die Zeichnungsberechtigung nach Art. 2 Finanzreglement innehat. Der Sektionsrat ist über einen solchen Beschluss zu informieren. </text>
                         <text language="fr"> En cas d'absence prolongée ou de vacance au sein de la coprésidence, le Comité exécutif peut répartir en interne les tâches de la coprésidence. En particulier, le Comité exécutif peut désigner une personne qui détient le droit de signature selon l'art. 2 du Règlement financier. Le Conseil des sections doit être informé d'une telle décision. </text>
-                    </paragraph>
+                    <text language="it"> In caso di assenza prolungata o seggio vacante nella copresidenza, il comitato esecutivo può distribuire internamente i compiti della copresidenza. In particolare, il comitato esecutivo dell’USU può designare una persona che sia autorizzata a firmare ai sensi dell’art. 2 del regolamento finanziario. Il consiglio delle sezioni deve essere informato di tale decisione. </text></paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Ressorts" title_fr="Dicastères">
+            <article title_de="Ressorts" title_fr="Dicastères" title_it="Dipartimenti">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Die Geschäfte des Vorstands sind in Ressorts aufgeteilt. </text>
                         <text language="fr"> Les activités du Comité exécutif sont réparties en plusieurs dicastères. </text>
-                    </paragraph>
+                    <text language="it"> Le attività del comitato esecutivo sono suddivise in dipartimenti. </text></paragraph>
                     <paragraph>
                         <text language="de"> Die Verteilung und der Inhalt der Ressorts erfolgt durch den Vorstand. </text>
                         <text language="fr"> La répartition et le contenu des dicastères sont décidés par le Comité exécutif. </text>
-                    </paragraph>
+                    <text language="it"> La ripartizione e il contenuto dei dipartimenti sono stabiliti dal comitato esecutivo. </text></paragraph>
                     <paragraph>
                         <text language="de"> Die Inhalte der Ressorts müssen den Jahreszielen entsprechen. </text>
                         <text language="fr"> Le contenu des dicastères doit correspondre aux objectifs annuels. </text>
-                    </paragraph>
+                    <text language="it"> Il contenuto dei dipartimenti deve essere conforme agli obiettivi annuali. </text></paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Pensen" title_fr="Taux de travail">
+            <article title_de="Pensen" title_fr="Taux de travail" title_it="Gradi di occupazione">
                 <text language="de"> Die Arbeitspensen im VSS-Vorstand betragen: </text>
                 <text language="fr"> Les taux de travail au sein du comité de l'UNES sont les suivants : </text>
-                <letters>
+                <text language="it"> Il grado di occupazione nel comitato esecutivo dell’USU è il seguente: </text><letters>
                     <letter>
                         <text language="de"> 40% für Mitglieder des Co-Präsidiums; </text>
                         <text language="fr"> 40% pour les membres de la coprésidence ; </text>
-                    </letter>
+                    <text language="it"> 40% per i membri della copresidenza; </text></letter>
                     <letter>
                         <text language="de"> 30% für die restlichen Vorstandsmitglieder. </text>
                         <text language="fr"> 30% pour les autres membres du Comité exécutif. </text>
-                    </letter>
+                    <text language="it"> 30% per gli altri membri del comitato esecutivo. </text></letter>
                 </letters>
             </article>
         </articles>
     </section>
-    <section title_de="Aufgaben" title_fr="Tâches">
+    <section title_de="Aufgaben" title_fr="Tâches" title_it="Compiti">
         <articles>
-            <article title_de="Allgemeine Aufgaben" title_fr="Tâches générales">
+            <article title_de="Allgemeine Aufgaben" title_fr="Tâches générales" title_it="Compiti generali">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Der VSS-Vorstand trägt als Gremium die Verantwortung für die Geschäfte des Verbandes. Ihm obliegt die strategische Verbandsführung im Rahmen der Entscheidungen der Delegiertenversammlung und des Sektionsrats. </text>
                         <text language="fr"> Le Comité exécutif est responsable collectivement des affaires de l'association. Il est responsable de la gestion stratégique de l'association dans le cadre des décisions de l'Assemblée des délégué·e·s et du Conseil des sections. </text>
-                    </paragraph>
+                    <text language="it"> Il comitato esecutivo dell’USU è responsabile delle attività dell’associazione. È incaricato della gestione strategica dell’associazione nell’ambito delle decisioni dell’assemblea dei e delle delegati/e e del consiglio delle sezioni. </text></paragraph>
                     <paragraph>
                         <text language="de"> Der VSS-Vorstand tritt geschlossen auf. </text>
                         <text language="fr"> Le Comité exécutif se présente de manière unie. </text>
-                    </paragraph>
+                    <text language="it"> Il comitato esecutivo dell’USU opera in modo unito. </text></paragraph>
                     <paragraph>
                         <text language="de"> Jedes Vorstandsmitglied ist verpflichtet, sich über die Tätigkeiten der anderen Vorstandsmitglieder zu informieren. </text>
                         <text language="fr"> Chaque membre du Comité exécutif est tenu de s’informer des activités des autres membres du Comité exécutif. </text>
-                    </paragraph>
+                    <text language="it"> Ogni membro del comitato esecutivo è obbligato ad informarsi sulle attività degli altri membri del comitato esecutivo. </text></paragraph>
                     <paragraph>
                         <text language="de"> Die Vorstandsmitglieder führen ihre Aufgaben selbständig nach Massgabe ihrer Pflichten aus. </text>
                         <text language="fr"> Les membres du Comité exécutif s'acquittent de leurs tâches de manière autonome, conformément à leurs obligations. </text>
-                    </paragraph>
+                    <text language="it"> I membri del comitato esecutivo svolgono i propri compiti in modo autonomo, in conformità con i propri doveri. </text></paragraph>
                     <paragraph>
                         <text language="de"> Vorstandsmitglieder vertreten den Vorstand in ihrem Arbeitsbereich und, falls vorhanden, die ihnen zugewiesenen Kommissionen. </text>
                         <text language="fr"> Les membres du Comité exécutif représentent le Comité exécutif dans leur dicastère et, dans les commissions qui leur sont attribuées. </text>
-                    </paragraph>
+                    <text language="it"> I membri del comitato esecutivo rappresentano il comitato esecutivo nel proprio ambito di competenza e, se presenti, nelle commissioni loro assegnate. </text></paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Aufgaben Co-Präsidium" title_fr="Tâches de la coprésidence">
+            <article title_de="Aufgaben Co-Präsidium" title_fr="Tâches de la coprésidence" title_it="Compiti della copresidenza">
                 <text language="de"> Das Co-Präsidium </text>
                 <text language="fr"> La coprésidence: </text>
-                <letters>
+                <text language="it"> La copresidenza: </text><letters>
                     <letter>
                         <text language="de"> vertritt den Verband nach aussen, soweit nicht die Statuten oder der Vorstand andere Personen mit dieser Aufgabe betrauen; </text>
                         <text language="fr"> représente l'association vers l'extérieur, à moins que les statuts ou le Comité exécutif ne confient cette tâche à d'autres entités; </text>
-                    </letter>
+                    <text language="it"> rappresenta l’associazione all’esterno, a meno che gli statuti o il comitato esecutivo non affidino tale compito ad altre persone; </text></letter>
                     <letter>
                         <text language="de"> koordiniert die Arbeit des Vorstands; </text>
                         <text language="fr"> coordonne le travail du Comité exécutif ; </text>
-                    </letter>
+                    <text language="it"> coordina il lavoro del comitato esecutivo; </text></letter>
                     <letter>
                         <text language="de"> ist für die Personalführung des Generalsekretariats zuständig; </text>
                         <text language="fr"> est responsable de la gestion du personnel du Secrétariat général ; </text>
-                    </letter>
+                    <text language="it"> è responsabile della gestione del personale del segretariato generale; </text></letter>
                     <letter>
                         <text language="de"> stellt den Informationsfluss zwischen den Vorstandsmitgliedern und dem Generalsekretariat sicher; </text>
                         <text language="fr"> assure le flux d'informations entre les membres du Comité exécutif et le Secrétariat général ; </text>
-                    </letter>
+                    <text language="it"> garantisce il flusso di informazioni tra i membri del comitato esecutivo e il segretariato generale; </text></letter>
                     <letter>
                         <text language="de"> übernimmt die vorstandsinternen Aufgaben im Bezug auf Finanzen. </text>
                         <text language="fr"> assume les tâches internes au Comité exécutif en matière de finances. </text>
-                    </letter>
+                    <text language="it"> assume i compiti interni al comitato esecutivo in materia di finanze. </text></letter>
                 </letters>
             </article>
-            <article title_de="Austausch" title_fr="Échange">
+            <article title_de="Austausch" title_fr="Échange" title_it="Scambi">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Der VSS-Vorstand hält regelmässigen Kontakt zu bildungspolitischen Gremien, Institutionen und Organisationen. </text>
                         <text language="fr"> Le Comité entretient des contacts réguliers avec les entités , institutions et organisations qui s'occupent de politique de formation. </text>
-                    </paragraph>
+                    <text language="it"> Il comitato esecutivo dell’USU mantiene contatti regolari con organismi, istituzioni e organizzazioni che si occupano di politica della formazione. </text></paragraph>
                     <paragraph>
                         <text language="de"> Er pflegt die Beziehungen zu den Kommissionen mit einer verantwortlichen Person pro Kommission. </text>
                         <text language="fr"> Il gère les relations avec les commissions en désignant une personne responsable pour chaque commission. </text>
-                    </paragraph>
+                    <text language="it"> Cura i rapporti con le commissioni tramite una persona responsabile per ciascuna commissione. </text></paragraph>
                     <paragraph>
                         <text language="de"> Er setzt bei Bedarf Expertisegruppen zu seiner Beratung ein. </text>
                         <text language="fr"> Si nécessaire, il fait appel à des groupes d’expertise pour le conseiller. </text>
-                    </paragraph>
+                    <text language="it"> Se necessario, ricorre a gruppi di persone specializzate per la propria consulenza. </text></paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Präsenz an Sitzungen" title_fr="Présence aux réunions">
+            <article title_de="Präsenz an Sitzungen" title_fr="Présence aux réunions" title_it="Presenza alle riunioni">
                 <text language="de"> Die Vorstandsmitglieder: </text>
                 <text language="fr"> Les membres du Comité exécutif : </text>
-                <letters>
+                <text language="it"> I membri del comitato esecutivo: </text><letters>
                     <letter>
                         <text language="de"> nimmt aktiv an den Vorstandssitzungen teil; </text>
                         <text language="fr"> participent activement aux réunions du Comité ; </text>
-                    </letter>
+                    <text language="it"> partecipano attivamente alle riunioni del comitato esecutivo; </text></letter>
                     <letter>
                         <text language="de"> nimmt nach Bedarf an den Sitzungen des Sektionsrats teil; </text>
                         <text language="fr"> assistent aux réunions du Conseil des sections selon les besoins ; </text>
-                    </letter>
+                    <text language="it"> partecipano, in caso di necessità, alle riunioni del consiglio delle sezioni; </text></letter>
                     <letter>
                         <text language="de"> nimmt an den Delegiertenversammlungen teil; </text>
                         <text language="fr"> assistent aux Assemblées des délégué·e·s ; </text>
-                    </letter>
+                    <text language="it"> partecipano alle assemblee dei e delle delegati/e; </text></letter>
                     <letter>
                         <text language="de"> bereitet die Sektionsratssitzungen und die Delegiertenversammlungen zusammen mit dem Generalsekretariat vor. </text>
                         <text language="fr"> préparent les réunions du Conseil des sections et les Assemblées des délégué·e·s en collaboration avec le Secrétariat général. </text>
-                    </letter>
+                    <text language="it"> preparano le riunioni del consiglio delle sezioni e le assemblee dei e delle delegati/e insieme al segretariato generale. </text></letter>
                 </letters>
             </article>
-            <article title_de="Angestellte" title_fr="Employé·e·s">
+            <article title_de="Angestellte" title_fr="Employé·e·s" title_it="Dipendenti">
                 <text language="de"> Der VSS-Vorstand stellt Mitarbeitende ein, amtet als Arbeitgeber sämtlichem beim VSS angestellten Personals und ist für die Erstellung und Anpassung der Lohnsysteme zuständig. </text>
                 <text language="fr"> Le Comité exécutif engage des employé·e·s, agit en tant qu'employeur de tout le personnel employé par l'UNES et est responsable de la mise en place et de l'adaptation des systèmes salariaux. </text>
-            </article>
-            <article title_de="Berichterstattung" title_fr="Rapports">
+            <text language="it"> Il comitato esecutivo dell’USU assume collaboratori e collaboratrici, funge da datore di lavoro per tutto il personale impiegato presso l’USU ed è responsabile della creazione e dell’adeguamento dei sistemi salariali. </text></article>
+            <article title_de="Berichterstattung" title_fr="Rapports" title_it="Redazione del rapporto">
                 <text language="de"> Der Vorstand informiert mittels Jahresbericht über seine Tätigkeiten. </text>
                 <text language="fr"> Le Comité exécutif informe de ses activités au moyen d'un rapport annuel. </text>
-            </article>
+            <text language="it"> Il comitato esecutivo redige un rapporto annuale per informare delle proprie attività. </text></article>
         </articles>
     </section>
-    <section title_de="Sitzungen" title_fr="Réunions">
+    <section title_de="Sitzungen" title_fr="Réunions" title_it="Riunioni">
         <articles>
-            <article title_de="Termine" title_fr="Dates">
+            <article title_de="Termine" title_fr="Dates" title_it="Scadenze">
                 <text language="de"> Der Vorstand trifft sich in der Regel einmal alle zwei Wochen zur Besprechung der laufenden Geschäfte. Bei Bedarf werden zusätzliche Sitzungen durchgeführt. </text>
                 <text language="fr"> Le Comité exécutif se réunit en général une fois toutes les deux semaines pour discuter des affaires courantes. Des réunions supplémentaires sont organisées si nécessaire. </text>
-            </article>
-            <article title_de="Durchführung" title_fr="Déroulement">
+            <text language="it"> Il comitato esecutivo si riunisce di norma una volta ogni due settimane per discutere delle questioni correnti. Se necessario, si organizzano ulteriori riunioni. </text></article>
+            <article title_de="Durchführung" title_fr="Déroulement" title_it="Svolgimento">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Die Sitzungsleitung und Einladung obliegen dem Co-Präsidium. Ist kein Mitglied des Co-Präsidiums anwesend, bestimmt der Vorstand ein anderes Vorstandsmitglied als Sitzungsleitung. </text>
                         <text language="fr"> La présidence de la réunion et la convocation incombent à la coprésidence. Si aucun membre de la coprésidence n'est présent, le Comité exécutif désigne un autre membre en son sein pour présider la réunion. </text>
-                    </paragraph>
+                    <text language="it"> La presidenza della riunione e l’invito sono di competenza della copresidenza. Se non è presente alcun membro della copresidenza, il comitato esecutivo nomina un altro membro del comitato esecutivo come presidente della riunione. </text></paragraph>
                     <paragraph>
                         <text language="de"> Das Generalsekretariat ist mit beratender Stimme vertreten. </text>
                         <text language="fr"> Le Secrétariat général est représenté avec une voix consultative. </text>
-                    </paragraph>
+                    <text language="it"> Il segretariato generale è rappresentato con voto consultivo. </text></paragraph>
                     <paragraph>
                         <text language="de"> Weitere Personen können eingeladen werden. </text>
                         <text language="fr"> D'autres personnes peuvent être invitées. </text>
-                    </paragraph>
+                    <text language="it"> Anche altre persone possono essere invitate. </text></paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Beschlussfindung" title_fr="Prise de décision">
+            <article title_de="Beschlussfindung" title_fr="Prise de décision" title_it="Processo decisionale">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Der Vorstand ist beschlussfähig, wenn mehr als die Hälfte der Vorstandsmitglieder anwesend ist. </text>
                         <text language="fr"> Le quorum est atteint lorsque plus de la moitié des membres du Comité exécutif sont présent. </text>
-                    </paragraph>
+                    <text language="it"> Il comitato esecutivo è validamente costituito quando è presente più della metà dei suoi membri. </text></paragraph>
                     <paragraph>
                         <text language="de"> Vorstandsmitglieder haben Antrags- und Rederecht sowie Stimmrecht. </text>
                         <text language="fr"> Les membres du Comité exécutif disposent des droits de proposition, de parole et de vote. </text>
-                    </paragraph>
+                    <text language="it"> I membri del comitato esecutivo hanno diritto di parola, di proposta e di voto. </text></paragraph>
                     <paragraph>
                         <text language="de"> Die Mitglieder des Generalsekretariat haben Rede- und Antragsrecht. </text>
                         <text language="fr"> Les membres du Secrétariat Général disposent des droits de parole et de proposition. </text>
-                    </paragraph>
+                    <text language="it"> I membri del segretariato generale hanno diritto di parola e di proposta. </text></paragraph>
                     <paragraph>
                         <text language="de"> Die Modalitäten der Abstimmungs- und Wahlverfahren sind in Art. 25ff Mitwirkungs- und Öffentlichkeitsreglement geregelt. </text>
                         <text language="fr"> Les modalités des procédures de vote et d'élection sont régies par les articles 25 et suivants du Règlement sur la participation et la transparence. </text>
-                    </paragraph>
+                    <text language="it"> Le modalità delle procedure di voto e di elezione sono disciplinate dall’art. 25 e seguenti del regolamento sulla partecipazione e sulla trasparenza. </text></paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Protokoll" title_fr="Procés-verbal">
+            <article title_de="Protokoll" title_fr="Procés-verbal" title_it="Verbale">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Es ist an jeder Vorstandssitzung ein Diskussionsprotokoll nach Art. 35 des Mitwirkungs- und Öffentlichkeitsreglements zu führen. </text>
                         <text language="fr"> Un procès-verbal partiel doit être rédigé lors de chaque réunion du Comité exécutif, conformément à l'article 35 du règlement relatif à la participation et à la transparence. </text>
-                    </paragraph>
+                    <text language="it"> Ad ogni riunione del comitato esecutivo deve essere redatto un verbale ai sensi dell’art. 35 del regolamento sulla partecipazione e sulla trasparenza. </text></paragraph>
                     <paragraph>
                         <text language="de"> Das Generalsekretariat ist verantwortlich für die Erstellung des Protokolls. </text>
                         <text language="fr"> Le Secrétariat général est responsable de la rédaction du procès-verbal. </text>
-                    </paragraph>
+                    <text language="it"> Il segretariato generale è responsabile della redazione del verbale. </text></paragraph>
                     <paragraph>
                         <text language="de"> Protokolle werden nach der Genehmigung gemäss Art. 38 des Mitwirkungs- und Öffentlichkeitsreglements veröffentlicht. </text>
                         <text language="fr"> Les procès-verbaux sont publiés après leur approbation conformément à l'article 38 du Règlement relatif à la participation et à la transparence. </text>
-                    </paragraph>
+                    <text language="it"> I verbali vengono pubblicati dopo l’approvazione ai sensi dell’art. 38 del regolamento sulla partecipazione e sulla trasparenza. </text></paragraph>
                     <paragraph>
                         <text language="de"> Protokolle werden nach der Genehmigung sämtlichen Sektionen und Organen sowie der GPK zugestellt. Vertrauliche Protokolle werden nur der GPK zugestellt. </text>
                         <text language="fr"> Une fois approuvés, les procès-verbaux sont envoyés à toutes les sections et à tous les organes, ainsi qu'à la CdC. Les procès-verbaux confidentiels ne sont envoyés qu'à la CdC. </text>
-                    </paragraph>
+                    <text language="it"> Dopo l’approvazione, i verbali vengono inviati a tutte le sezioni e a tutti gli organi, nonché alla CDG. I verbali riservati vengono inviati solo alla CDG. </text></paragraph>
                 </paragraphs>
             </article>
         </articles>
     </section>
-    <section title_de="Schlussbestimmungen" title_fr="Dispositions finales">
+    <section title_de="Schlussbestimmungen" title_fr="Dispositions finales" title_it="Disposizioni finali">
         <articles>
-            <article title_de="Revisionsbestimmungen" title_fr="Dispositions relatives à la révision">
+            <article title_de="Revisionsbestimmungen" title_fr="Dispositions relatives à la révision" title_it="Disposizioni di revisione">
                 <text language="de"> Dieses Reglement unterliegt den Revisionsbestimmungen gemäss Art. 41 der Statuten. </text>
                 <text language="fr"> Le présent règlement est soumis aux dispositions relatives à la révision conformément à l'article 41 des statuts. </text>
-            </article>
-            <article title_de="Version" title_fr="Version">
+            <text language="it"> Il presente regolamento è soggetto alle disposizioni di revisione sulla base dell’art. 41 degli statuti. </text></article>
+            <article title_de="Version" title_fr="Version" title_it="Versione">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Dieses Reglement wurde von der 184. Delegiertenversammlung erlassen. </text>
                         <text language="fr"> Le présent règlement a été adopté par la 184e Assemblée des délégué·e·s. </text>
-                    </paragraph>
+                    <text language="it"> Il presente regolamento è stato approvato dalla 184a assemblea dei e delle delegati/e. </text></paragraph>
                     <paragraph>
                         <text language="de"> Es tritt am 01.01.2025 in Kraft. </text>
                         <text language="fr"> Il entre en vigueur le 01.01.2025. </text>
-                    </paragraph>
+                    <text language="it"> Entra in vigore il 1° gennaio 2025. </text></paragraph>
                 </paragraphs>
             </article>
         </articles>
