@@ -4,79 +4,102 @@ configuration:
     assets:
       relative-path: "assets/"
     name: 
-      fr: "Receuil de Règlements de l'UNES"
+      fr: "Recueil de Règlements de l'UNES"
       de: "Rechtssammlung des VSS"
+      it: "Raccolta giuridica dell’USU"
     intro_text:
-      fr: "Bienvenue dans le receuil de règlements de l'Union des Etudiant·e·s de Suisse (UNES)"
+      fr: "Bienvenue dans le recueil de règlements de l'Union des Etudiant·e·s de Suisse (UNES)"
       de: "Willkommen in der Rechtssammlung der Verband der Schweizerer Studierendenschaften (VSS)"
+      it: "Benvenuto nella raccolta giuridica dell'Unione degli Studenti Svizzeri (USU)"
     description:
-      fr: "Receuil de règlements de l'UNES"
+      fr: "Recueil de règlements de l'UNES"
       de: "Rechtsammlung des VSS"
+      it: "Raccolta giuridica dell’USU"
     git-repository-url: "https://github.com/VSS-Unes/bylaws"
     institution:
       full_name:
         fr: Institution d'Exemple
         de: Beispiel Institution
+        it: Istituzione di esempio
       short_name:
         fr: Exemple
         de: Beispiel
+        it: Esempio
     languages:
       - name: French
         iso-code: fr
       - name: German
         iso-code: de
+      - name: Italian
+        iso-code: it
     dictionary:
       - code: Version
         fr: Version
         de: Version
+        it: Versione
       - code: PDF Version
         fr: Version PDF
         de: PDF-Version
+        it: Versione PDF
       - code: Article
         fr: Article
         de: Artikel
+        it: Articolo
       - code: Regulation
         fr: Règlement
         de: Reglement
+        it: Regolamento
       - code: inserted
         fr: "Ajouté par décision [[ORGNANIZATION_DATIF]] au point [[ITEM]] lors de la séance du [[MEETING_DATE]], en vigueur depuis le [[SINCE]]."
         de: "Eingefügt durch den Beschluss [[ORGNANIZATION_DATIF]] in Traktandum [[ITEM]] in der Sitzung vom [[MEETING_DATE]], in Kraft seit [[SINCE]]."
+        it: "Aggiunto per decisione di [[ORGNANIZATION_DATIF]] al punto [[ITEM]] durante la seduta del [[MEETING_DATE]], in vigore dal [[SINCE]]."
       - code: inserted-no-date
         fr: "Ajouté par décision de la [[MEETING_NUMBER]]. [[ORGANIZATION]] au point [[ITEM]], en vigueur depuis le [[SINCE]]."
         de: "Eingefügt durch den Beschluss der [[MEETING_NUMBER]]. [[ORGANIZATION]] in Traktandum [[ITEM]], in Kraft seit [[SINCE]]." 
+        it: "Aggiunto per decisione della [[MEETING_NUMBER]]. [[ORGANIZATION]] al punto [[ITEM]], in vigore dal [[SINCE]]."     
       - code: changed
         fr: "Modifié par décision [[ORGNANIZATION_DATIF]] au point [[ITEM]] lors de la séance du [[MEETING_DATE]], en vigueur depuis le [[SINCE]]."
         de: "Geändert durch den Beschluss [[ORGNANIZATION_DATIF]] in Traktandum [[ITEM]] in der Sitzung vom [[MEETING_DATE]], in Kraft seit [[SINCE]]."
+        it: "Modificato per decisione di [[ORGNANIZATION_DATIF]] al punto [[ITEM]] durante la seduta del [[MEETING_DATE]], in vigore dal [[SINCE]]."
       - code: changed-no-date
         fr: "Modifié par décision de la [[MEETING_NUMBER]]. [[ORGANIZATION]] au point [[ITEM]], en vigueur depuis le [[SINCE]]."
         de: "Geändert durch den Beschluss der [[MEETING_NUMBER]]. [[ORGANIZATION]] in Traktandum [[ITEM]], in Kraft seit [[SINCE]]." 
+        it: "Modificato per decisione della [[MEETING_NUMBER]]. [[ORGANIZATION]] al punto [[ITEM]], in vigore dal [[SINCE]]."
       - code: deleted
         fr: "Abrogé par décision [[ORGNANIZATION_DATIF]] au point [[ITEM]] lors de la séance du [[MEETING_DATE]], en vigueur depuis le [[SINCE]]."
         de: "Aufgehoben durch den Beschluss [[ORGNANIZATION_DATIF]] in Traktandum [[ITEM]] in der Sitzung vom [[MEETING_DATE]], in Kraft seit [[SINCE]]."
+        it: "Abrogato per decisione di [[ORGNANIZATION_DATIF]] al punto [[ITEM]] durante la seduta del [[MEETING_DATE]], in vigore dal [[SINCE]]."
       - code: deleted-no-date
         fr: "Abrogé par décision de la [[MEETING_NUMBER]]. [[ORGANIZATION]] au point [[ITEM]], en vigueur depuis le [[SINCE]]."
         de: "Aufgehoben durch den Beschluss der [[MEETING_NUMBER]]. [[ORGANIZATION]] in Traktandum [[ITEM]], in Kraft seit [[SINCE]]." 
+        it: "Abrogato per decisione della [[MEETING_NUMBER]]. [[ORGANIZATION]] al punto [[ITEM]], in vigore dal [[SINCE]]."
     suborganizations:
       - short_name: DV
         name:
           fr: Assemblée des délégué-e-s
           de: Delegiertenversammlung
+          it: Assemblea dei e delle delegati/e
         name-datif:
           fr: "de l'Assemblée des délégué-e-s"
           de: "der Delegiertenversammlung"
+          it: "dell'Assemblea dei e delle delegati/e
         name-abbreviated:
           fr: "AD"
           de: "DV"
+          it: "AD"
       - short_name: SR
         name:
           fr: Conseil des sections
           de: Sektionsrat
+          it: Consiglio delle sezioni
         name-datif:
           fr: "du Conseil des sections"
-          de: "des Sektiionsrates"
+          de: "des Sektionsrates"
+          it: "del Consiglio delle sezioni"
         name-abbreviated:
           fr: "CdS"
           de: "SR"
+          it: "CdS"
   website:
     navbar:
       logo: "VSS_Logo_White.svg"

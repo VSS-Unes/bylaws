@@ -1,4 +1,5 @@
-<regulation id="13" title_de="Reglement über die Finanzkommission" short_de="Finanzkommissionsreglement" title_fr="Règlement de la Commission des finances" short_fr="Règlement de la CoFi" original_implementation_date="2025-01-01">
+<?xml version='1.0' encoding='utf-8'?>
+<regulation id="13" original_implementation_date="2025-01-01" short_de="Finanzkommissionsreglement" short_fr="Règlement de la CoFi" short_it="Regolamento della commissione delle finanze" title_de="Reglement über die Finanzkommission" title_fr="Règlement de la Commission des finances" title_it="Regolamento della commissione delle finanze">
 <preamble>
 <text language="de">
 Die Delegiertenversammlung, gestützt auf Art. 23 der Statuten, beschliesst:
@@ -6,22 +7,22 @@ Die Delegiertenversammlung, gestützt auf Art. 23 der Statuten, beschliesst:
 <text language="fr">
 L’Assemblée des délégué·e·s, se fondant sur l'art. 23 des Statuts, décide:
 </text>
-</preamble>
-<section title_de="Allgemeines" title_fr="Généralités">
+<text language="it"> L’assemblea dei e delle delegati/e, in base all’art. 23 degli statuti, decide: </text></preamble>
+<section title_de="Allgemeines" title_fr="Généralités" title_it="Disposizioni generali">
 <articles>
-<article title_de="Zweck" title_fr="But">
+<article title_de="Zweck" title_fr="But" title_it="Scopo">
 <text language="de">
 Die Finanzkommission, abgekürzt <quote>CoFi</quote>, ist für die strategische Budget- und Finanzplanung sowie für die kontinuierliche Überwachung der Finanzen des VSS verantwortlich.
 </text>
 <text language="fr">
 La Commission des finances, abrégé <quote>CoFi</quote>, est responsable de la planification stratégique du budget et des finances, ainsi que de la surveillance continue des finances de l'UNES.
 </text>
-</article>
+<text language="it"> La commissione finanziaria, abbreviata in «CoFi», è responsabile della pianificazione strategica del budget e delle finanze, nonché del monitoraggio continuo delle finanze dell’USU. </text></article>
 </articles>
 </section>
-<section title_de="Zusammensetzung" title_fr="Composition">
+<section title_de="Zusammensetzung" title_fr="Composition" title_it="Composizione">
 <articles>
-<article title_de="Zusammensetzung" title_fr="Composition">
+<article title_de="Zusammensetzung" title_fr="Composition" title_it="Composizione">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -30,7 +31,7 @@ Die Finanzkommission setzt sich aus folgenden Mitgliedern zusammen:
 <text language="fr">
 La Commission des finances se compose des membres suivants :
 </text>
-<letters>
+<text language="it"> La commissione finanziaria è composta dai seguenti membri: </text><letters>
 <letter>
 <text language="de">
 einer entsandten Person aus jeder Sektion;
@@ -38,7 +39,7 @@ einer entsandten Person aus jeder Sektion;
 <text language="fr">
 une personne déléguée de chaque section ;
 </text>
-</letter>
+<text language="it"> una persona delegata di ciascuna sezione; </text></letter>
 <letter>
 <text language="de">
 einem Mitglied des Co-Präsidiums;
@@ -46,7 +47,7 @@ einem Mitglied des Co-Präsidiums;
 <text language="fr">
 un membre de la coprésidence ;
 </text>
-</letter>
+<text language="it"> un membro della copresidenza; </text></letter>
 <letter>
 <text language="de">
 einem Mitglied des Generalsekretariats;
@@ -54,7 +55,7 @@ einem Mitglied des Generalsekretariats;
 <text language="fr">
 un membre du Secrétariat général ;
 </text>
-</letter>
+<text language="it"> un membro del segretariato generale; </text></letter>
 </letters>
 </paragraph>
 <paragraph>
@@ -64,7 +65,7 @@ Alle Mitglieder besitzen Antrags- und Rederecht.
 <text language="fr">
 Tout les membres disposent du droit de proposition et de parole.
 </text>
-</paragraph>
+<text language="it"> Tutti i membri hanno diritto di presentare proposte e diritto di parola. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Mitglieder nach Abs. 1 Bst a. und b. sind stimmberechtigt.
@@ -72,7 +73,7 @@ Die Mitglieder nach Abs. 1 Bst a. und b. sind stimmberechtigt.
 <text language="fr">
 Les membres visés à l’al. 1, let. a. et b., disposent du droit de vote.
 </text>
-</paragraph>
+<text language="it"> I membri di cui al cpv. 1 lettere a, b hanno diritto di voto. </text></paragraph>
 <paragraph>
 <text language="de">
 Es können Gäst:innen an den Sitzungen teilnehmen.
@@ -80,14 +81,14 @@ Es können Gäst:innen an den Sitzungen teilnehmen.
 <text language="fr">
 Des invité·e·s peuvent participer aux réunions.
 </text>
-</paragraph>
+<text language="it"> Le persone ospiti possono partecipare alle riunioni. </text></paragraph>
 </paragraphs>
 </article>
 </articles>
 </section>
-<section title_de="Aufgaben und Kompetenzen" title_fr="Tâches et compétences">
+<section title_de="Aufgaben und Kompetenzen" title_fr="Tâches et compétences" title_it="Compiti e competenze">
 <articles>
-<article title_de="Aufgaben" title_fr="Tâches">
+<article title_de="Aufgaben" title_fr="Tâches" title_it="Compiti">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -96,7 +97,7 @@ Die Finanzkommission bespricht alle finanzwirksamen Geschäfte der Delegiertenve
 <text language="fr">
 La Commission des finances discute de toutes les affaires ayant une incidence financière avant l'Assemblée des délégué·e·s. Il s'agit en particulier : 
 </text>
-<letters>
+<text language="it"> La commissione finanziaria discute tutte le questioni con rilevanza finanziaria dell’assemblea dei e delle delegati/e. Tra queste figurano in particolare: </text><letters>
 <letter>
 <text language="de">
 das Budget;
@@ -104,7 +105,7 @@ das Budget;
 <text language="fr">
 du budget ;
 </text>
-</letter>
+<text language="it"> il budget; </text></letter>
 <letter>
 <text language="de">
 die Rechnung;
@@ -112,7 +113,7 @@ die Rechnung;
 <text language="fr">
 des comptes ;
 </text>
-</letter>
+<text language="it"> il conto annuale; </text></letter>
 <letter>
 <text language="de">
 Stundungen und Anpassungen von Mitgliederbeiträgen;
@@ -120,7 +121,7 @@ Stundungen und Anpassungen von Mitgliederbeiträgen;
 <text language="fr">
 des surcis et ajustements des cotisations des membres ;
 </text>
-</letter>
+<text language="it"> dilazioni e adeguamenti delle quote associative; </text></letter>
 <letter>
 <text language="de">
 Änderungen am Finanzreglement;
@@ -128,7 +129,7 @@ des surcis et ajustements des cotisations des membres ;
 <text language="fr">
 des modifications du Règlement des finances ;
 </text>
-</letter>
+<text language="it"> modifiche al regolamento finanziario; </text></letter>
 <letter>
 <text language="de">
 Änderungen an spezifischen Bestimmungen zu den Fonds;
@@ -136,7 +137,7 @@ des modifications du Règlement des finances ;
 <text language="fr">
 des modifications apportées aux dispositions spécifiques des fonds ;
 </text>
-</letter>
+<text language="it"> modifiche alle disposizioni specifiche relative ai fondi; </text></letter>
 <letter>
 <text language="de">
 Äufnungen und Auflösungen von Fonds;
@@ -144,7 +145,7 @@ des modifications apportées aux dispositions spécifiques des fonds ;
 <text language="fr">
 de créations et de dissolutions de fonds ;
 </text>
-</letter>
+<text language="it"> costituzioni e scioglimenti di fondi; </text></letter>
 <letter>
 <text language="de">
 Änderungsanträge zu den oben genannten Geschäften.
@@ -152,7 +153,7 @@ de créations et de dissolutions de fonds ;
 <text language="fr">
 des amendements aux points susmentionnés.
 </text>
-</letter>
+<text language="it"> proposte di modifica relative alle questioni sopraindicate. </text></letter>
 </letters>
 </paragraph>
 <paragraph>
@@ -162,7 +163,7 @@ Die Finanzkommission kann zu diesen Geschäften eine Empfehlung zu Handen der De
 <text language="fr">
 La Commission des finances peut émettre une recommandation sur ces points à l'attention de l'Assemblée des délégué·e·s.
 </text>
-</paragraph>
+<text language="it"> La commissione finanziaria può formulare una raccomandazione all’assemblea dei e delle delegati/e in merito a tali operazioni. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Finanzkommission überwacht die generelle finanzielle Lage des Verbands.
@@ -170,30 +171,30 @@ Die Finanzkommission überwacht die generelle finanzielle Lage des Verbands.
 <text language="fr">
 La Commission des finances surveille la situation financière générale de l'association.
 </text>
-</paragraph>
+<text language="it"> La commissione finanziaria sorveglia la situazione finanziaria generale dell’associazione. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Berichterstattung" title_fr="Rapports">
+<article title_de="Berichterstattung" title_fr="Rapports" title_it="Redazione del rapporto">
 <text language="de">
 Die Finanzkommission erstellt zur Frühlings-Delegiertenversammlung einen Bericht mit den von ihr behandelten Geschäften, nach Art. 23 des DV-Reglements.
 </text>
 <text language="fr">
 La Commission des finances établit un rapport à l’attention de l'Assemblée des délégué·e·s de printemps sur les objets qu'elle a traités, conformément à l'art. 23 du Règlement de l'AD.
 </text>
-</article>
-<article title_de="Kompetenzen" title_fr="Compétences">
+<text language="it"> La commissione finanziaria redige un rapporto di primavera per l’assemblea dei e delle delegati/e con gli oggetti da essa trattate, ai sensi dell’art. 23 del regolamento dell’AD. </text></article>
+<article title_de="Kompetenzen" title_fr="Compétences" title_it="Competenze">
 <text language="de">
 Die Kommission für Finanzen hat für die kontinuierliche Überwachung der Finanzen die volle Einsicht in die Buchhaltungsunterlagen.
 </text>
 <text language="fr">
 La Commission des finances dispose d'un accès complet aux documents comptables pour le suivi continu des finances.
 </text>
-</article>
+<text language="it"> La commissione per le finanze ha pieno accesso alla documentazione contabile per il monitoraggio continuo delle finanze. </text></article>
 </articles>
 </section>
-<section title_de="Sitzungen" title_fr="Réunions">
+<section title_de="Sitzungen" title_fr="Réunions" title_it="Riunioni">
 <articles>
-<article title_de="Sitzungen" title_fr="Réunions">
+<article title_de="Sitzungen" title_fr="Réunions" title_it="Riunioni">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -202,7 +203,7 @@ Das Mitglied des Generalsekretariats nach Art. 2 Abs. 1 Bst. c lädt zu Sitzunge
 <text language="fr">
 Le membre du Secrétariat général visé à l'article 2, al. 1, let. c, convoque les réunions.
 </text>
-</paragraph>
+<text language="it"> Il membro del segretariato generale di cui all’art. 2 cpv. 1 lett. c convoca le riunioni. </text></paragraph>
 <paragraph>
 <text language="de">
 Auf Begehren von mindestens zwei Mitgliedern ist eine ausserordentliche Sitzung einzuberufen. Diese findet innerhalb von drei Wochen statt.
@@ -210,7 +211,7 @@ Auf Begehren von mindestens zwei Mitgliedern ist eine ausserordentliche Sitzung 
 <text language="fr">
 Une réunion extraordinaire doit être convoquée à la demande d'au moins deux membres. Celle-ci a lieu dans un délai de trois semaines.
 </text>
-</paragraph>
+<text language="it"> Una riunione straordinaria può essere convocata su richiesta di almeno due membri. Questa ha luogo entro tre settimane. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Traktandenliste wird den Kommissionsmitgliedern, den Sektionen, dem Vorstand und der GPK zugestellt.
@@ -218,7 +219,7 @@ Die Traktandenliste wird den Kommissionsmitgliedern, den Sektionen, dem Vorstand
 <text language="fr">
 L'ordre du jour est envoyé aux membres de la commission, aux sections, au Comité exécutif et à la CdC.
 </text>
-</paragraph>
+<text language="it"> L’ordine del giorno viene inviato ai membri della commissione, alle sezioni, al comitato esecutivo e alla CDG. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Traktandenliste beinhaltet mindestens Zeitpunkt und Ort der Sitzung sowie eine Auflistung aller Traktanden. Vertrauliche Traktanden dürfen als “Vertraulich” aufgeführt werden.
@@ -226,7 +227,7 @@ Die Traktandenliste beinhaltet mindestens Zeitpunkt und Ort der Sitzung sowie ei
 <text language="fr">
 L'ordre du jour comprend au moins la date et le lieu de la réunion ainsi qu'une liste de tous les points à l'ordre du jour. Les points confidentiels peuvent être mentionnés sous la forme <quote>Confidentiel</quote>.
 </text>
-</paragraph>
+<text language="it"> L’ordine del giorno contiene almeno la data e il luogo della riunione, nonché un elenco di tutti i punti all’ordine del giorno. I punti all’ordine del giorno riservati possono essere contrassegnati come «riservati». </text></paragraph>
 <paragraph>
 <text language="de">
 Die Finanzkommission ist beschlussfähig, wenn drei Mitglieder anwesend sind.
@@ -234,18 +235,18 @@ Die Finanzkommission ist beschlussfähig, wenn drei Mitglieder anwesend sind.
 <text language="fr">
 La Commission des finances peut délibérer lorsque trois membres au moins sont présents.
 </text>
-</paragraph>
+<text language="it"> La commissione finanziaria è validamente costituita se sono presenti tre membri. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Sitzungsleitung" title_fr="Présidence de la réunions">
+<article title_de="Sitzungsleitung" title_fr="Présidence de la réunions" title_it="Presidenza delle riunioni">
 <text language="de">
 Das Mitglied des Generalsekretariats nach Art. 2 Abs. 1 Bst. c leitet die Sitzungen.
 </text>
 <text language="fr">
 Le membre du Secrétariat général visé à l'art. 2, al. 1, let. c, préside les réunions.
 </text>
-</article>
-<article title_de="Protokoll" title_fr="Procès-verbal">
+<text language="it"> Il membro del segretariato generale di cui all’art. 2 cpv. 1 lett. c presiede le riunioni. </text></article>
+<article title_de="Protokoll" title_fr="Procès-verbal" title_it="Verbale">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -254,7 +255,7 @@ Es ist an jeder Sitzung ein Argumentationsprotokoll zu führen, welches den Anfo
 <text language="fr">
 Un compte-rendu intégral doit être rédigé à chaque réunion, conformément aux exigences de l'art. 36 du Règlement sur la participation et la transparence.
 </text>
-</paragraph>
+<text language="it"> Ad ogni riunione deve essere redatto un verbale che soddisfi i requisiti di cui all’art. 36 del regolamento sulla partecipazione e sulla trasparenza. </text></paragraph>
 <paragraph>
 <text language="de">
 Protokolle werden nach der Genehmigung gemäss Art. 38 des Mitwirkungs- und Öffentlichkeitsreglements veröffentlicht.
@@ -262,7 +263,7 @@ Protokolle werden nach der Genehmigung gemäss Art. 38 des Mitwirkungs- und Öff
 <text language="fr">
 Les procès-verbaux sont publiés après leur approbation, conformément à l'article 38 du Règlement sur la participation et la transparence.
 </text>
-</paragraph>
+<text language="it"> I verbali vengono pubblicati dopo l’approvazione ai sensi dell’art. 38 del regolamento sulla partecipazione e sulla trasparenza. </text></paragraph>
 <paragraph>
 <text language="de">
 Protokolle werden nach der Genehmigung dem VSS-Vorstand, den Sektionen und der GPK zugestellt. Vertrauliche Protokolle werden nur dem VSS-Vorstand und der GPK zugestellt.
@@ -270,30 +271,30 @@ Protokolle werden nach der Genehmigung dem VSS-Vorstand, den Sektionen und der G
 <text language="fr">
 Une fois approuvés, les procès-verbaux sont envoyés au Comité exécutif, au sections et à la CdC. Les procès-verbaux peuvent ne pas être envoyés s’ils contiennent des éléments confidentiels.
 </text>
-</paragraph>
+<text language="it"> Dopo l’approvazione, i verbali vengono inviati al comitato esecutivo dell’USU, alle sezioni e alla CDG. I verbali riservati vengono inviati solo al comitato esecutivo dell’USU e alla CDG. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Beschlussfindung" title_fr="Prise de décision">
+<article title_de="Beschlussfindung" title_fr="Prise de décision" title_it="Processo decisionale">
 <text language="de">
 Die Modalitäten der Abstimmungsverfahren sind in Art. 25ff Mitwirkungs- und Öffentlichkeitsreglement geregelt.
 </text>
 <text language="fr">
 Les modalités des procédures de vote sont régies par les articles 25 et suivants du Règlement sur la participation et la transparence.
 </text>
-</article>
+<text language="it"> Le modalità delle procedure di voto sono disciplinate dall’art. 25 e seguenti del regolamento sulla partecipazione e sulla trasparenza. </text></article>
 </articles>
 </section>
-<section title_de="Schlussbestimmungen" title_fr="Dispositions finales">
+<section title_de="Schlussbestimmungen" title_fr="Dispositions finales" title_it="Disposizioni finali">
 <articles>
-<article title_de="Revisionsbestimmungen" title_fr="Dispositions relatives à la révision">
+<article title_de="Revisionsbestimmungen" title_fr="Dispositions relatives à la révision" title_it="Disposizioni di revisione">
 <text language="de">
 Dieses Reglement unterliegt den Revisionsbestimmungen gemäss Art. 41 der Statuten.
 </text>
 <text language="fr">
 Le présent règlement est soumis aux dispositions relatives à la révision conformément à l'article 41 des statuts.
 </text>
-</article>
-<article title_de="Version" title_fr="Version">
+<text language="it"> Questo regolamento è soggetto alle disposizioni di revisione sulla base dell’art. 41 degli statuti. </text></article>
+<article title_de="Version" title_fr="Version" title_it="Versione">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -302,7 +303,7 @@ Dieses Reglement wurde von der 184. Delegiertenversammlung erlassen.
 <text language="fr">
 Le présent règlement a été adopté par la 184e Assemblée des délégué·e·s.
 </text>
-</paragraph>
+<text language="it"> Il presente regolamento è stato approvato dalla 184a assemblea dei e delle delegati/e. </text></paragraph>
 <paragraph>
 <text language="de">
 Es tritt am 01.01.2025 in Kraft.
@@ -310,7 +311,7 @@ Es tritt am 01.01.2025 in Kraft.
 <text language="fr">
 Il entre en vigueur le 01.01.2025.
 </text>
-</paragraph>
+<text language="it"> Entra in vigore il 1° gennaio 2025. </text></paragraph>
 </paragraphs>
 </article>
 </articles>

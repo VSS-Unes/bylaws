@@ -1,4 +1,5 @@
-<regulation id="23" title_de="Reglement über die Vertretungen des VSS" short_de="Vertretungsreglement" title_fr="Règlement des représentations de l'UNES" short_fr="Règlement des représentations" original_implementation_date="2025-01-01">
+<?xml version='1.0' encoding='utf-8'?>
+<regulation id="23" original_implementation_date="2025-01-01" short_de="Vertretungsreglement" short_fr="Règlement des représentations" short_it="Regolamento sulle rappresentanze" title_de="Reglement über die Vertretungen des VSS" title_fr="Règlement des représentations de l'UNES" title_it="Regolamento generale sulle rappresentanze dell’USU">
 <preamble>
 <text language="de">
 Die Delegiertenversammlung, gestützt auf Art. 31 der Statuten, beschliesst:
@@ -6,10 +7,10 @@ Die Delegiertenversammlung, gestützt auf Art. 31 der Statuten, beschliesst:
 <text language="fr">
 L’Assemblée des délégué·e·s, se fondant sur l'art. 31 des Statuts, décide:
 </text>
-</preamble>
-<section title_de="Allgemeines" title_fr="Généralités">
+<text language="it"> L’assemblea dei e delle delegati/e, in base all’art. 31 degli statuti, decide: </text></preamble>
+<section title_de="Allgemeines" title_fr="Généralités" title_it="Disposizioni generali">
 <articles>
-<article title_de="Definition" title_fr="Définition">
+<article title_de="Definition" title_fr="Définition" title_it="Definizione">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -18,7 +19,7 @@ Vertretungen repräsentieren den VSS in spezifischen, institutionalisierten Grem
 <text language="fr">
 Les représentant·e·s représentent l'UNES dans des organes spécifiques et institutionnalisés en dehors de l'association.
 </text>
-</paragraph>
+<text language="it"> Le rappresentanze operano per l’USU in specifici organi istituzionalizzati esterni all’associazione. </text></paragraph>
 <paragraph>
 <text language="de">
 Sie sind dem Sektionsrat Rechenschaft schuldig.
@@ -26,7 +27,7 @@ Sie sind dem Sektionsrat Rechenschaft schuldig.
 <text language="fr">
 Ils et elles sont responsables devant le conseil des sections.
 </text>
-</paragraph>
+<text language="it"> Sono tenuti a rendere conto al consiglio delle sezioni. </text></paragraph>
 <paragraph>
 <text language="de">
 Der VSS-Vorstand koordiniert die Vertretungen und ist ihnen gegenüber weisungsbefugt.
@@ -34,14 +35,14 @@ Der VSS-Vorstand koordiniert die Vertretungen und ist ihnen gegenüber weisungsb
 <text language="fr">
 Le Comité exécutif coordonne les représentations et est habilité à leur donner des instructions.
 </text>
-</paragraph>
+<text language="it"> Il comitato esecutivo dell’USU coordina le rappresentanze e impartisce loro istruzioni. </text></paragraph>
 </paragraphs>
 </article>
 </articles>
 </section>
-<section title_de="Vertretungsliste" title_fr="Liste des représentant·e·s">
+<section title_de="Vertretungsliste" title_fr="Liste des représentant·e·s" title_it="Lista delle rappresentanze">
 <articles>
-<article title_de="Definition" title_fr="Définition">
+<article title_de="Definition" title_fr="Définition" title_it="Definizione">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -50,7 +51,7 @@ Der VSS-Vorstand führt eine Vertretungsliste mit allen Vertretungen.
 <text language="fr">
 Le Comité exécutif tient une liste de toutes les représentations.
 </text>
-</paragraph>
+<text language="it"> Il comitato esecutivo dell’USU mantiene una lista con tutte le rappresentanze. </text></paragraph>
 <paragraph>
 <text language="de">
 Bei Mutationen schlägt der VSS-Vorstand dem Sektionsrat eine Anpassung vor. Dieser beschliesst die Anpassung.
@@ -58,7 +59,7 @@ Bei Mutationen schlägt der VSS-Vorstand dem Sektionsrat eine Anpassung vor. Die
 <text language="fr">
 En cas de mutation, le Comité exécutif propose une adaptation au Conseil des Sections. Celui-ci décide de l'adaptation.
 </text>
-</paragraph>
+<text language="it"> In caso di cambiamenti, il comitato esecutivo dell’USU suggerisce un adeguamento al consiglio delle sezioni. Il consiglio delle sezioni prende una decisione in merito all’adeguamento. </text></paragraph>
 <paragraph>
 <text language="de">
 Vertretungen, für die von diesem Reglement abweichende Bestimmungen gelten, sind in der Vertretungsliste markiert.
@@ -66,17 +67,17 @@ Vertretungen, für die von diesem Reglement abweichende Bestimmungen gelten, sin
 <text language="fr">
 Les représentations auxquelles s'appliquent des dispositions dérogatoires au présent règlement sont signalées dans la liste des représentations.
 </text>
-</paragraph>
+<text language="it"> Le rappresentanze alle quali si applicano disposizioni diverse dal presente regolamento sono contrassegnate nell’elenco delle rappresentanze. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Inhalt" title_fr="Contenu">
+<article title_de="Inhalt" title_fr="Contenu" title_it="Contenuto">
 <text language="de">
 Die Vertretungsliste enthält mindestens Angaben zu:
 </text>
 <text language="fr">
 La liste des représentant·e·s contient au moins des informations sur :
 </text>
-<letters>
+<text language="it"> La lista delle rappresentanze contiene almeno le seguenti informazioni: </text><letters>
 <letter>
 <text language="de">
 Bezeichnung des Gremiums;
@@ -84,7 +85,7 @@ Bezeichnung des Gremiums;
 <text language="fr">
 le nom de l'organisme ;
 </text>
-</letter>
+<text language="it"> denominazione dell’organo; </text></letter>
 <letter>
 <text language="de">
 Anzahl und Art der Sitze und Stimmen;
@@ -92,7 +93,7 @@ Anzahl und Art der Sitze und Stimmen;
 <text language="fr">
 le nombre et le type de sièges et de voix ;
 </text>
-</letter>
+<text language="it"> numero e tipo di seggi e voti; </text></letter>
 <letter>
 <text language="de">
 von Amtes wegen besetzte Sitze;
@@ -100,7 +101,7 @@ von Amtes wegen besetzte Sitze;
 <text language="fr">
 les sièges pourvus d'office ;
 </text>
-</letter>
+<text language="it"> seggi occupati d’ufficio; </text></letter>
 <letter>
 <text language="de">
 ob und welcher Kommission die Vertretung zugeordnet wird, nach Allgemeines Kommissionsreglement Art. 6 Abs. 1 Bst. c.
@@ -108,10 +109,10 @@ ob und welcher Kommission die Vertretung zugeordnet wird, nach Allgemeines Kommi
 <text language="fr">
 si, conformément au Règlement général des commissions, art. 6, al. 1, let. c, la représentation est attribuée à une commission et, le cas échéant, laquelle est précisé.
 </text>
-</letter>
+<text language="it"> se e a quale commissione viene assegnata la rappresentanza, secondo il regolamento generale delle commissioni, art. 6 cpv. 1 lett. c. </text></letter>
 </letters>
 </article>
-<article title_de="Mutationen" title_fr="Mutations">
+<article title_de="Mutationen" title_fr="Mutations" title_it="Cambiamenti">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -120,7 +121,7 @@ Vertretungen sind in die Vertretungsliste aufzunehmen, wenn sie voraussichtlich 
 <text language="fr">
 Les représentations doivent être inscrites sur la liste des représentations si elles sont susceptibles de persister dans le temps.
 </text>
-</paragraph>
+<text language="it"> Le rappresentanze devono essere inserite nell’elenco delle rappresentanze se si prevede che durino per un periodo di tempo prolungato. </text></paragraph>
 <paragraph>
 <text language="de">
 Vertretungen werden von der Vertretungsliste gelöscht, sobald das Gremium aufgelöst wird oder der VSS kein Anrecht auf die Vertretung mehr hat.
@@ -128,22 +129,22 @@ Vertretungen werden von der Vertretungsliste gelöscht, sobald das Gremium aufge
 <text language="fr">
 Les représentations sont supprimées de la liste des représentations dès que l'organe est dissous ou que l'UNES n'a plus droit à la représentation.
 </text>
-</paragraph>
+<text language="it"> Le rappresentanze vengono cancellate dall’elenco delle rappresentanze non appena l’organo viene sciolto o l’USU non ha più diritto alla rappresentanza. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Publikation" title_fr="Publication">
+<article title_de="Publikation" title_fr="Publication" title_it="Pubblicazione">
 <text language="de">
 Die Vertretungsliste wird auf geeigneten Weg publiziert.
 </text>
 <text language="fr">
 La liste des représentations est publiée par les voies appropriées.
 </text>
-</article>
+<text language="it"> La lista delle rappresentanze viene pubblicata in maniera adeguata. </text></article>
 </articles>
 </section>
-<section title_de="Besetzung" title_fr="Occupation">
+<section title_de="Besetzung" title_fr="Occupation" title_it="Distribuzione">
 <articles>
-<article title_de="Wählbarkeit" title_fr="Éligibilité">
+<article title_de="Wählbarkeit" title_fr="Éligibilité" title_it="Eleggibilità">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -152,7 +153,7 @@ Wählbar sind grundsätzlich alle Personen, welche die Anforderungen nach Art. 3
 <text language="fr">
 Sont en principe éligibles toutes les personnes qui remplissent les conditions de l'art. 3, al. 1 du Règlement sur la participation et la transparence.
 </text>
-</paragraph>
+<text language="it"> Sono eleggibili tutte le persone che soddisfano i requisiti di cui all’art. 3 cpv. 1 del regolamento sulla partecipazione e sulla trasparenza. </text></paragraph>
 <paragraph>
 <text language="de">
 Vorbehalten bleiben Einschränkungen vom passiven Wahlrecht in den Regelungen der einzelnen Gremien.
@@ -160,10 +161,10 @@ Vorbehalten bleiben Einschränkungen vom passiven Wahlrecht in den Regelungen de
 <text language="fr">
 Les restrictions au droit d'éligibilité peuvent être prévues dans les règlements des différents organes.
 </text>
-</paragraph>
+<text language="it"> Le restrizioni al diritto di eleggibilità previste dai regolamenti dei singoli organi rimangono riservate. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Wahl und Ersatzwahl" title_fr="Élection et remplacement">
+<article title_de="Wahl und Ersatzwahl" title_fr="Élection et remplacement" title_it="Elezioni ed elezioni suppletive">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -172,7 +173,7 @@ Die ordentliche Wahl findet durch den ersten Sektionsrat des Herbstsemesters sta
 <text language="fr">
 L'élection ordinaire a lieu lors du premier Conseil des sections du semestre d'automne.
 </text>
-</paragraph>
+<text language="it"> Le elezioni ordinarie si svolgono durante la prima riunione del semestre autunnale del consiglio delle sezioni. </text></paragraph>
 <paragraph>
 <text language="de">
 Der Sektionsrat kann jederzeit Ersatzwahlen durchführen. In dringend Fällen kann der VSS-Vorstand Ersatzwahlen durchführen, diese sind durch den nächsten Sektionsrat zu bestätigen.
@@ -180,10 +181,10 @@ Der Sektionsrat kann jederzeit Ersatzwahlen durchführen. In dringend Fällen ka
 <text language="fr">
 Le Conseil des sections peut organiser des élections complémentaires à tout moment. En cas d'urgence, le Comité exécutif de l'UNES peut procéder à des élections complémentaires, qui doivent être confirmées par le Conseil des sections suivant.
 </text>
-</paragraph>
+<text language="it"> Il consiglio delle sezioni può indire elezioni suppletive in qualsiasi momento. In casi urgenti, il comitato esecutivo dell’USU può indire elezioni suppletive, previa conferma da parte del consiglio delle sezioni successivo. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Amtsperiode, Amtszeit" title_fr="Mandat, durée du mandat">
+<article title_de="Amtsperiode, Amtszeit" title_fr="Mandat, durée du mandat" title_it="Mandato, durata del mandato">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -192,7 +193,7 @@ Die reguläre Amtsperiode beginnt am ersten Sektionsrat des Herbstsemesters und 
 <text language="fr">
 Le mandat régulier commence au premier Conseil des sections du semestre d'automne et se termine au premier Conseil des sections du semestre d'automne de l'année suivante.
 </text>
-</paragraph>
+<text language="it"> Il mandato regolare inizia con il primo consiglio delle sezioni del semestre autunnale e termina con il primo consiglio delle sezioni del semestre autunnale dell’anno successivo. Vcx\&gt; </text></paragraph>
 <paragraph>
 <text language="de">
 Die Anzahl Amtsperioden ist unbegrenzt.
@@ -200,18 +201,18 @@ Die Anzahl Amtsperioden ist unbegrenzt.
 <text language="fr">
 Le nombre de mandats n’est pas limité.
 </text>
-</paragraph>
+<text language="it"> Il numero dei mandati è illimitato. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Abwahl" title_fr="Destitution">
+<article title_de="Abwahl" title_fr="Destitution" title_it="Destituzione">
 <text language="de">
 Der Sektionsrat kann in begründeten Ausnahmefällen eine Vertretung mit einer Zweidrittelmehrheit abwählen.
 </text>
 <text language="fr">
 Le Conseil des sections peut, dans des cas exceptionnels et justifiés, destituer un·e représentant·e par un vote à la majorité des deux tiers.
 </text>
-</article>
-<article title_de="Sitze von Amtes wegen" title_fr="Sièges d'office">
+<text language="it"> In casi eccezionali giustificati, il consiglio delle sezioni può destituire una rappresentanza con una maggioranza dei due terzi. </text></article>
+<article title_de="Sitze von Amtes wegen" title_fr="Sièges d'office" title_it="Seggi d’ufficio">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -220,7 +221,7 @@ Sitze in Vertretungen können von Amtes wegen besetzt werden.
 <text language="fr">
 Les sièges dans les représentations peuvent être pourvus d'office.
 </text>
-</paragraph>
+<text language="it"> I seggi nelle rappresentanze possono essere occupati d’ufficio. </text></paragraph>
 <paragraph>
 <text language="de">
 Der Sektionsrat legt in der Vertretungsliste fest, welche Sitze von Amtes wegen besetzt werden und welchem Amt diese zufallen.
@@ -228,7 +229,7 @@ Der Sektionsrat legt in der Vertretungsliste fest, welche Sitze von Amtes wegen 
 <text language="fr">
 Le Conseil des sections détermine dans la liste de représentation les sièges qui sont pourvus d'office et à quel titre ils sont attribués.
 </text>
-</paragraph>
+<text language="it"> Il consiglio delle sezioni stabilisce nelle liste delle rappresentanze quali seggi vengono occupati d’ufficio e a quale ufficio spettano. </text></paragraph>
 <paragraph>
 <text language="de">
 Wird das bezeichnete Amt von mehreren Personen bekleidet, so wird die Vertreterin oder der Vertreter durch den VSS-Vorstand in Absprache mit diesen Personen bestimmt.
@@ -236,14 +237,14 @@ Wird das bezeichnete Amt von mehreren Personen bekleidet, so wird die Vertreteri
 <text language="fr">
 Si la fonction en question est occupée par plusieurs personnes, le ou la représentant·e est désigné par le Comité exécutif de l'UNES en concertation avec ces personnes.
 </text>
-</paragraph>
+<text language="it"> Se la carica designata è ricoperta da più persone, il/la rappresentante viene nominato/a dal comitato esecutivo dell’USU in accordo con tali persone. </text></paragraph>
 </paragraphs>
 </article>
 </articles>
 </section>
-<section title_de="Pflichten" title_fr="Obligations">
+<section title_de="Pflichten" title_fr="Obligations" title_it="Doveri">
 <articles>
-<article title_de="Austausch mit dem VSS-Vorstand" title_fr="Échange avec le comité de l'UNES">
+<article title_de="Austausch mit dem VSS-Vorstand" title_fr="Échange avec le comité de l'UNES" title_it="Scambio con il comitato esecutivo dell’USU">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -252,7 +253,7 @@ Vertretungen halten Kontakt mit dem VSS-Vorstand und informieren ihn laufend üb
 <text language="fr">
 Les représentations restent en contact avec le Comité exécutif et l'informent en continu de leurs activités.
 </text>
-</paragraph>
+<text language="it"> Le rappresentanze mantengono i contatti con il comitato esecutivo dell’USU e lo tengono informato sulle proprie attività. </text></paragraph>
 <paragraph>
 <text language="de">
 Bei wichtigen Entscheidungen in ihren Gremien konsultieren sie den VSS-Vorstand mit genügender Vorlaufzeit. Dieser kann der Vertretung zu diesen Entscheiden verbindliche Anweisungen geben.
@@ -260,7 +261,7 @@ Bei wichtigen Entscheidungen in ihren Gremien konsultieren sie den VSS-Vorstand 
 <text language="fr">
 Lorsqu'elles prennent des décisions importantes au sein de leurs organes, elles consultent le Comité exécutif avec un délai suffisant. Celui-ci peut donner des instructions contraignantes à la représentation concernant ces décisions.
 </text>
-</paragraph>
+<text language="it"> In caso di decisioni importanti all’interno del proprio organo, le rappresentanze si consultano con il comitato esecutivo dell’USU con sufficiente anticipo. Il comitato esecutivo può dare istruzioni vincolanti alla rappresentanza in merito a tali decisioni. </text></paragraph>
 <paragraph>
 <text language="de">
 Bei Entscheiden, die mit unmittelbaren finanziellen Folgen für den VSS verbunden sind, benötigen Vertretungen die Zustimmung des VSS-Vorstandes.
@@ -268,10 +269,10 @@ Bei Entscheiden, die mit unmittelbaren finanziellen Folgen für den VSS verbunde
 <text language="fr">
 Pour les décisions qui ont des conséquences financières directes pour l'UNES, les représentations ont besoin de l'approbation du Comité exécutif.
 </text>
-</paragraph>
+<text language="it"> Per le decisioni che comportano conseguenze finanziarie dirette per l’USU, le rappresentanze necessitano dell’approvazione del comitato esecutivo dell’USU. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Berichterstattung" title_fr="Rapports">
+<article title_de="Berichterstattung" title_fr="Rapports" title_it="Redazione del rapporto">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -280,7 +281,7 @@ Alle Vertretungen haben die nicht vertraulichen Sitzungsunterlagen dem VSS-Vorst
 <text language="fr">
 Toutes les représentations doivent remettre au Comité exécutif les documents non confidentiels relatifs aux réunions.
 </text>
-</paragraph>
+<text language="it"> Tutte le rappresentanze devono presentare al comitato esecutivo dell’USU la documentazione non riservata relativa alle riunioni. </text></paragraph>
 <paragraph>
 <text language="de">
 Vertretungen haben zur ordentliche Delegierten Versammlung im Frühling einen Bericht einzureichen.
@@ -288,14 +289,14 @@ Vertretungen haben zur ordentliche Delegierten Versammlung im Frühling einen Be
 <text language="fr">
 Les représentants doivent soumettre un rapport à l’Assemblée des délégué·e·s ordinaire de printemps.
 </text>
-</paragraph>
+<text language="it"> Le rappresentanze sono tenute a presentare un rapporto all’assemblea ordinaria dei e delle delegati/e in primavera. </text></paragraph>
 </paragraphs>
 </article>
 </articles>
 </section>
-<section title_de="Delegationen im Ausland" title_fr="Délégations à l'étranger">
+<section title_de="Delegationen im Ausland" title_fr="Délégations à l'étranger" title_it="Delegazioni all’estero">
 <articles>
-<article title_de="Stellungnahmen" title_fr="Prises de position">
+<article title_de="Stellungnahmen" title_fr="Prises de position" title_it="Prese di posizione">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -304,7 +305,7 @@ Les représentants doivent soumettre un rapport à l’Assemblée des délégué
 <text language="fr">
 La délégation de l'UNES décide des prises de position lors d'événements internationaux par un vote dans la limite de la portée de son mandat. 
 </text>
-</paragraph>
+<text language="it"> La delegazione dell’USU decide in merito alle prese di posizione in occasione di eventi internazionali nell’ambito del proprio mandato. </text></paragraph>
 <paragraph>
 <text language="de">
 Sie hat dies dem Vorstand gegenüber zu verantworten.
@@ -312,7 +313,7 @@ Sie hat dies dem Vorstand gegenüber zu verantworten.
 <text language="fr">
 Elle doit en rendre compte au Comité exécutif.
 </text>
-</paragraph>
+<text language="it"> È responsabile di ciò nei confronti del comitato esecutivo. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Modalitäten der Abstimmungsverfahren sind in Art. 25ff Mitwirkungs- und Öffentlichkeitsreglement geregelt.
@@ -320,30 +321,30 @@ Die Modalitäten der Abstimmungsverfahren sind in Art. 25ff Mitwirkungs- und Öf
 <text language="fr">
 Les modalités des procédures de vote sont régies par les articles 25 et suivants du Règlement sur la participation et la transparence.
 </text>
-</paragraph>
+<text language="it"> Le modalità delle procedure di voto sono disciplinate dall’art. 25 e seguenti del regolamento sulla partecipazione e sulla trasparenza. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Berichte" title_fr="Rapports">
+<article title_de="Berichte" title_fr="Rapports" title_it="Rapporti">
 <text language="de">
 Über internationale Anlässe, die von Delegationen des VSS besucht werden, sind schriftliche Berichte zuhanden des Sektionsrats zu erstellen.
 </text>
 <text language="fr">
 Les événements internationaux auxquels participent les délégations de l'UNES font l'objet de rapports écrits à l'attention du Conseil des sections.
 </text>
-</article>
+<text language="it"> Sugli eventi internazionali a cui partecipano delegazioni dell’USU si devono redarre dei rapporti scritti all’attenzione del consiglio delle sezioni. </text></article>
 </articles>
 </section>
-<section title_de="Schlussbestimmungen" title_fr="Dispositions finales">
+<section title_de="Schlussbestimmungen" title_fr="Dispositions finales" title_it="Disposizioni finali">
 <articles>
-<article title_de="Revisionsbestimmungen" title_fr="Dispositions relatives à la révision">
+<article title_de="Revisionsbestimmungen" title_fr="Dispositions relatives à la révision" title_it="Disposizioni di revisione">
 <text language="de">
 Dieses Reglement unterliegt den Revisionsbestimmungen gemäss Art. 41 der Statuten.
 </text>
 <text language="fr">
 Le présent règlement est soumis aux dispositions relatives à la révision conformément à l'article 41 des statuts.
 </text>
-</article>
-<article title_de="Version" title_fr="Version">
+<text language="it"> Il presente regolamento è soggetto alle disposizioni di revisione sulla base dell’art. 41 degli statuti. </text></article>
+<article title_de="Version" title_fr="Version" title_it="Versione">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -352,7 +353,7 @@ Dieses Reglement wurde von der 184. Delegiertenversammlung erlassen.
 <text language="fr">
 Le présent règlement a été adopté par la 184e Assemblée des délégué·e·s.
 </text>
-</paragraph>
+<text language="it"> Il presente regolamento è stato approvato dalla 184a assemblea dei e delle delegati/e. </text></paragraph>
 <paragraph>
 <text language="de">
 Es tritt am 01.01.2025 in Kraft.
@@ -360,7 +361,7 @@ Es tritt am 01.01.2025 in Kraft.
 <text language="fr">
 Il entre en vigueur le 01.01.2025.
 </text>
-</paragraph>
+<text language="it"> Entra in vigore il 1° gennaio 2025. </text></paragraph>
 </paragraphs>
 </article>
 </articles>

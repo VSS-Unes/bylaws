@@ -1,4 +1,5 @@
-<regulation id="24" title_de="Reglement über das Generalsekretariat des VSS" short_de="GS-Reglement" title_fr="Règlement du Secrétariat général de l'UNES" short_fr="Règlement du SG" original_implementation_date="2025-01-01">
+<?xml version='1.0' encoding='utf-8'?>
+<regulation id="24" original_implementation_date="2025-01-01" short_de="GS-Reglement" short_fr="Règlement du SG" short_it="Regolamento sul SG" title_de="Reglement über das Generalsekretariat des VSS" title_fr="Règlement du Secrétariat général de l'UNES" title_it="Regolamento sul segretariato generale dell’USU">
 <preamble>
 <text language="de">
 Die Delegiertenversammlung, gestützt auf Art. 38 der Statuten, beschliesst:
@@ -6,10 +7,10 @@ Die Delegiertenversammlung, gestützt auf Art. 38 der Statuten, beschliesst:
 <text language="fr">
 L’Assemblée des délégué·e·s, se fondant sur l'art. 38 des Statuts, décide:
 </text>
-</preamble>
-<section title_de="Zusammensetzung" title_fr="Composition">
+<text language="it"> L’assemblea dei e delle delegati/e, in base all’art. 38 degli statuti, decide: </text></preamble>
+<section title_de="Zusammensetzung" title_fr="Composition" title_it="Composizione">
 <articles>
-<article title_de="Zusammensetzung" title_fr="Composition">
+<article title_de="Zusammensetzung" title_fr="Composition" title_it="Composizione">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -18,7 +19,7 @@ Das Generalsekretariat besteht aus zwei Personen, die vom Verband angestellt wer
 <text language="fr">
 Le Secrétariat général se compose de deux personnes employées par l'association.
 </text>
-</paragraph>
+<text language="it"> Il segretariato generale si compone di due persone che vengono assunte dall’associazione. </text></paragraph>
 <paragraph>
 <text language="de">
 Diese dürfen beim Beginn des Anstellungsverhältnisses nicht beide die gleiche Geschlechtsidentität haben, und sollten nach Möglichkeit zusammen mindestens zwei Sprachen des Verbands beherrschen.
@@ -26,10 +27,10 @@ Diese dürfen beim Beginn des Anstellungsverhältnisses nicht beide die gleiche 
 <text language="fr">
 Celles-ci ne doivent pas être toutes deux de la même identité de genre à l’embauche et doivent, si possible, maîtriser ensemble au moins deux langues de l'association.
 </text>
-</paragraph>
+<text language="it"> All’inizio del rapporto di lavoro, le due persone possono non avere la stessa identità di genere e, se possibile, dovrebbero padroneggiare insieme almeno due lingue dell’associazione. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Anstellungsverhältnis" title_fr="Contrat de travail">
+<article title_de="Anstellungsverhältnis" title_fr="Contrat de travail" title_it="Rapporto di lavoro">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -38,7 +39,7 @@ Anstellungen und Kündigungen von Mitgliedern des Generalsekretariats werden dur
 <text language="fr">
 Les embauches et les licenciements des membres du Secrétariat général sont effectués par le Comité exécutif, conformément aux dispositions du règlement d'embauche.
 </text>
-</paragraph>
+<text language="it"> Assunzioni e licenziamenti dei membri del segretariato generale sono effettuati dal comitato esecutivo, secondo le disposizioni del regolamento sulle assunzioni. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Stellen werden öffentlich ausgeschrieben.
@@ -46,10 +47,10 @@ Die Stellen werden öffentlich ausgeschrieben.
 <text language="fr">
 Les postes ouverts sont publiés.
 </text>
-</paragraph>
+<text language="it"> Le posizioni di lavoro vengono pubblicate tramite bando pubblico. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Findungskommission" title_fr="Commission de recrutement">
+<article title_de="Findungskommission" title_fr="Commission de recrutement" title_it="Commissione di selezione">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -58,7 +59,7 @@ Um die Stellen zu besetzen, setzt der Vorstand eine Findungskommission ein.
 <text language="fr">
 Pour pourvoir les postes, le Comité exécutif met en place une commission de recrutement.
 </text>
-</paragraph>
+<text language="it"> Per occupare le posizioni di lavoro, il comitato esecutivo nomina una commissione di selezione. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Findungskommission besteht aus mindestens:
@@ -66,7 +67,7 @@ Die Findungskommission besteht aus mindestens:
 <text language="fr">
 La commission de recrutement est composée d'au moins:
 </text>
-<letters>
+<text language="it"> La commissione di selezione si compone di almeno: </text><letters>
 <letter>
 <text language="de">
 eine delegierte Person des Sektionsrats, welche von diesem gewählt wird, und;
@@ -74,7 +75,7 @@ eine delegierte Person des Sektionsrats, welche von diesem gewählt wird, und;
 <text language="fr">
 une personne déléguée par le Conseil des sections, élue par ce dernier;
 </text>
-</letter>
+<text language="it"> una persona delegata del consiglio delle sezioni che viene selezionata dal consiglio stesso, e; </text></letter>
 <letter>
 <text language="de">
 einem Mitglied des Co-Präsidiums;
@@ -82,7 +83,7 @@ einem Mitglied des Co-Präsidiums;
 <text language="fr">
 un membre de la coprésidence et ;
 </text>
-</letter>
+<text language="it"> un membro della copresidenza; </text></letter>
 <letter>
 <text language="de">
 dem verbleibenden Mitglied des Generalsekretariats.
@@ -90,7 +91,7 @@ dem verbleibenden Mitglied des Generalsekretariats.
 <text language="fr">
 le membre restant du Secrétariat général.
 </text>
-</letter>
+<text language="it"> l’altro membro del segretariato generale; </text></letter>
 </letters>
 </paragraph>
 <paragraph>
@@ -100,14 +101,14 @@ Bei der Zusammensetzung der Findungskommission wird auf eine ausgewogene Vertret
 <text language="fr">
 Lors de la composition de la commission de recrutement, il est veillé à une représentation équilibrée de toutes les identités de genre et de toutes les régions linguistiques de l'association.
 </text>
-</paragraph>
+<text language="it"> Nella composizione della commissione di selezione si presta attenzione a garantire una rappresentanza equilibrata di tutte le identità di genere e regioni linguistiche dell’associazione. </text></paragraph>
 </paragraphs>
 </article>
 </articles>
 </section>
-<section title_de="Aufgaben" title_fr="Tâches">
+<section title_de="Aufgaben" title_fr="Tâches" title_it="Compiti">
 <articles>
-<article title_de="Vorgesetzte Stelle" title_fr="Supérieur direct">
+<article title_de="Vorgesetzte Stelle" title_fr="Supérieur direct" title_it="Posizioni superiori">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -116,7 +117,7 @@ Direkt dem Generalsekretariats vorgesetzt ist das Co-Präsidium.
 <text language="fr">
 La coprésidence est le supérieur direct du Secrétariat général.
 </text>
-</paragraph>
+<text language="it"> Il segretariato generale è direttamente subordinato alla copresidenza. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Aufgabenteilung zwischen den Mitgliedern des Generalsekretariats wird durch die Mitglieder des Generalsekretariats, unter Einbezug des Co-Präsidiums, vorgenommen.
@@ -124,10 +125,10 @@ Die Aufgabenteilung zwischen den Mitgliedern des Generalsekretariats wird durch 
 <text language="fr">
 Les tâches sont réparties au sein du Secrétariat général d’entente avec la co-Présidence.
 </text>
-</paragraph>
+<text language="it"> La ripartizione dei compiti tra i membri del segretariato generale viene effettuata dai membri stessi, con la collaborazione della copresidenza. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Unterstützung vom Vorstand" title_fr="Soutien du Comité exécutif">
+<article title_de="Unterstützung vom Vorstand" title_fr="Soutien du Comité exécutif" title_it="Sostegno del comitato esecutivo">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -136,7 +137,7 @@ Das Generalsekretariat unterstützt den Vorstand in seiner Arbeit.
 <text language="fr">
 Le Secrétariat général assiste le Comité exécutif dans son travail.
 </text>
-</paragraph>
+<text language="it"> Il segretariato generale sostiene il lavoro del comitato esecutivo. </text></paragraph>
 <paragraph>
 <text language="de">
 Das Generalsekretariat nimmt an den Vorstandssitzungen mit beratender Stimme teil.
@@ -144,10 +145,10 @@ Das Generalsekretariat nimmt an den Vorstandssitzungen mit beratender Stimme tei
 <text language="fr">
 Le Secrétariat général participe aux réunions du Comité exécutif avec une voix consultative.
 </text>
-</paragraph>
+<text language="it"> Il segretariato generale prende parte alle riunioni del comitato esecutivo con voto consultivo. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Vollzug der Verbandsstrategie" title_fr="Exécution de la stratégie de l'association">
+<article title_de="Vollzug der Verbandsstrategie" title_fr="Exécution de la stratégie de l'association" title_it="Implementazione della strategia dell’associazione">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -156,7 +157,7 @@ Das Generalsekretariat ist zuständig für den Vollzug der Entscheidungen der De
 <text language="fr">
 Le Secrétariat général est responsable de l'exécution des décisions de l'Assemblée des délégué·e·s, du Conseil des sections et du Comité exécutif.
 </text>
-</paragraph>
+<text language="it"> Il segretariato generale è responsabile dell’esecuzione delle decisioni dell’assemblea dei e delle delegati/e, del consiglio delle sezioni e del comitato esecutivo. </text></paragraph>
 <paragraph>
 <text language="de">
 Dafür stellt das Generalsekretariat den Informationsfluss zwischen den verschiedenen Organen des Verbands sicher.
@@ -164,10 +165,10 @@ Dafür stellt das Generalsekretariat den Informationsfluss zwischen den verschie
 <text language="fr">
 Pour ce faire, le Secrétariat général assure la circulation de l'information entre les différents organes de l'association.
 </text>
-</paragraph>
+<text language="it"> A tal fine, il segretariato generale garantisce il flusso di informazioni tra i vari organi dell’associazione. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Personalführung" title_fr="Gestion du personnel">
+<article title_de="Personalführung" title_fr="Gestion du personnel" title_it="Gestione del personale">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -176,7 +177,7 @@ Dem Generalsekretariat obliegt die Personalführung aller weiteren Angestellten 
 <text language="fr">
 Le Secrétariat général est responsable de la gestion du personnel de tous les autres employé·e·s de l'association.
 </text>
-</paragraph>
+<text language="it"> Il segretariato generale è responsabile della gestione del personale di tutte le altre persone dipendenti dell’associazione. </text></paragraph>
 <paragraph>
 <text language="de">
 Das Generalsekretariat leitet bei Neueinstellungen das Rekrutierungsverfahren und erstellt Anträge auf Anstellung und Kündigungen zuhanden des Vorstands.
@@ -184,10 +185,10 @@ Das Generalsekretariat leitet bei Neueinstellungen das Rekrutierungsverfahren un
 <text language="fr">
 Le Secrétariat général dirige la procédure de recrutement pour les nouvelles embauches et prépare les demandes d'embauche et de licenciement à l'attention du Comité exécutif.
 </text>
-</paragraph>
+<text language="it"> Il segretariato generale gestisce la procedura di selezione delle nuove assunzioni e redige le richieste di assunzione e di licenziamento all’attenzione del comitato esecutivo. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Weitere Aufgaben" title_fr="Autres tâches">
+<article title_de="Weitere Aufgaben" title_fr="Autres tâches" title_it="Ulteriori compiti">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -196,7 +197,7 @@ Das Generalsekretariat übernimmt weitere Aufgaben, die ihm von den Statuten ode
 <text language="fr">
 Le Secrétariat général assume d'autres tâches qui lui sont attribuées par les Statuts ou par un règlement.
 </text>
-</paragraph>
+<text language="it"> Il segretariato generale svolge ulteriori compiti che gli vengono assegnati dagli statuti o da un regolamento. </text></paragraph>
 <paragraph>
 <text language="de">
 Das Generalsekretariat übernimmt weitere Aufgaben, die ihm der Vorstand übergibt.
@@ -204,22 +205,22 @@ Das Generalsekretariat übernimmt weitere Aufgaben, die ihm der Vorstand übergi
 <text language="fr">
 Le Secrétariat général assume d'autres tâches qui lui sont confiées par le Comité exécutif.
 </text>
-</paragraph>
+<text language="it"> Il segretariato generale svolge ulteriori compiti che gli vengono assegnati dal comitato esecutivo. </text></paragraph>
 </paragraphs>
 </article>
 </articles>
 </section>
-<section title_de="Schlussbestimmungen" title_fr="Dispositions finales">
+<section title_de="Schlussbestimmungen" title_fr="Dispositions finales" title_it="Disposizioni finali">
 <articles>
-<article title_de="Revisionsbestimmungen" title_fr="Dispositions relatives à la révision">
+<article title_de="Revisionsbestimmungen" title_fr="Dispositions relatives à la révision" title_it="Disposizioni di revisione">
 <text language="de">
 Dieses Reglement unterliegt den Revisionsbestimmungen gemäss Art. 41 der Statuten.
 </text>
 <text language="fr">
 Le présent règlement est soumis aux dispositions relatives à la révision conformément à l'article 41 des statuts.
 </text>
-</article>
-<article title_de="Version" title_fr="Version">
+<text language="it"> Il presente regolamento è soggetto alle disposizioni di revisione sulla base dell’art. 41 degli statuti. </text></article>
+<article title_de="Version" title_fr="Version" title_it="Versione">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -228,7 +229,7 @@ Dieses Reglement wurde von der 184. Delegiertenversammlung erlassen.
 <text language="fr">
 Le présent règlement a été adopté par la 184e Assemblée des délégué·e·s.
 </text>
-</paragraph>
+<text language="it"> Il presente regolamento è stato approvato dalla 184a assemblea dei e delle delegati/e. </text></paragraph>
 <paragraph>
 <text language="de">
 Es tritt am 01.01.2025 in Kraft.
@@ -236,7 +237,7 @@ Es tritt am 01.01.2025 in Kraft.
 <text language="fr">
 Il entre en vigueur le 01.01.2025.
 </text>
-</paragraph>
+<text language="it"> Entra in vigore il 1° gennaio 2025. </text></paragraph>
 </paragraphs>
 </article>
 </articles>

@@ -1,4 +1,5 @@
-<regulation id="41.01" title_de="Beschluss über die Höhe der Mitgliederbeiträge" short_de="Mitgliederbeitragshöhe" title_fr="Décision sur le montant des cotisations des membres" short_fr="Montant des cotisations" original_implementation_date="2025-01-01">
+<?xml version='1.0' encoding='utf-8'?>
+<regulation id="41.01" original_implementation_date="2025-01-01" short_de="Mitgliederbeitragshöhe" short_fr="Montant des cotisations" short_it="Ammontare delle quote associative" title_de="Beschluss über die Höhe der Mitgliederbeiträge" title_fr="Décision sur le montant des cotisations des membres" title_it="Disposizione sull’ammontare delle quote associative">
 <preamble>
 <text language="de">
 Die 184. Delegiertenversammlung, gestützt auf Art. 13, 15 und 17 des Reglements über die Mitgliedschaft im VSS, beschliesst:
@@ -6,9 +7,9 @@ Die 184. Delegiertenversammlung, gestützt auf Art. 13, 15 und 17 des Reglements
 <text language="fr">
 La 184e Assemblée des Délégué·e·s, se fondant sur les articles 13, 15 et 17 du Règlement relatif à l'adhésion à l'UNES, décide:
 </text>
-</preamble>
+<text language="it"> La 184a assemblea dei e delle delegati/e, in base agli artt. 13, 15 e 17 del regolamento sull’adesione all’USU, decide: </text></preamble>
 <articles>
-<article title_de="Mitgliederbeiträge für Sektionen" title_fr="Cotisations pour les sections">
+<article title_de="Mitgliederbeiträge für Sektionen" title_fr="Cotisations pour les sections" title_it="Quote associative per le sezioni">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -17,7 +18,7 @@ Für Sektionen welche nicht nationale Dachverbände sind, beträgt:
 <text language="fr">
 Pour les sections qui ne sont pas des associations faîtières nationales:
 </text>
-<letters>
+<text language="it"> Per le sezioni che sono federazioni non nazionali, l’importo è pari a: </text><letters>
 <letter>
 <text language="de">
 der Prozentsatz nach Art. 13 Abs. 1 Bst. a. Mitgliedschaftsreglement 6,2 %;
@@ -25,7 +26,7 @@ der Prozentsatz nach Art. 13 Abs. 1 Bst. a. Mitgliedschaftsreglement 6,2 %;
 <text language="fr">
 le pourcentage prévu à l'art. 13, al. 1, let. a. du Règlement d'adhésion est 6,2 % ;
 </text>
-</letter>
+<text language="it"> la percentuale del 6,2 % ai sensi dell’art. 13 cpv. 1 lett. a. del regolamento sull’adesione; </text></letter>
 <letter>
 <text language="de">
 der pauschale Betrag nach Art. 13 Abs. 1 Bst. b. Mitgliedschaftsreglement CHF 1.95.
@@ -33,7 +34,7 @@ der pauschale Betrag nach Art. 13 Abs. 1 Bst. b. Mitgliedschaftsreglement CHF 1.
 <text language="fr">
 le montant forfaitaire prévu à l'art. 13, al. 1, let. b. du Règlement d'adhésion est CHF 1.95.
 </text>
-</letter>
+<text language="it"> l’importo forfettario di CHF 1.95 ai sensi dell’art. 13 cpv. 1 lett. b. del regolamento sull’adesione. </text></letter>
 </letters>
 </paragraph>
 <paragraph>
@@ -43,24 +44,24 @@ Für Sektionen welche nationale Dachverbände sind, beträgt der Prozentsatz nac
 <text language="fr">
 Pour les sections qui sont des associations faîtières nationales, le pourcentage prévu à l'art. 15 al. 1 du Règlement d'adhésion est de 10%.
 </text>
-</paragraph>
+<text language="it"> Per le sezioni che sono federazioni nazionali, l’importo percentuale è pari al 10% secondo l’art. 15 cpv 1 del regolamento sull’adesione. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Mitgliederbeiträge für Assoziierte Mitglieder" title_fr="Cotisations pour les membres associés">
+<article title_de="Mitgliederbeiträge für Assoziierte Mitglieder" title_fr="Cotisations pour les membres associés" title_it="Quote associative per i membri associati">
 <text language="de">
 Der Mitgliederbeitrag für assoziierte Mitglieder nach Art. 17 Mitgliedschaftsreglement beträgt CHF 500.
 </text>
 <text language="fr">
 La cotisation des membres associés prévu à l'art. 17 du Règlement d'adhésion est de 500 CHF.
 </text>
-</article>
-<article title_de="Inkrafttreten" title_fr="Entrée en vigueur">
+<text language="it"> La quota associativa per i membri associati ammonta a CHF 500 secondo l’art. 17 del regolamento sull’adesione. </text></article>
+<article title_de="Inkrafttreten" title_fr="Entrée en vigueur" title_it="Entrata in vigore">
 <text language="de">
 Dieser Beschluss tritt am 01.01.2025 in Kraft und gilt bis auf Weiteres.
 </text>
 <text language="fr">
 La présente décision entre en vigueur le 01.01.2025 et reste valable jusqu'à nouvel ordre.
 </text>
-</article>
+<text language="it"> Questa disposizione entra in vigore il 01.01.2025 e rimane in vigore fino a nuovo avviso. </text></article>
 </articles>
 </regulation>

@@ -1,4 +1,5 @@
-<regulation id="22" title_de="Allgemeinen Reglement über die thematischen Kommissionen des VSS" short_de="Allgemeines Kommissionsreglement" title_fr="Règlement général concernant les commissions thématiques de l'UNES" short_fr="Règlement des commissions" original_implementation_date="2025-01-01">
+<?xml version='1.0' encoding='utf-8'?>
+<regulation id="22" original_implementation_date="2025-01-01" short_de="Allgemeines Kommissionsreglement" short_fr="Règlement des commissions" short_it="Regolamento generale sulle commissioni" title_de="Allgemeinen Reglement über die thematischen Kommissionen des VSS" title_fr="Règlement général concernant les commissions thématiques de l'UNES" title_it="Regolamento generale sulle commissioni tematiche dell’USU">
 <preamble>
 <text language="de">
 Die Delegiertenversammlung, gestützt auf Art. 27 der Statuten, beschliesst:
@@ -6,10 +7,10 @@ Die Delegiertenversammlung, gestützt auf Art. 27 der Statuten, beschliesst:
 <text language="fr">
 L’Assemblée des délégué·e·s, se fondant sur l'art. 27 des Statuts, décide:
 </text>
-</preamble>
-<section title_de="Aufgaben und Ziele" title_fr="Tâches et objectifs">
+<text language="it"> L’assemblea dei e delle delegati/e, in base all’art. 27 degli statuti, decide: </text></preamble>
+<section title_de="Aufgaben und Ziele" title_fr="Tâches et objectifs" title_it="Compiti e obiettivi">
 <articles>
-<article title_de="Geltungsbereich" title_fr="Champ d'application">
+<article title_de="Geltungsbereich" title_fr="Champ d'application" title_it="Campo d’applicazione">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -18,7 +19,7 @@ Dieses Reglement regelt die Aufgaben, Pflichten, Zusammensetzung, Organisation u
 <text language="fr">
 Le présent règlement régit les tâches, les obligations, la composition, l'organisation et les droits des commissions thématiques.
 </text>
-</paragraph>
+<text language="it"> Il presente regolamento disciplina i compiti, gli obblighi, la composizione, l’organizzazione e i diritti delle commissioni tematiche. </text></paragraph>
 <paragraph>
 <text language="de">
 Es gilt nicht für die Finanzkommission und die Geschäftsprüfungskommission, welche keine thematischen Kommissionen sind.
@@ -26,17 +27,17 @@ Es gilt nicht für die Finanzkommission und die Geschäftsprüfungskommission, w
 <text language="fr">
 Il ne s'applique pas à la Commission des finances et à la Commission de contrôle, qui ne sont pas des commissions thématiques.
 </text>
-</paragraph>
+<text language="it"> Esso non si applica alla commissione finanziaria e alla commissione di gestione, le quali non sono commissioni tematiche. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Aufgaben" title_fr="Tâches">
+<article title_de="Aufgaben" title_fr="Tâches" title_it="Compiti">
 <text language="de">
 Die thematischen Kommissionen haben folgende Aufgaben:
 </text>
 <text language="fr">
 Les commissions thématiques ont les missions suivantes :
 </text>
-<letters>
+<text language="it"> Le commissioni tematiche hanno i seguenti compiti: </text><letters>
 <letter>
 <text language="de">
 das Erarbeiten interner Positionen bei Themen, welche die Kommission betreffen.
@@ -44,7 +45,7 @@ das Erarbeiten interner Positionen bei Themen, welche die Kommission betreffen.
 <text language="fr">
 l'élaboration de positions internes sur les sujets qui concernent la Commission.
 </text>
-</letter>
+<text language="it"> elaborare posizioni interne su tematiche che concernono la commissione; </text></letter>
 <letter>
 <text language="de">
 das Erarbeiten von Positionspapieren und Stellungnahmen zuhanden oder im Auftrag des Sektionsrats bzw. der Delegiertenversammlung;
@@ -52,7 +53,7 @@ das Erarbeiten von Positionspapieren und Stellungnahmen zuhanden oder im Auftrag
 <text language="fr">
 l'élaboration de prises de position à l'intention ou sur mandat du Conseil de sections ou de l'Assemblée des délégué·e·s ;
 </text>
-</letter>
+<text language="it"> elaborare documenti di posizione e prese di posizione all’attenzione o su incarico del consiglio delle sezioni o dell’assemblea dei e delle delegati/e; </text></letter>
 <letter>
 <text language="de">
 das Beraten der Delegiertenversammlung, des Sektionsrats und des Vorstands bei Themen in ihrem Bereich;
@@ -60,7 +61,7 @@ das Beraten der Delegiertenversammlung, des Sektionsrats und des Vorstands bei T
 <text language="fr">
 le soutien de l'Assemblée des délégué·e·s, du Conseil des Sections et le Comité exécutif sur les questions relevant de leur domaine de compétence ;
 </text>
-</letter>
+<text language="it"> fornire consulenza all’assemblea dei e delle delegati/e, al consiglio delle sezioni e al comitato esecutivo su temi di loro competenza; </text></letter>
 <letter>
 <text language="de">
 das Vertreten der Positionen des VSS und diesbezügliches Lobbying;
@@ -68,7 +69,7 @@ das Vertreten der Positionen des VSS und diesbezügliches Lobbying;
 <text language="fr">
 la défense des positions de l'UNES et le lobbying de celle-ci ;
 </text>
-</letter>
+<text language="it"> rappresentare le posizioni dell’USU e svolgere attività di lobbying in tal senso; </text></letter>
 <letter>
 <text language="de">
 die Zusammenarbeit mit den Organen und Sektionen;
@@ -76,7 +77,7 @@ die Zusammenarbeit mit den Organen und Sektionen;
 <text language="fr">
 la coopération avec les organes et les sections ;
 </text>
-</letter>
+<text language="it"> collaborare con gli organi e le sezioni; </text></letter>
 <letter>
 <text language="de">
 das Vorschlagen von Vertretungen für thematisch verwandte Gremien und Organisationen.
@@ -84,10 +85,10 @@ das Vorschlagen von Vertretungen für thematisch verwandte Gremien und Organisat
 <text language="fr">
 la proposition de représentations au sein d'organes et d'organisations liés à la thématique.
 </text>
-</letter>
+<text language="it"> proporre rappresentanze per organi e organizzazioni simili dal punto di vista delle tematiche. </text></letter>
 </letters>
 </article>
-<article title_de="Spezifische Bestimmungen" title_fr="Dispositions spécifiques">
+<article title_de="Spezifische Bestimmungen" title_fr="Dispositions spécifiques" title_it="Disposizioni specifiche">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -96,7 +97,7 @@ Die Delegiertenversammlung kann mit Zweidrittelmehr thematische Kommissionen gr�
 <text language="fr">
 L'Assemblée des délégué·e·s peut, à la majorité des deux tiers, créer ou dissoudre des Commissions thématiques.
 </text>
-</paragraph>
+<text language="it"> L’assemblea dei e delle delegati/e può istituire o sciogliere commissioni tematiche con una maggioranza dei due terzi. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Delegiertenversammlung erlässt für jede thematische Kommission einen Auftrag. Dieser regelt mindestens deren Zweck und den Arbeitsbereich.
@@ -104,22 +105,22 @@ Die Delegiertenversammlung erlässt für jede thematische Kommission einen Auftr
 <text language="fr">
 L'Assemblée des délégué·e·s édicte un mandat pour chaque Commission thématique. Celui-ci règle au moins son but et son domaine d'activité.
 </text>
-</paragraph>
+<text language="it"> L’assemblea dei e delle delegati/e assegna un incarico ad ogni commissione tematica. Tale incarico disciplina almeno lo scopo e l’area di competenza della commissione tematica. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Jahresziele" title_fr="Objectifs annuels">
+<article title_de="Jahresziele" title_fr="Objectifs annuels" title_it="Obiettivi annuali">
 <text language="de">
 Die thematischen Kommissionen definieren ihre Jahresziele, die von der ordentlichen Delegiertenversammlung im Herbst genehmigt werden.
 </text>
 <text language="fr">
 Les Commissions thématiques définissent leurs objectifs annuels, qui sont approuvés par l'Assemblée des délégué·e·s ordinaire en automne.
 </text>
-</article>
+<text language="it"> Le commissioni tematiche definiscono i propri obiettivi annuali, che vengono approvati dall’assemblea ordinaria dei e delle delegati/e in autunno. </text></article>
 </articles>
 </section>
-<section title_de="Zusammensetzung" title_fr="Composition">
+<section title_de="Zusammensetzung" title_fr="Composition" title_it="Composizione">
 <articles>
-<article title_de="Zusammensetzung" title_fr="Composition">
+<article title_de="Zusammensetzung" title_fr="Composition" title_it="Composizione">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -128,7 +129,7 @@ Jede thematische Kommission setzt sich zusammen aus den Kommissionsmitgliedern, 
 <text language="fr">
 Chaque commission thématique se compose des membres de la commission, nominativement:
 </text>
-<letters>
+<text language="it"> Ogni commissione tematica è composta dai membri della commissione, ovvero: </text><letters>
 <letter>
 <text language="de">
 dem Kommissionspräsidium;
@@ -136,7 +137,7 @@ dem Kommissionspräsidium;
 <text language="fr">
 la présidence de la Commission ;
 </text>
-</letter>
+<text language="it"> la presidenza della commissione; </text></letter>
 <letter>
 <text language="de">
 einem Mitglied des VSS-Vorstands, welches für die thematische Kommission verantwortlich ist
@@ -144,7 +145,7 @@ einem Mitglied des VSS-Vorstands, welches für die thematische Kommission verant
 <text language="fr">
 un membre du Comité Exécutif, responsable de la commission thématique;
 </text>
-</letter>
+<text language="it"> un membro del comitato esecutivo dell’USU responsabile della commissione tematica; </text></letter>
 <letter>
 <text language="de">
 den VSS-Vertretungen aus dem Arbeitsbereich der Kommission;
@@ -152,7 +153,7 @@ den VSS-Vertretungen aus dem Arbeitsbereich der Kommission;
 <text language="fr">
 les représentations de l'UNES dans le domaine d'activité de la Commission ;
 </text>
-</letter>
+<text language="it"> le rappresentanze dell’USU dell’area di competenza della commissione; </text></letter>
 <letter>
 <text language="de">
 weiteren Kommissionsmitgliedern.
@@ -160,7 +161,7 @@ weiteren Kommissionsmitgliedern.
 <text language="fr">
 d'autres membres de la commission.
 </text>
-</letter>
+<text language="it"> altri membri della commissione. </text></letter>
 </letters>
 </paragraph>
 <paragraph>
@@ -170,7 +171,7 @@ Das Kommissionspräsidium besteht aus bis zu zwei Personen.
 <text language="fr">
 La présidence de la commission est composée de deux personnes au maximum.
 </text>
-</paragraph>
+<text language="it"> La presidenza della commissione è composta da un massimo di due persone. </text></paragraph>
 <paragraph>
 <text language="de">
 Alle Personen gemäss Abs. 1 sind antrags- und stimmberechtigt.
@@ -178,7 +179,7 @@ Alle Personen gemäss Abs. 1 sind antrags- und stimmberechtigt.
 <text language="fr">
 Toutes les personnes mentionnées au paragraphe 1 ont le droit de proposition et le droit de vote.
 </text>
-</paragraph>
+<text language="it"> Tutte le persone di cui al cpv. 1 hanno diritto di voto e di presentare proposte. </text></paragraph>
 <paragraph>
 <text language="de">
 Weitere Personen können mit beratender Stimme zu den Sitzungen eingeladen werden.
@@ -186,10 +187,10 @@ Weitere Personen können mit beratender Stimme zu den Sitzungen eingeladen werde
 <text language="fr">
 D'autres personnes peuvent être invitées à participer aux réunions avec voix consultative.
 </text>
-</paragraph>
+<text language="it"> Altre persone possono essere invitate alle riunioni con voto consultivo. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Wahlprozess" title_fr="Processus électoral">
+<article title_de="Wahlprozess" title_fr="Processus électoral" title_it="Processo elettorale">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -198,7 +199,7 @@ Die Delegiertenversammlung wählt das Kommissionspräsidium jeder Kommission.
 <text language="fr">
 L'Assemblée des délégué·e·s élit la présidence de chaque commission.
 </text>
-</paragraph>
+<text language="it"> L’assemblea dei e delle delegati/e elegge la presidenza di ciascuna commissione. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Delegiertenversammlung achtet auf eine angemessene Vertretung von Geschlechtsidentitäten, Sprachregionen und Hochschultypen über alle Kommissionspräsidien hinweg.
@@ -206,7 +207,7 @@ Die Delegiertenversammlung achtet auf eine angemessene Vertretung von Geschlecht
 <text language="fr">
 L'Assemblée des délégué·e·s veille à une représentation équitable des identités de genre, des régions linguistiques et des types de hautes écoles sur l’ensemble des présidences de commission.
 </text>
-</paragraph>
+<text language="it"> L’assemblea dei e delle delegati/e garantisce un’adeguata rappresentanza delle identità di genere, delle regioni linguistiche e dei tipi di scuole in tutte le presidenze delle commissioni. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Delegiertenversammlung wählt die weiteren Kommissionsmitglieder nach Art. 5 Abs. 1 Bst. d.
@@ -214,7 +215,7 @@ Die Delegiertenversammlung wählt die weiteren Kommissionsmitglieder nach Art. 5
 <text language="fr">
 L'Assemblée des délégué·e·s élit les autres membres des commissions selon l'art. 5, al. 1, let. d.
 </text>
-</paragraph>
+<text language="it"> L’assemblea dei e delle delegati/e elegge gli altri membri delle commissioni ai sensi dell’art. 6 cpv. 1 lett. d. </text></paragraph>
 <paragraph>
 <text language="de">
 Der Vorstand bestimmt, welches Vorstandsmitglied für die thematische Kommission nach Art. 5 Abs. 1 Bst b. verantwortlich ist.
@@ -222,10 +223,10 @@ Der Vorstand bestimmt, welches Vorstandsmitglied für die thematische Kommission
 <text language="fr">
 Le Comité exécutif désigne le membre du Comité exécutif responsable de la commission thématique selon l'art. 5, al. 1, let. b.
 </text>
-</paragraph>
+<text language="it"> Il comitato esecutivo stabilisce quale membro del comitato esecutivo è responsabile della commissione tematica ai sensi dell’art. 6 cpv. 1 lett. b. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Amtsperiode, Amtszeit" title_fr="Mandat, durée du mandat">
+<article title_de="Amtsperiode, Amtszeit" title_fr="Mandat, durée du mandat" title_it="Mandato, durata del mandato">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -234,7 +235,7 @@ Die reguläre Amtsperiode der gewählten Kommissionsmitglieder beginnt bei einer
 <text language="fr">
 Le mandat régulier des membres élus de la Commission commence lors d'une Assemblée des délégué·e·s ordinaire et dure jusqu'à la prochaine Assemblée des délégué·e·s ordinaire.
 </text>
-</paragraph>
+<text language="it"> Il mandato regolare dei membri eletti delle commissioni ha inizio in occasione di un’assemblea ordinaria dei e delle delegati/e e dura fino alla successiva assemblea ordinaria dei e delle delegati/e. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Anzahl Amtsperioden ist unbegrenzt.
@@ -242,10 +243,10 @@ Die Anzahl Amtsperioden ist unbegrenzt.
 <text language="fr">
 Le nombre de mandats n’est pas limité.
 </text>
-</paragraph>
+<text language="it"> Il numero dei mandati è illimitato. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Kommissionsmitglieder ad Interim" title_fr="Membres ad interim">
+<article title_de="Kommissionsmitglieder ad Interim" title_fr="Membres ad interim" title_it="Membri delle commissioni ad interim">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -254,7 +255,7 @@ Als Kommissionsmitglieder bzw. Kommissionspräsidien ad interim werden Personen 
 <text language="fr">
 Sont appelés membres ou présidence de commission ad interim les personnes élues par le conseil des sections entre les sessions ordinaires de l'Assemblée des délégué·e·s.
 </text>
-</paragraph>
+<text language="it"> Sono designati membri delle commissioni o presidenze delle commissioni ad interim le persone elette dal consiglio delle sezioni tra una riunione ordinaria e l’altra dell’assemblea dei e delle delegati/e. </text></paragraph>
 <paragraph>
 <text language="de">
 Diese haben die gleichen Rechte und Pflichten wie von der Delegiertenversammlung gewählten Personen.
@@ -262,14 +263,14 @@ Diese haben die gleichen Rechte und Pflichten wie von der Delegiertenversammlung
 <text language="fr">
 Ces personnes ont les mêmes droits et obligations que les personnes élues par l'Assemblée des délégué·e·s.
 </text>
-</paragraph>
+<text language="it"> Questi hanno gli stessi diritti e doveri delle persone elette dall’assemblea dei e delle delegati/e. </text></paragraph>
 </paragraphs>
 </article>
 </articles>
 </section>
-<section title_de="Organisation" title_fr="Organisation">
+<section title_de="Organisation" title_fr="Organisation" title_it="Organizzazione">
 <articles>
-<article title_de="Berichterstattung" title_fr="Rapports">
+<article title_de="Berichterstattung" title_fr="Rapports" title_it="Redazione del rapporto">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -278,7 +279,7 @@ Jede Kommission erstellt zur Frühlings-Delegiertenversammlung einen Bericht mit
 <text language="fr">
 Chaque commission établit un rapport pour l'Assemblée des délégué·e·s de printemps avec les affaires qu'elle a traitées, conformément à l'art. 23 du règlement de l'AD.
 </text>
-</paragraph>
+<text language="it"> Ogni commissione redige un rapporto per l’assemblea dei e delle delegati/e di primavera con le attività trattate, ai sensi dell’art. 23 del regolamento AD. </text></paragraph>
 <paragraph>
 <text language="de">
 Dieser beinhaltet mindestens den Fortschritt bei den Jahreszielen.
@@ -286,14 +287,14 @@ Dieser beinhaltet mindestens den Fortschritt bei den Jahreszielen.
 <text language="fr">
 Celui-ci comprend au moins le progrès par rapport aux objectifs annuels.
 </text>
-</paragraph>
+<text language="it"> Tale rapporto deve contenere almeno i progressi compiuti in relazione agli obiettivi annuali. </text></paragraph>
 </paragraphs>
 </article>
 </articles>
 </section>
-<section title_de="Sitzungen" title_fr="Réunions">
+<section title_de="Sitzungen" title_fr="Réunions" title_it="Riunioni">
 <articles>
-<article title_de="Sitzungen" title_fr="Réunions">
+<article title_de="Sitzungen" title_fr="Réunions" title_it="Riunioni">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -302,7 +303,7 @@ Das Kommissionspräsidium lädt zu Sitzungen ein.
 <text language="fr">
 La présidence de la commission convoque les réunions.
 </text>
-</paragraph>
+<text language="it"> La presidenza delle commissioni convoca le riunioni. </text></paragraph>
 <paragraph>
 <text language="de">
 Auf Begehren von mindestens zwei Mitgliedern ist eine ausserordentliche Sitzung einzuberufen. Diese findet innerhalb von drei Wochen statt.
@@ -310,7 +311,7 @@ Auf Begehren von mindestens zwei Mitgliedern ist eine ausserordentliche Sitzung 
 <text language="fr">
 Une réunion extraordinaire doit être convoquée à la demande d'au moins deux membres. Celle-ci a lieu dans un délai de trois semaines.
 </text>
-</paragraph>
+<text language="it"> Su richiesta di almeno due membri deve essere convocata una riunione straordinaria. Questa si terrà entro tre settimane. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Traktandenliste wird den Kommissionsmitgliedern, den Sektionen, dem Vorstand und der GPK zugestellt.
@@ -318,7 +319,7 @@ Die Traktandenliste wird den Kommissionsmitgliedern, den Sektionen, dem Vorstand
 <text language="fr">
 L'ordre du jour est envoyé aux membres de la commission, aux sections, au Comité exécutif et à la CdC.
 </text>
-</paragraph>
+<text language="it"> L’ordine del giorno viene inviato ai membri della commissione, alle sezioni, al comitato esecutivo e alla CDG. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Traktandenliste beinhaltet mindestens Zeitpunkt und Ort der Sitzung sowie eine Auflistung aller Traktanden. Vertrauliche Traktanden dürfen als “Vertraulich” aufgeführt werden.
@@ -326,7 +327,7 @@ Die Traktandenliste beinhaltet mindestens Zeitpunkt und Ort der Sitzung sowie ei
 <text language="fr">
 L'ordre du jour comprend au moins la date et le lieu de la réunion ainsi qu'une liste de tous les points à l'ordre du jour. Les points confidentiels peuvent être mentionnés sous la forme <quote>Confidentiel</quote>.
 </text>
-</paragraph>
+<text language="it"> L’ordine del giorno contiene almeno la data e il luogo della riunione, nonché un elenco di tutti i punti all’ordine del giorno. I punti all’ordine del giorno riservati possono essere contrassegnati come «riservati». </text></paragraph>
 <paragraph>
 <text language="de">
 Die Kommission ist beschlussfähig, wenn mindestens drei Mitglieder anwesend sind.
@@ -334,26 +335,26 @@ Die Kommission ist beschlussfähig, wenn mindestens drei Mitglieder anwesend sin
 <text language="fr">
 Le quorum est atteint lorsqu'au moins trois membres de la commission sont présents.
 </text>
-</paragraph>
+<text language="it"> La commissione è validamente costituita se sono presenti almeno tre membri. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Sitzungsleitung" title_fr="Présidence de la réunion">
+<article title_de="Sitzungsleitung" title_fr="Présidence de la réunion" title_it="Presidenza della riunione">
 <text language="de">
 Die Sitzungsleitung obliegt dem Kommissionsprädium. Ist kein Mitglied des Kommissionsprädium anwesend, bestimmt die Kommission ein anderes Kommissionsmitglied als Sitzungsleitung.
 </text>
 <text language="fr">
 La présidence de la commission préside la réunion. Si aucun membre de la présidence de la commission n'est présent, la commission désigne un autre membre de la commission pour présider la réunion.
 </text>
-</article>
-<article title_de="Beschlussfindung" title_fr="Prise de décision">
+<text language="it"> La conduzione della riunione spetta alla presidenza della commissione. Se nessun membro della presidenza della commissione è presente, la commissione nomina un altro membro della commissione come presidente della riunione. </text></article>
+<article title_de="Beschlussfindung" title_fr="Prise de décision" title_it="Processo decisionale">
 <text language="de">
 Die Modalitäten der Abstimmungsverfahren sind in Art. 25ff Mitwirkungs- und Öffentlichkeitsreglement geregelt.
 </text>
 <text language="fr">
 Les modalités des procédures de vote sont régies par les articles 25 et suivants du Règlement sur la participation et la transparence.
 </text>
-</article>
-<article title_de="Protokoll" title_fr="Procès-Verbal">
+<text language="it"> Le modalità delle procedure di voto sono disciplinate dall’art. 25 e seguenti del regolamento sulla partecipazione e sulla trasparenza. </text></article>
+<article title_de="Protokoll" title_fr="Procès-Verbal" title_it="Verbale">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -362,7 +363,7 @@ Es ist an jeder Kommissionssitzung ein Argumentationsprotokoll zu führen, welch
 <text language="fr">
 Un compte rendu intégral doit être rédigé lors de chaque réunion de la commission, conformément aux exigences de l'article 36 du Règlement sur la participation et la transparence.
 </text>
-</paragraph>
+<text language="it"> Ad ogni riunione della commissione deve essere redatto un verbale che soddisfi i requisiti di cui all’art. 36 del regolamento sulla partecipazione e sulla trasparenza. </text></paragraph>
 <paragraph>
 <text language="de">
 Protokolle werden nach der Genehmigung gemäss Art. 38 des Mitwirkungs- und Öffentlichkeitsreglements veröffentlicht und werden dem Vorstand, den Sektionen, den Kommissionsmitgliedern und der GPK zugestellt. Vertrauliche Protokolle werden nur der GPK und dem Vorstand zugestellt.
@@ -370,14 +371,14 @@ Protokolle werden nach der Genehmigung gemäss Art. 38 des Mitwirkungs- und Öff
 <text language="fr">
 Les procès-verbaux sont publiés après leur approbation conformément à l'art. 38 du règlement sur la participation et la transparence et sont envoyés au Comité exécutif, aux sections, aux membres des commissions et à la CdC. Les procès-verbaux confidentiels ne sont envoyés qu'à la CdC et au Comité exécutif.
 </text>
-</paragraph>
+<text language="it"> I verbali vengono pubblicati dopo l’approvazione ai sensi dell’art. 38 del regolamento sulla partecipazione e sulla trasparenza e vengono inviati al comitato esecutivo, alle sezioni, ai membri della commissione e alla CDG. I verbali riservati vengono inviati solo alla CDG e al comitato esecutivo. </text></paragraph>
 </paragraphs>
 </article>
 </articles>
 </section>
-<section title_de="Austausch zwischen den Kommissionen und dem Vorstand" title_fr="Échanges entre les Commissions et le Comité exécutif">
+<section title_de="Austausch zwischen den Kommissionen und dem Vorstand" title_fr="Échanges entre les Commissions et le Comité exécutif" title_it="Scambio tra le commissioni e il comitato esecutivo">
 <articles>
-<article title_de="Zusammensetzung" title_fr="Composition">
+<article title_de="Zusammensetzung" title_fr="Composition" title_it="Composizione">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -386,7 +387,7 @@ Am Austausch zwischen den Kommissionen und dem Vorstand nehmen folgende Personen
 <text language="fr">
 Les personnes suivantes participent aux échanges entre les commissions et le Comité exécutif :
 </text>
-<letters>
+<text language="it"> Allo scambio tra le commissioni e il comitato esecutivo partecipano le seguenti persone: </text><letters>
 <letter>
 <text language="de">
 die Kommissionspräsidien;
@@ -394,7 +395,7 @@ die Kommissionspräsidien;
 <text language="fr">
 les présidences des Commission thématiques;
 </text>
-</letter>
+<text language="it"> le presidenze delle commissioni; </text></letter>
 <letter>
 <text language="de">
 der Vorstand;
@@ -402,7 +403,7 @@ der Vorstand;
 <text language="fr">
 le Comité exécutif ;
 </text>
-</letter>
+<text language="it"> il comitato esecutivo; </text></letter>
 <letter>
 <text language="de">
 das Generalsekretariat.
@@ -410,7 +411,7 @@ das Generalsekretariat.
 <text language="fr">
 le Secrétariat général.
 </text>
-</letter>
+<text language="it"> il segretariato generale. </text></letter>
 </letters>
 </paragraph>
 <paragraph>
@@ -420,7 +421,7 @@ Es können weitere Personen eingeladen werden.
 <text language="fr">
 D'autres personnes peuvent être invitées.
 </text>
-</paragraph>
+<text language="it"> Possono essere invitate altre persone. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Verantwortung für die Sitzungsleitung liegt beim Vorstand.
@@ -428,10 +429,10 @@ Die Verantwortung für die Sitzungsleitung liegt beim Vorstand.
 <text language="fr">
 La responsabilité de la présidence de la réunion incombe au Comité exécutif.
 </text>
-</paragraph>
+<text language="it"> La responsabilità della direzione della riunione spetta al comitato esecutivo. </text></paragraph>
 </paragraphs>
 </article>
-<article title_de="Sitzungen" title_fr="Réunions">
+<article title_de="Sitzungen" title_fr="Réunions" title_it="Riunioni">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -440,7 +441,7 @@ Es finden mindestens zwei solche Sitzungen pro Semester statt. Diese dienen dazu
 <text language="fr">
 Au moins deux sessions de ce type sont organisées chaque semestre. Elles servent à
 </text>
-<letters>
+<text language="it"> Ogni semestre si tengono almeno due riunioni di questo tipo. Esse servono a: </text><letters>
 <letter>
 <text language="de">
 die Zusammenarbeit zwischen den Kommissionen und dem Vorstand zu koordinieren;
@@ -448,7 +449,7 @@ die Zusammenarbeit zwischen den Kommissionen und dem Vorstand zu koordinieren;
 <text language="fr">
 coordonner la coopération entre les commissions et le Comité exécutif ;
 </text>
-</letter>
+<text language="it"> coordinare la collaborazione tra le commissioni e il comitato esecutivo; </text></letter>
 <letter>
 <text language="de">
 thematische Schwerpunkte in der Kommissionsarbeit zu diskutieren;
@@ -456,7 +457,7 @@ thematische Schwerpunkte in der Kommissionsarbeit zu diskutieren;
 <text language="fr">
 discuter des priorités thématiques dans le travail des commissions ;
 </text>
-</letter>
+<text language="it"> discutere i temi principali del lavoro delle commissioni; </text></letter>
 <letter>
 <text language="de">
 die strategischen Schwerpunkte der Verbandsarbeit zu diskutieren.
@@ -464,7 +465,7 @@ die strategischen Schwerpunkte der Verbandsarbeit zu diskutieren.
 <text language="fr">
 de discuter des priorités stratégiques du travail de l'association.
 </text>
-</letter>
+<text language="it"> discutere i temi strategici del lavoro dell’associazione. </text></letter>
 </letters>
 </paragraph>
 <paragraph>
@@ -474,7 +475,7 @@ Das Generalsekretariat lädt zu den Sitzungen ein.
 <text language="fr">
 Le Secrétariat général convoque les réunions.
 </text>
-</paragraph>
+<text language="it"> Il segretariato generale invia gli inviti alle riunioni. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Traktandenliste wird den Kommissionen, den Sektionen, dem Vorstand und der GPK zugestellt.
@@ -482,7 +483,7 @@ Die Traktandenliste wird den Kommissionen, den Sektionen, dem Vorstand und der G
 <text language="fr">
 L'ordre du jour est envoyé aux commissions, aux sections, au Comité exécutif et à la CdC.
 </text>
-</paragraph>
+<text language="it"> L’ordine del giorno viene inviato alle commissioni, alle sezioni, al comitato esecutivo e alla CDG. </text></paragraph>
 <paragraph>
 <text language="de">
 Die Traktandenliste beinhaltet mindestens Zeitpunkt und Ort der Sitzung sowie eine Auflistung aller Traktanden. Vertrauliche Traktanden dürfen als “Vertraulich” aufgeführt werden.
@@ -490,22 +491,22 @@ Die Traktandenliste beinhaltet mindestens Zeitpunkt und Ort der Sitzung sowie ei
 <text language="fr">
 L'ordre du jour comprend au moins la date et le lieu de la réunion ainsi qu'une liste de tous les points à l'ordre du jour. Les points confidentiels peuvent être mentionnés sous la forme <quote>Confidentiel</quote>.
 </text>
-</paragraph>
+<text language="it"> L’ordine del giorno contiene almeno la data e il luogo della riunione, nonché un elenco di tutti i punti all’ordine del giorno. I punti all’ordine del giorno riservati possono essere contrassegnati come «riservati». </text></paragraph>
 </paragraphs>
 </article>
 </articles>
 </section>
-<section title_de="Schlussbestimmungen" title_fr="Dispositions finales">
+<section title_de="Schlussbestimmungen" title_fr="Dispositions finales" title_it="Disposizioni finali">
 <articles>
-<article title_de="Revisionsbestimmungen" title_fr="Dispositions relatives à la révision">
+<article title_de="Revisionsbestimmungen" title_fr="Dispositions relatives à la révision" title_it="Disposizioni di revisione">
 <text language="de">
 Dieses Reglement unterliegt den Revisionsbestimmungen gemäss Art. 41 der Statuten.
 </text>
 <text language="fr">
 Le présent règlement est soumis aux dispositions relatives à la révision conformément à l'article 41 des statuts.
 </text>
-</article>
-<article title_de="Version" title_fr="Version">
+<text language="it"> Il presente regolamento è soggetto alle disposizioni di revisione sulla base dell’art. 41 degli statuti. </text></article>
+<article title_de="Version" title_fr="Version" title_it="Versione">
 <paragraphs>
 <paragraph>
 <text language="de">
@@ -514,7 +515,7 @@ Dieses Reglement wurde von der 184. Delegiertenversammlung erlassen.
 <text language="fr">
 Le présent règlement a été adopté par la 184e Assemblée des délégué·e·s.
 </text>
-</paragraph>
+<text language="it"> Il presente regolamento è stato approvato dalla 184a assemblea dei e delle delegati/e. </text></paragraph>
 <paragraph>
 <text language="de">
 Es tritt am 01.01.2025 in Kraft.
@@ -522,7 +523,7 @@ Es tritt am 01.01.2025 in Kraft.
 <text language="fr">
 Il entre en vigueur le 01.01.2025.
 </text>
-</paragraph>
+<text language="it"> Entra in vigore il 1° gennaio 2025. </text></paragraph>
 </paragraphs>
 </article>
 </articles>

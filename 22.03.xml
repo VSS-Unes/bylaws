@@ -1,4 +1,5 @@
-<regulation id="22.03" title_de="Auftrag der Hochschulpolitischen Kommission" short_de="HoPoKo-Auftrag" title_fr="Mandat de la Commission de la politique des hautes écoles" short_fr="Mandat de la HoPoKo" original_implementation_date="2025-01-01">
+<?xml version='1.0' encoding='utf-8'?>
+<regulation id="22.03" original_implementation_date="2025-01-01" short_de="HoPoKo-Auftrag" short_fr="Mandat de la HoPoKo" short_it="Incarico HoPoKo" title_de="Auftrag der Hochschulpolitischen Kommission" title_fr="Mandat de la Commission de la politique des hautes écoles" title_it="Incarico della commissione per la politica delle università">
 <preamble>
 <text language="de">
 Die 184. Delegiertenversammlung, gestützt auf Art. 3 des Gremienreglements über die thematischen Kommissionen im VSS, beschliesst:
@@ -6,32 +7,32 @@ Die 184. Delegiertenversammlung, gestützt auf Art. 3 des Gremienreglements übe
 <text language="fr">
 La 184e Assemblée des délégué·e·s, se fondant sur l'art. 3 du Règlement concernant les commissions thématiques au sein de l'UNES, décide:
 </text>
-</preamble>
+<text language="it"> La 184a assemblea dei e delle delegati/e, in base all’art. 3 del regolamento degli organi sulle commissioni tematiche dell’USU, decide: </text></preamble>
 <articles>
-<article title_de="Definition" title_fr="Définition">
+<article title_de="Definition" title_fr="Définition" title_it="Definizione">
 <text language="de">
 Unter den Namen “Hochschulpolitische Kommission”, abgekürzt “HoPoKo”, besteht eine thematische Kommission. 
 </text>
 <text language="fr">
 Sous le nom de “Commission de la politique des hautes écoles“, en abrégé ”HoPoKo”, il est constitué une Commission thématique.
 </text>
-</article>
-<article title_de="Zweck" title_fr="Buts">
+<text language="it"> Con il nome «commissione per la politica universitaria», abbreviata «HoPoKo», viene creata una commissione tematica. </text></article>
+<article title_de="Zweck" title_fr="Buts" title_it="Scopo">
 <text language="de">
 Die Kommission bezweckt, die studentischen Forderungen sowie Anliegen an die Politik auszuformulieren und einzubringen.
 </text>
 <text language="fr">
 La commission a pour but de formuler et de présenter les revendications des étudiant·e·s ainsi que leurs demandes à la politique.
 </text>
-</article>
-<article title_de="Arbeitsbereich" title_fr="Domaine d'activité">
+<text language="it"> La commissione ha lo scopo di formulare e presentare le richieste e le istanze di studenti e studentesse alla politica. </text></article>
+<article title_de="Arbeitsbereich" title_fr="Domaine d'activité" title_it="Aree di competenza">
 <text language="de">
 Die Kommission engagiert sich bei politischen Themen:
 </text>
 <text language="fr">
 La commission s'engage sur des questions politiques :
 </text>
-<letters>
+<text language="it"> La commissione si occupa di tematiche politiche: </text><letters>
 <letter>
 <text language="de">
 der Bildungspolitik;
@@ -39,7 +40,7 @@ der Bildungspolitik;
 <text language="fr">
 la politique de l'éducation ;
 </text>
-</letter>
+<text language="it"> della politica della formazione; </text></letter>
 <letter>
 <text language="de">
 welche Studierende direkt betreffen.
@@ -47,16 +48,16 @@ welche Studierende direkt betreffen.
 <text language="fr">
 qui concernent directement les étudiant·e·s.
 </text>
-</letter>
+<text language="it"> che riguardano direttamente studenti e studentesse. </text></letter>
 </letters>
 </article>
-<article title_de="Inkrafttreten" title_fr="Entrée en vigueur">
+<article title_de="Inkrafttreten" title_fr="Entrée en vigueur" title_it="Entrata in vigore">
 <text language="de">
 Dieser Beschluss tritt am 01.01.2025 in Kraft und gilt bis auf Weiteres.
 </text>
 <text language="fr">
 La présente décision entre en vigueur le 01.01.2025 et reste valable jusqu'à nouvel ordre.
 </text>
-</article>
+<text language="it"> Questa disposizione entra in vigore il 01.01.2025 e rimane in vigore fino a nuovo avviso. </text></article>
 </articles>
 </regulation>
