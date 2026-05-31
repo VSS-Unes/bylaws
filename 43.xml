@@ -189,9 +189,10 @@
                         <text language="fr"> Les membres du Comité exécutif ont droit à quatre semaines de vacances par an, avec une indemnisation complète. </text>
                     <text language="it"> I membri del comitato esecutivo hanno diritto a quattro settimane di ferie all’anno, con retribuzione completa. </text></paragraph>
                     <paragraph>
-                        <text language="de"> Zusätzlich erhalten Mitglieder des Vorstandes einen Pauschalbeitrag in Höhe der Kosten eines vollen Generalabonnements 2. Klasse. </text>
-                        <text language="fr"> En outre, les membres du Comité exécutif reçoivent une contribution forfaitaire équivalente au coût d'un abonnement général complet de 2e classe. </text>
-                    <text language="it"> Inoltre, i membri del comitato esecutivo ricevono un contributo forfettario pari al costo di un abbonamento generale di 2ª classe. </text></paragraph>
+                        <changed gremium="DV" agenda_item="5.8.1.1" meeting_number="187" implementation_date="2026-05-04" />
+                        <text language="de"> Zusätzlich erhalten Mitglieder des Vorstandes einen Beitrag in Höhe der effektiven Kosten eines Generalabonnements 2. Klasse. </text>
+                        <text language="fr"> En outre, les membres du Comité exécutif reçoivent une contribution équivalente au coût effectif d'un abonnement général de 2e classe. </text>
+                    <text language="it"> Inoltre, i membri del comitato esecutivo ricevono un contributo pari al costo effectivo di un abbonamento generale di 2ª classe. </text></paragraph>
                 </paragraphs>
             </article>
             <article title_de="Weitere" title_fr="Autres" title_it="Altre retribuzioni">
@@ -232,43 +233,66 @@
                     <paragraph>
                         <text language="de"> Den im VSS tätigen Personen sollen durch ihre Tätigkeit keine privaten Kosten entstehen. </text>
                         <text language="fr"> Les personnes travaillant au sein de l'UNES ne doivent pas avoir de couts liés à leur activité. </text>
-                    <text language="it"> Le persone attive nell’USU non devono avere oneri privati derivanti dalla propria attività. </text></paragraph>
+                        <text language="it"> Le persone attive nell’USU non devono avere oneri privati derivanti dalla propria attività. </text></paragraph>
                     <paragraph>
                         <text language="de"> Spesen sollen allerdings keine regulären Lebenshaltungskosten decken. </text>
                         <text language="fr"> Les frais ne doivent cependant pas couvrir les coûts normaux de la vie. </text>
-                    <text language="it"> Gli esborsi non devono tuttavia coprire i normali costi di sostentamento. </text></paragraph>
+                        <text language="it"> Gli esborsi non devono tuttavia coprire i normali costi di sostentamento. </text></paragraph>
                     <paragraph>
-                        <text language="de"> Falls Spesen notwendig sind, soll immer die günstigste der zumutbaren Varianten gewählt werden. </text>
-                        <text language="fr"> Si des frais sont nécessaires, il faut toujours choisir la variante la moins chère parmi celles qui sont acceptables. </text>
-                    <text language="it"> Se è necessario ricorrere ad esborsi, deve essere sempre scelta la variante più economica tra quelle ragionevoli. </text></paragraph>
+                        <changed gremium="DV" agenda_item="5.8" meeting_number="187" implementation_date="2026-05-04" />
+                        <text language="de"> Falls Spesen notwendig sind, soll immer die günstigste und nachhaltigste der zumutbaren Varianten gewählt werden. Ausgaben ohne Bezug zur Tätigkeit des VSS werden nicht übernommen.</text>
+                        <text language="fr"> Si des frais sont nécessaires, il faut toujours choisir la variante la moins chère et la plus durable parmi celles qui sont acceptables. Les dépenses engagées sans nécessité liée à l'activité de l'UNES ne sont pas prises en charge.</text>
+                        <text language="it"> Se è necessario ricorrere ad esborsi, deve essere sempre scelta la variante più economica e sostenibile tra quelle ragionevoli. Non saranno rimborsate le spese non attinenti all'attività dell’USU. </text></paragraph>
                 </paragraphs>
+            </article>
+            <article>
+                <inserted gremium="DV" agenda_item="6.1" meeting_number="187" implementation_date="2026-05-04" />
+                <article title_de="Sitzungsspesen" title_fr="Frais de séance" title_it="Spese di riunione"></article>
+                <text language="de">Gelegentliche Spesen für einen Apéro oder eine einfache Mahlzeit im Rahmen von Sitzungen der Organe des VSS oder Repräsentationskosten bei Einladungen von Partnern sind nach Zustimmung des Präsidiums des betreffenden Gremiums, der direkten vorgesetzten Person oder des Co-Präsidiums zulässig.</text>
+                <text language="fr">Des frais occasionnels pour un apéritif ou un repas simple dans le cadre des séances des organes de l’UNES ou des frais de représentation en cas d’invitation de partenaires sont admissibles après accord de la présidence de l’organe concerné, du ou de la supérieur·e hiérarchique direct·e ou de la co-présidence.</text>
+                <text language="it">Le spese occasionali per un aperitivo o un pasto semplice nell’ambito delle riunioni degli organi dell’USU, oppure le spese di rappresentanza in occasione di invito di partner, sono ammesse previa approvazione della presidenza dell’organo interessato, del/la superiore diretto/a o della copresidenza.</text>
             </article>
             <article title_de="Fahrkosten" title_fr="Frais de déplacement" title_it="Spese di viaggio">
                 <paragraphs>
                     <paragraph>
-                        <text language="de"> Es werden allgemein die Bahnkosten der 2. Klasse vergütet. </text>
-                        <text language="fr"> En règle générale, les frais de train en 2e classe sont remboursés. </text>
-                    <text language="it"> Generalmente, vengono rimborsate le spese di viaggio in treno in 2ª classe. </text></paragraph>
+                        <changed gremium="DV" agenda_item="5.8" meeting_number="187" implementation_date="2026-05-04" />
+                        <text language="de"> Es werden allgemein die effektiven Bahnkosten der 2. Klasse vergütet. </text>
+                        <text language="fr"> En règle générale, les frais effectives de train en 2e classe sont remboursés. </text>
+                        <text language="it"> Generalmente, vengono rimborsate le spese di viaggio effettive in treno in 2ª classe. </text></paragraph>
                     <paragraph>
-                        <text language="de"> Ab der zweifachen Höhe der Kosten eines Halbtax-Abonnements werden die Kosten eines halben Billets erstattet. </text>
-                        <text language="fr"> A partir du double du coût d'un abonnement demi-tarif, le coût d'un demi-billet est remboursé. </text>
-                    <text language="it"> A partire dal doppio del costo di un abbonamento metà prezzo, viene rimborsata la metà del costo del biglietto. </text></paragraph>
+                        <changed gremium="DV" agenda_item="5.8.1" meeting_number="187" implementation_date="2026-05-04" />
+                        <text language="de"> Personen, die mit einem Vollkosten-Abonnement reisen, können sich die Kosten eines halben Billets 2. Klasse erstatten lassen. </text>
+                        <text language="fr"> Pour les personnes qui voyagent avec un abonnement qui prend en charge l’ensemble des coûts, le montant équivalent au coût d’un billet demi-tarif en 2e classe est remboursé. </text>
+                        <text language="it"> Le persone che viaggiano con un abbonamento possono ottenere il rimborso del costo di un biglietto a metà prezzo in 2ª classe. </text></paragraph>
                     <paragraph>
+                        <changed gremium="DV" agenda_item="5.8" meeting_number="187" implementation_date="2026-05-04" />
                         <text language="de"> Ein Recht auf Reisekostenvergütung für VSS-Sitzungen und Arbeitstage haben: </text>
                         <text language="fr"> Ont droit à une indemnité de déplacement pour les réunions et les journées de travail de l'UNES : </text>
                         <text language="it"> I seguenti soggetti hanno diritto al rimborso delle spese di viaggio per le riunioni e le giornate di lavoro dell’USU: </text><letters>
                             <letter>
                                 <text language="de"> die Mitglieder der Kommissionen; </text>
                                 <text language="fr"> les membres des commissions ; </text>
-                            <text language="it"> i membri delle commissioni; </text></letter>
+                                <text language="it"> i membri delle commissioni; </text></letter>
+                            <letter>
+                                <text language="de"> das Präsidium des Sektionsrates; </text>
+                                <text language="fr"> das Präsidium des Sektionsrates; </text>
+                                <text language="it"> la presidenza del consiglio delle sezioni;  </text></letter>
+                            <letter>
+                                <text language="de"> Die Mitglieder der internen Anlaufstelle; </text>
+                                <text language="fr"> les membres de la cellule interne contre le harcèlement; </text>
+                                <text language="it"> i membri del punto di contatto contro le molestie sessuali;  </text></letter>
                             <letter>
                                 <text language="de"> offizielle Gäste, welchen die Fahrtkosten nicht anderweitig entschädigt werden; </text>
                                 <text language="fr"> les invité·e·s officiel·le·s dont les frais de déplacement ne sont pas remboursés d'une autre manière ; </text>
-                            <text language="it"> le persone ospiti ufficiali che non ricevono altro rimborso per le spese di viaggio; </text></letter>
+                                <text language="it"> le persone ospiti ufficiali che non ricevono altro rimborso per le spese di viaggio; </text></letter>
                             <letter>
-                                <text language="de"> die Mitarbeitenden des VSS für auswärtige Sitzungen und Arbeitstage; </text>
-                                <text language="fr"> les collaborateur·trice·s de l'UNES pour les réunions et les journées de travail à l'extérieur ; </text>
-                            <text language="it"> collaboratori e collaboratrici dell’USU per le riunioni e le giornate di lavoro fuori sede; </text></letter>
+                                <text language="de"> die Mitarbeitenden des VSS für Sitzungen und Arbeitstage im Ausland; </text>
+                                <text language="fr"> les collaborateur·trice·s de l'UNES pour les réunions et les journées de travail à l'étranger; </text>
+                                <text language="it"> collaboratori e collaboratrici dell’USU per le riunioni e le giornate di lavoro fuori sede; </text></letter>
+                            <letter>
+                                <text language="de"> Die Vorstandsmitglieder für Sitzungen und Arbeitstage im Ausland; </text>
+                                <text language="fr"> les membres du Comité de l’UNES pour les réunions et les journées de travail à l’étranger; </text>
+                                <text language="it"> i membri del comitato esecutivo dell’USU per le riunioni e le giornate di lavoro all'estero; </text></letter>
                             <letter>
                                 <text language="de"> die VSS-Vertreter:innen in Gremien, falls ihre Spesen nicht vom Gremium gedeckt werden, in dem sie Einsitz nehmen. </text>
                                 <text language="fr"> les représentant·e·s de l'UNES dans les organes, si leurs frais ne sont pas couverts par l’organe dans lequel ils siègent. </text>
@@ -276,12 +300,33 @@
                         </letters>
                     </paragraph>
                     <paragraph>
-                        <text language="de"> Vorstandsmitglieder haben keinen Anrecht auf die Rückerstattung von Fahrspesen innerhalb der Schweiz. </text>
+                        <text language="de"> Vorstandsmitglieder haben kein Anrecht auf die Rückerstattung von Fahrspesen innerhalb der Schweiz. </text>
                         <text language="fr"> Les membres du Comité exécutif n'ont pas droit au remboursement de leurs frais de déplacement en Suisse. </text>
-                    <text language="it"> I membri del comitato esecutivo non hanno diritto al rimborso delle spese di viaggio all’interno della Svizzera. </text></paragraph>
+                        <text language="it"> I membri del comitato esecutivo non hanno diritto al rimborso delle spese di viaggio all’interno della Svizzera. </text></paragraph>
+                    <paragraph>
+                        <inserted gremium="DV" agenda_item="5.8" meeting_number="185" implementation_date="2025-05-05" />
+                        <text language="de"> Die Erstattung der Reisekosten innerhalb der Schweiz für Mitarbeitende des VSS ist in den Personalrichtlinien geregelt. </text>
+                        <text language="fr"> Le remboursement des frais de déplacement en Suisse des collaborateur·rice·s de l’UNES est réglé dans les directives du personnel. </text>
+                        <text language="it"> Il rimborso delle spese di viaggio all’interno della Svizzera per i collaboratori e le collaboratrici dell’USU è disciplinato dalle direttive sul personale approvate dal comitato esecutivo. </text></paragraph>
                 </paragraphs>
             </article>
-            <article title_de="Auslagenerstattungsformular" title_fr="Formulaire de remboursement des frais" title_it="Modulo di rimborso spese">
+            <article>
+                <inserted gremium="DV" agenda_item="6.1" meeting_number="187" implementation_date="2026-05-04" />
+                <article title_de="Unterkunftskosten" title_fr="Formulaire de remboursement des frais" title_it="Modulo di rimborso spese"></article>
+                <paragraphs>
+                    <paragraph>
+                        <text language="de">Bei Konferenzen oder Dienstreisen mit Übernachtung(en) für den VSS kann eine Pauschale von 30.- pro Tag für Verpflegung und sonstige kleinere Ausgaben gewährt werden, sofern diese nicht anderweitig entschädigt werden</text>
+                        <text language="fr">Lors de conférences ou déplacements avec nuitée(s) pour l’UNES, un forfait de 30.- par jour peut être versé pour les repas et les autres dépenses mineures, sauf si ceux-ci sont remboursés d’une autre manière.</text>
+                        <text language="it">In occasione di conferenze o viaggi di servizio con pernottamento(i) per conto dell’USU, alle persone che ricoprono una carica all’interno dell’USU o che lavorano per l’USU può essere concesso un forfait di 30.- al giorno per i pasti e altre piccole spese, purché queste non siano rimborsate in altro modo.</text>
+                    </paragraph>
+                    <paragraph>
+                        <text language="de"> Bei Übernachtungen im Rahmen von Dienstreisen erfolgt die Wahl der Unterkunft in Absprache mit der direkten Vorgesetzten Person oder dem Co-Präsidium.</text>
+                        <text language="fr">Pour les nuitées en déplacement professionnel, le choix du lieu d’hébergement est effectué d’entente avec le ou la supérieur·e direct·e ou la co-présidence.</text>
+                        <text language="it">In caso di pernottamenti nell'ambito di viaggi di servizio, la scelta dell'alloggio avviene d'intesa con il/la superiore diretto/a o con la copresidenza.</text>
+                    </paragraph>
+                </paragraphs>
+                </article>
+            <article title_de="Auslagenerstattungsformular" title_fr="Frais d’hébergement" title_it="Spese di alloggio">
                 <paragraphs>
                     <paragraph>
                         <text language="de"> Auslagen werden nur erstattet, wenn zu deren Abrechnung ein vollständig ausgefülltes Auslagenerstattungsformular inklusive sämtlicher Quittungen eingereicht wird. </text>
