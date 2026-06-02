@@ -217,9 +217,10 @@
                         <text language="fr"> La convocation doit mentionner la date, l'heure et le lieu de la réunion ainsi que les objets à traiter ; elle doit être envoyée au plus tard sept jours avant la réunion. </text>
                     <text language="it"> L’invito deve contenere la data, l’ora e il luogo della riunione, nonché gli oggetti da trattare, e deve essere inviato al più tardi sette giorni prima della riunione. </text></paragraph>
                     <paragraph>
-                        <text language="de"> Anträge können bis zu dieser Frist eingereicht werden. In dringenden Fällen kann von der Frist abgesehen werden. </text>
-                        <text language="fr"> Les propositions matérielles et les interventions peuvent être soumises jusqu'à cette date. En cas d'urgence, il peut être dérogé à ce délai. </text>
-                    <text language="it"> Le proposte possono essere presentate entro tale termine. In casi urgenti è possibile reinviare il termine. </text></paragraph>
+                        <changed gremium="DV" agenda_item="6.10" meeting_number="187" implementation_date="2026-05-04" />
+                        <text language="de"> Anträge können bis 10 Tage vor der Sitzung eingereicht werden. In dringenden Fällen kann von der Frist abgesehen werden. </text>
+                        <text language="fr"> Les propositions matérielles et les interventions peuvent être soumises jusqu'à 10 jours avant la réunion. En cas d'urgence, il peut être dérogé à ce délai. </text>
+                        <text language="it"> Le proposte possono essere presentate 10 giorni prima della riunione. In casi urgenti è possibile reinviare il termine. </text></paragraph>
                     <paragraph>
                         <text language="de"> Die Einladung und Traktandenliste werden den Kommissionsmitgliedern, den Sektionen, dem Vorstand und der GPK zugestellt. </text>
                         <text language="fr"> La convocation et l'ordre du jour sont envoyés aux membres de la commission, aux sections, au Comité exécutif et à la CdC. </text>
