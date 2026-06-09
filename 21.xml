@@ -135,13 +135,16 @@
                 <text language="fr"> Les taux de travail au sein du comité de l'UNES sont les suivants : </text>
                 <text language="it"> Il grado di occupazione nel comitato esecutivo dell’USU è il seguente: </text><letters>
                     <letter>
-                        <text language="de"> 40% für Mitglieder des Co-Präsidiums; </text>
-                        <text language="fr"> 40% pour les membres de la coprésidence ; </text>
-                    <text language="it"> 40% per i membri della copresidenza; </text></letter>
+                        <changed gremium="DV" agenda_item="6.11" meeting_number="187" implementation_date="2026-05-04" />
+                        <text language="de"> 50% für Mitglieder des Co-Präsidiums; </text>
+                        <text language="fr"> 50% pour les membres de la coprésidence ; </text>
+                        <text language="it"> 50% per i membri della copresidenza; </text></letter>
                     <letter>
-                        <text language="de"> 30% für die restlichen Vorstandsmitglieder. </text>
-                        <text language="fr"> 30% pour les autres membres du Comité exécutif. </text>
-                    <text language="it"> 30% per gli altri membri del comitato esecutivo. </text></letter>
+                        <changed gremium="DV" agenda_item="6.11" meeting_number="187" implementation_date="2026-05-04" />
+                        <text language="de"> 20%, 30% oder 40% für die restlichen Vorstandsmitglieder. Der Beschäftigungsgrad wird im Einvernehmen mit dem Co-Präsidium festgelegt. Bei Uneinigkeit entscheidet der Sektionsrat.</text>
+                        <text language="fr"> 20%, 30% ou 40% pour les autres membres du Comité exécutif. Le taux de travail est défini d’entente avec la co-présidence. En cas de désaccord, le Conseil des sections se prononce.</text>
+                        <text language="it"> 20%, 30% o 40% per gli altri membri del comitato esecutivo. Il grado di occupazione viene stabilito di comune accordo con la copresidenza. In caso di disaccordo, la decisione spetta al consiglio delle sezioni.</text>
+                    </letter>
                 </letters>
             </article>
         </articles>
@@ -239,11 +242,29 @@
             <article title_de="Angestellte" title_fr="Employé·e·s" title_it="Dipendenti">
                 <text language="de"> Der VSS-Vorstand stellt Mitarbeitende ein, amtet als Arbeitgeber sämtlichem beim VSS angestellten Personals und ist für die Erstellung und Anpassung der Lohnsysteme zuständig. </text>
                 <text language="fr"> Le Comité exécutif engage des employé·e·s, agit en tant qu'employeur de tout le personnel employé par l'UNES et est responsable de la mise en place et de l'adaptation des systèmes salariaux. </text>
-            <text language="it"> Il comitato esecutivo dell’USU assume collaboratori e collaboratrici, funge da datore di lavoro per tutto il personale impiegato presso l’USU ed è responsabile della creazione e dell’adeguamento dei sistemi salariali. </text></article>
+                <text language="it"> Il comitato esecutivo dell’USU assume collaboratori e collaboratrici, funge da datore di lavoro per tutto il personale impiegato presso l’USU ed è responsabile della creazione e dell’adeguamento dei sistemi salariali. </text></article>
             <article title_de="Berichterstattung" title_fr="Rapports" title_it="Redazione del rapporto">
                 <text language="de"> Der Vorstand informiert mittels Jahresbericht über seine Tätigkeiten. </text>
                 <text language="fr"> Le Comité exécutif informe de ses activités au moyen d'un rapport annuel. </text>
-            <text language="it"> Il comitato esecutivo redige un rapporto annuale per informare delle proprie attività. </text></article>
+                <text language="it"> Il comitato esecutivo redige un rapporto annuale per informare delle proprie attività. </text></article>
+            <article title_de="Erarbeitung von Richtlinien" title_fr="Elaboration de directives" title_it="Elaborazione di direttive ">
+                <inserted gremium="DV" agenda_item="6.11" meeting_number="187" implementation_date="2026-05-04" />
+                <text language="de"> Der VSS-Vorstand fördert die Rahmenbedingungen und den Austausch für die Verbandsinterne Arbeit. Dies umfasst insbesondere die Erarbeitung und Veröffentlichung von Richtlinien zu folgenden Themen: </text>
+                <text language="fr"> Le Comité exécutif de l’UNES favorise la mise en place de bonnes conditions-cadres et d’échanges pour le travail interne de l’Union. Cela comprend notamment l’élaboration et la publication de directives sur les Propositions et interventions thèmes suivants : </text>
+                <text language="it"> Il comitato esecutivo dell’USU promuove le condizioni quadro e lo scambio per il lavoro interno all’associazione. Ciò comprende in particolare l’elaborazione e la pubblicazione di direttive sui seguenti temi: </text>
+                    <numerals>
+                        <numeral>
+                            <text language="de"> Personalrichtlinien gemäss Art. 6 des Reglement über die Anstellungen des VSS.</text>
+                            <text language="fr"> Le Comité exécutif informe de ses activités au moyen d'un rapport annuel. </text>
+                            <text language="it"> Direttive sul personale ai sensi dell’art. 6 del regolamento sulle assunzioni all’USU. </text>
+                        </numeral>
+                        <numeral>
+                            <text language="de"> Nachhaltigkeitsrichtlinien. </text>
+                            <text language="fr"> Le Comité exécutif informe de ses activités au moyen d'un rapport annuel. </text>
+                            <text language="it"> Direttive sulla sostenibilità. </text>
+                        </numeral>
+                    </numerals>
+            </article>
         </articles>
     </section>
     <section title_de="Sitzungen" title_fr="Réunions" title_it="Riunioni">
