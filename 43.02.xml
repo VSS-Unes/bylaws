@@ -38,19 +38,29 @@
                         <numeral>
                             <text language="de"> Perspektiven-Studium Fonds; </text>
                             <text language="fr"> le fonds Perspectives-Études ; </text>
-                        <text language="it"> fondo prospettive-studio; </text></numeral>
+                            <text language="it"> fondo prospettive-studio; </text></numeral>
                         <numeral>
                             <text language="de"> INVOST-Fonds; </text>
                             <text language="fr"> le fonds INVOST ; </text>
-                        <text language="it"> fondo INVOST; </text></numeral>
+                            <text language="it"> fondo INVOST; </text></numeral>
                         <numeral>
                             <text language="de"> Students at Risk Fonds; </text>
                             <text language="fr"> le fonds Students at Risk ; </text>
-                        <text language="it"> fondo students at risk; </text></numeral>
+                            <text language="it"> fondo students at risk; </text></numeral>
                         <numeral>
-                            <text language="de"> Akkreditierungsfonds. </text>
-                            <text language="fr"> le fonds d'accréditation. </text>
-                        <text language="it"> fondo accreditamento. </text></numeral>
+                            <text language="de"> Akkreditierungsfonds; </text>
+                            <text language="fr"> le fonds d'accréditation; </text>
+                            <text language="it"> fondo accreditamento; </text></numeral>
+                        <numeral>
+                            <inserted gremium="DV" agenda_item="5.9.1" meeting_number="187" implementation_date="2026-05-04" />
+                            <text language="de"> Student Minds Network Fonds; </text>
+                            <text language="fr"> le fonds Student Minds Network; </text>
+                            <text language="it"> fondo Student Minds Network; </text></numeral>
+                        <numeral>
+                            <inserted gremium="DV" agenda_item="5.9" meeting_number="187" implementation_date="2026-05-04" />
+                            <text language="de"> Sustainability Week Switzerland Fonds. </text>
+                            <text language="fr"> le fonds Sustainability Week Switzerland. </text>
+                            <text language="it"> fondo Sustainability Week Switzerland . </text></numeral>
                     </numerals>
                 </letter>
                 <letter>
@@ -142,13 +152,32 @@
             <inserted gremium="DV" agenda_item="4.5" meeting_number="185" implementation_date="2025-05-05" />
             <paragraphs>
                 <paragraph>
-                    <text language="de">Der Nachhaltigkeitsfonds dient der finanziellen Unterstützung von Projekten, Initiativen oder Massnahmen, welche die ökologische, soziale oder ökonomische Nachhaltigkeit innerhalb des VSS oder seiner Sektionen fördern.</text>
-                    <text language="fr">Le fonds durabilité sert à soutenir financièrement des projets, des initiatives ou des mesures qui favorisent le développement durableb écologique, social ou économique au sein de l'UNES ou de ses sections.</text>
-                <text language="it"> Il fondo sostenibilità serve a sostenere finanziariamente progetti, iniziative o misure che promuovono la sostenibilità ecologica, sociale o economica all’interno dell’USU o delle sue sezioni. </text></paragraph>
+                    <changed gremium="DV" agenda_item="5.8" meeting_number="187" implementation_date="2026-05-04" />
+                    <text language="de">Der Nachhaltigkeitsfonds dient der finanziellen Unterstützung von Projekten, Initiativen oder Massnahmen, welche die ökologische, soziale oder ökonomische Nachhaltigkeit fördern, insbesondere:</text>
+                    <text language="fr">Le fonds durabilité sert à soutenir financièrement des projets, des initiatives ou des mesures qui favorisent le développement durableb écologique, social ou économique, en particulier:</text>
+                    <text language="it">Il fondo sostenibilità serve a sostenere finanziariamente progetti, iniziative o misure che promuovono la sostenibilità ecologica, sociale o economica in particolare: </text>
+                    <letters>
+                        <letter>
+                            <text language="de">innerhalb des VSS;</text>
+                            <text language="fr">au sein de l’UNES;</text>
+                            <text language="it">all'interno dell’USU;</text>
+                        </letter>
+                        <letter>
+                            <text language="de">innerhalb seiner Sektionen und deren jeweiligem Hochschulstandort;</text>
+                            <text language="fr">au sein de ses sections et de leurs hautes écoles respectives;</text>
+                            <text language="it">all'interno delle sue sezioni e delle rispettive scuole universitarie;</text>
+                        </letter>
+                        <letter>
+                            <text language="de">studentisches Engagement zu diesem Themenberreich.</text>
+                            <text language="fr">pour des engagements estudiantins sur cette thématique.</text>
+                            <text language="it">per l’impegno studentesco in questo ambito.</text>
+                        </letter>
+                    </letters>
+                </paragraph>
                 <paragraph>
-                    <text language="de">Antragsberechtigt ist der VSS-Vorstand und die Sektionen.</text>
-                    <text language="fr">Le Comité exécutif de l'UNES et les sections sont habilités à déposer des demandes.</text>
-                <text language="it"> Il comitato esecutivo dell’USU e le sezioni hanno diritto di presentare domanda. </text></paragraph>
+                    <text language="de">Antragsberechtigt ist der VSS-Vorstand, die Sektionen, und in der Schweiz immatrikulierte Studierende auf Bachelor- oder Masterstufe im Sinne von Art. 4 der Verordnung des Hochschulrates über die Koordination der Lehre an den Schweizer Hochschulen...</text>
+                    <text language="fr">Le Comité exécutif de l'UNES, les sections et les étudiant-e-s en bachelor ou master immatriculé-e-s en Suisse selon l’article 4 de l’ordonnance du Conseil des hautes écoles sur la coordination de l’enseignement dans les hautes écoles suisses s.</text>
+                    <text language="it">Il comitato esecutivo dell’USU, le sezioni e gli/le studenti/esse di bachelor o master immatricolati/e in Svizzera ai sensi dell’art. 4 dell’ordinanza del Consiglio delle scuole universitarie sul coordinamento dell’insegnamento nelle scuole universitarie svizzere hanno diritto di presentare domanda. </text></paragraph>
                 <paragraph>
                     <text language="de">Eine Auflösung kann durch die Delegiertenversammlung oder den Sektionsrat genehmigt werden.</text>
                     <text language="fr">Une dissolution peut être approuvée par l'Assemblée des délégué-e-s ou le Conseil des Sections.</text>
