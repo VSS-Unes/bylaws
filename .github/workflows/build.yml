@@ -59,12 +59,12 @@ jobs:
           python -m VSETH_Bylaw_Parser generate VSS_Rechtssammlung.xml --config config/config.yaml --output-folder output/ --format all --lang de fr it
 
       - name: Use VSS favicon instead of VSETH's
-              run: |
-                cp config/assets/VSS-Logo.svg output/website/VSS-Logo.svg
-                cp config/assets/vss-logo.png output/website/vss-logo.png
-                find output/website -name '*.html' -exec sed -i \
-                  -e 's#https://static\.vseth\.ethz\.ch/assets/vseth-0100-verband/signet\.svg#/favicon.svg#g' \
-                  -e 's#https://static\.vseth\.ethz\.ch/assets/vseth-0100-verband/signet\.png#/favicon.png#g' {} +
+        run: |
+          cp config/assets/VSS-Logo.svg output/website/VSS-Logo.svg
+          cp config/assets/vss-logo.png output/website/vss-logo.png
+          find output/website -name '*.html' -exec sed -i \
+          -e 's#https://static\.vseth\.ethz\.ch/assets/vseth-0100-verband/signet\.svg#/favicon.svg#g' \
+          -e 's#https://static\.vseth\.ethz\.ch/assets/vseth-0100-verband/signet\.png#/favicon.png#g' {} +
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
