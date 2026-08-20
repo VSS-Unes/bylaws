@@ -9,7 +9,8 @@
             <changed gremium="DV" agenda_item="5.7.1.2" meeting_number="187" implementation_date="2026-08-01" />
             <text language="de"> Für Mitglieder des Vorstands mit Ausnahme des Co-Präsidiums beträgt die Entschädigung nach Art. 13, Abs. 1 Finanzreglement bei 100% pro Monat brutto: </text>
             <text language="fr"> Pour les membres du Comité Exécutif, à l'exception de la co-Présidence, l'indemnité selon l'art. 13, al. 1 du Règlement financier à 100% par mois brut, s'élève à: </text>
-            <text language="it"> Per i membri del comitato esecutivo dell’USU, ad eccezione della copresidenza, la retribuzione ai sensi dell’art. 13, cpv. 1 del regolamento finanziario ammonta al lordo mensile (su 100%): </text><letters>
+            <text language="it"> Per i membri del comitato esecutivo dell’USU, ad eccezione della copresidenza, la retribuzione ai sensi dell’art. 13, cpv. 1 del regolamento finanziario ammonta al lordo mensile (su 100%): </text>
+            <letters>
                 <letter>
                     <text language="de"> CHF 3’000 in den ersten 12 Monaten im VSS-Vorstand; </text>
                     <text language="fr"> CHF 3'000 pendant les 12 premiers mois au Comité Exécutif de l'UNES; </text>
@@ -28,7 +29,8 @@
             <changed gremium="DV" agenda_item="5.7.1.2" meeting_number="187" implementation_date="2026-08-01" />
             <text language="de"> Für Mitglieder des Co-Präsidiums beträgt die Entschädigung nach Art. 13, Abs. 1 Finanzreglement bei 100% pro Monat brutto: </text>
             <text language="fr"> Pour les membres de la co-Présidence, l'indemnité selon l'art. 13, al. 1 du règlement financier à 100% par mois brut, s'élève à : </text>
-            <text language="it"> Per i membri della copresidenza, la retribuzione ai sensi dell’art. 13, cpv. 1 del regolamento finanziario ammonta, al lordo mensile (su 100%), a: </text><letters>
+            <text language="it"> Per i membri della copresidenza, la retribuzione ai sensi dell’art. 13, cpv. 1 del regolamento finanziario ammonta, al lordo mensile (su 100%), a: </text>
+            <letters>
                 <letter>
                     <text language="de"> CHF 3’000 in den ersten 12 Monaten im VSS-Vorstand; </text>
                     <text language="fr"> CHF 3’000 pendant les 12 premiers mois au Comité Exécutif de l'UNES ; </text>
