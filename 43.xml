@@ -309,9 +309,8 @@
                         <text language="it"> Il rimborso delle spese di viaggio all’interno della Svizzera per i collaboratori e le collaboratrici dell’USU è disciplinato dalle direttive sul personale approvate dal comitato esecutivo. </text></paragraph>
                 </paragraphs>
             </article>
-            <article>
+            <article title_de="Unterkunftskosten" title_fr="Formulaire de remboursement des frais" title_it="Modulo di rimborso spese">
                 <inserted gremium="DV" agenda_item="6.1" meeting_number="187" implementation_date="2026-05-04" />
-                <article title_de="Unterkunftskosten" title_fr="Formulaire de remboursement des frais" title_it="Modulo di rimborso spese"></article>
                 <paragraphs>
                     <paragraph>
                         <text language="de">Personen, die eine Funktion innerhalb des VSS ausüben oder für den VSS tätig sind kann bei Konferenzen oder Dienstreisen mit Übernachtung(en) für den VSS eine Pauschale von 30.- pro Tag für Verpflegung und sonstige kleinere Ausgaben gewährt werden, sofern diese nicht anderweitig entschädigt werden</text>
@@ -324,7 +323,7 @@
                         <text language="it">In caso di pernottamenti nell'ambito di viaggi di servizio, la scelta dell'alloggio avviene d'intesa con il/la superiore diretto/a o con la copresidenza.</text>
                     </paragraph>
                 </paragraphs>
-                </article>
+            </article>
             <article title_de="Auslagenerstattungsformular" title_fr="Frais d’hébergement" title_it="Spese di alloggio">
                 <paragraphs>
                     <paragraph>
