@@ -6,39 +6,41 @@
     <text language="it"> La 184a assemblea dei e delle delegati/e, in base all’art. 13 del regolamento sulle finanze dell’USU, decide: </text></preamble>
     <articles>
         <article title_de="Entschädigung Vorstand" title_fr="Indemnisation du comité exécutif" title_it="Retribuzione del comitato esecutivo">
+            <changed gremium="DV" agenda_item="5.7.1.2" meeting_number="187" implementation_date="2026-08-01" />
             <text language="de"> Für Mitglieder des Vorstands mit Ausnahme des Co-Präsidiums beträgt die Entschädigung nach Art. 13, Abs. 1 Finanzreglement bei 100% pro Monat brutto: </text>
             <text language="fr"> Pour les membres du Comité Exécutif, à l'exception de la co-Présidence, l'indemnité selon l'art. 13, al. 1 du Règlement financier à 100% par mois brut, s'élève à: </text>
             <text language="it"> Per i membri del comitato esecutivo dell’USU, ad eccezione della copresidenza, la retribuzione ai sensi dell’art. 13, cpv. 1 del regolamento finanziario ammonta al lordo mensile (su 100%): </text><letters>
                 <letter>
-                    <text language="de"> CHF 2’300 in den ersten 12 Monaten im VSS-Vorstand; </text>
-                    <text language="fr"> CHF 2'300 pendant les 12 premiers mois au Comité Exécutif de l'UNES; </text>
-                <text language="it"> CHF 2’300 nei primi 12 mesi nel comitato; </text></letter>
+                    <text language="de"> CHF 3’000 in den ersten 12 Monaten im VSS-Vorstand; </text>
+                    <text language="fr"> CHF 3'000 pendant les 12 premiers mois au Comité Exécutif de l'UNES; </text>
+                    <text language="it"> CHF 3'000 nei primi 12 mesi nel comitato; </text></letter>
                 <letter>
-                    <text language="de"> CHF 2’530 ab dem 13. Monate und bis zum 24. Monat im VSS-Vorstand; </text>
-                    <text language="fr"> CHF 2'530 à partir du 13e mois et jusqu'au 24e mois au Comité Exécutif de l'UNES ; </text>
-                <text language="it"> CHF 2’530 dal 13° al 24° mese nel comitato; </text></letter>
+                    <text language="de"> CHF 3'300 ab dem 13. Monate und bis zum 24. Monat im VSS-Vorstand; </text>
+                    <text language="fr"> CHF 3'300 à partir du 13e mois et jusqu'au 24e mois au Comité Exécutif de l'UNES ; </text>
+                    <text language="it"> CHF 3'300 dal 13° al 24° mese nel comitato; </text></letter>
                 <letter>
-                    <text language="de"> CHF 2’760 ab dem 25. Monat im VSS-Vorstand. </text>
-                    <text language="fr"> CHF 2'760 à partir du 25e mois au Comité Exécutif de l'UNES. </text>
-                <text language="it"> CHF 2’760 dal 25° mese nel comitato. </text></letter>
+                    <text language="de"> CHF 3'600 ab dem 25. Monat im VSS-Vorstand. </text>
+                    <text language="fr"> CHF 3'600 à partir du 25e mois au Comité Exécutif de l'UNES. </text>
+                    <text language="it"> CHF 3'600 dal 25° mese nel comitato. </text></letter>
             </letters>
         </article>
         <article title_de="Entschädigung Co-Präsidium" title_fr="Indemnisation de la coprésidence" title_it="Retribuzione della copresidenza">
+            <changed gremium="DV" agenda_item="5.7.1.2" meeting_number="187" implementation_date="2026-08-01" />
             <text language="de"> Für Mitglieder des Co-Präsidiums beträgt die Entschädigung nach Art. 13, Abs. 1 Finanzreglement bei 100% pro Monat brutto: </text>
             <text language="fr"> Pour les membres de la co-Présidence, l'indemnité selon l'art. 13, al. 1 du règlement financier à 100% par mois brut, s'élève à : </text>
             <text language="it"> Per i membri della copresidenza, la retribuzione ai sensi dell’art. 13, cpv. 1 del regolamento finanziario ammonta, al lordo mensile (su 100%), a: </text><letters>
                 <letter>
-                    <text language="de"> CHF 2’900 in den ersten 12 Monaten im VSS-Vorstand; </text>
-                    <text language="fr"> CHF 2'900 pendant les 12 premiers mois au Comité Exécutif de l'UNES ; </text>
-                <text language="it"> CHF 2’900 nei primi 12 mesi nel comitato; </text></letter>
+                    <text language="de"> CHF 3’000 in den ersten 12 Monaten im VSS-Vorstand; </text>
+                    <text language="fr"> CHF 3’000 pendant les 12 premiers mois au Comité Exécutif de l'UNES ; </text>
+                    <text language="it"> CHF 3’000 nei primi 12 mesi nel comitato; </text></letter>
                 <letter>
-                    <text language="de"> CHF 3’190 ab dem 13. Monate und bis zum 24. Monat im VSS-Vorstand; </text>
-                    <text language="fr"> CHF 3'190 à partir du 13e mois et jusqu'au 24ème mois au Comité Exécutif de l'UNES ; </text>
-                <text language="it"> CHF 3’190 dal 13° al 24° mese nel comitato; </text></letter>
+                    <text language="de"> CHF 3’300 ab dem 13. Monate und bis zum 24. Monat im VSS-Vorstand; </text>
+                    <text language="fr"> CHF 3’300 à partir du 13e mois et jusqu'au 24ème mois au Comité Exécutif de l'UNES ; </text>
+                <text language="it"> CHF 3’300 dal 13° al 24° mese nel comitato; </text></letter>
                 <letter>
-                    <text language="de"> CHF 3’480 ab dem 25. Monat im VSS-Vorstand. </text>
-                    <text language="fr"> CHF 3'480 à partir du 25e mois au Comité Exécutif de l'UNES. </text>
-                <text language="it"> CHF 3’480 dal 25° mese nel comitato. </text></letter>
+                    <text language="de"> CHF 3’600 ab dem 25. Monat im VSS-Vorstand. </text>
+                    <text language="fr"> CHF 3’600 à partir du 25e mois au Comité Exécutif de l'UNES. </text>
+                <text language="it"> CHF 3’600 dal 25° mese nel comitato. </text></letter>
             </letters>
         </article>
         <article title_de="13. Monatslohn" title_fr="13e mois de salaire" title_it="Tredicesima mensilità">
