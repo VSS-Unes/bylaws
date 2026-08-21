@@ -66,8 +66,8 @@ jobs:
 
       - name: Use VSS favicon instead of VSETH's
         run: |
-          cp config/assets/VSS-Logo.svg output/website/VSS-Logo.svg || true
-          cp config/assets/vss-logo.png output/website/vss-logo.png || true
+          cp config/assets/VSS_Logo.svg output/website/VSS-Logo.svg || true
+          cp config/assets/vss_logo.png output/website/vss-logo.png || true
           find output/website -name '*.html' -exec sed -i \
           -e 's#https://static\.vseth\.ethz\.ch/assets/vseth-0100-verband/signet\.svg#/favicon.svg#g' \
           -e 's#https://static\.vseth\.ethz\.ch/assets/vseth-0100-verband/signet\.png#/favicon.png#g' {} +
