@@ -63,11 +63,11 @@ jobs:
         if: failure()
         run: |
           find output/pdf -name '*.log' -exec sh -c 'echo "==== {} ===="; tail -n 200 "$1"' _ {} \;
-          
+
       - name: Use VSS favicon instead of VSETH's
         run: |
-          cp config/assets/VSS-Logo.svg output/website/VSS-Logo.svg
-          cp config/assets/vss-logo.png output/website/vss-logo.png
+          cp config/assets/VSS-Logo.svg output/website/VSS-Logo.svg || true
+          cp config/assets/vss-logo.png output/website/vss-logo.png || true
           find output/website -name '*.html' -exec sed -i \
           -e 's#https://static\.vseth\.ethz\.ch/assets/vseth-0100-verband/signet\.svg#/favicon.svg#g' \
           -e 's#https://static\.vseth\.ethz\.ch/assets/vseth-0100-verband/signet\.png#/favicon.png#g' {} +
