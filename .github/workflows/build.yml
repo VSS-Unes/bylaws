@@ -2,6 +2,7 @@ name: Build files
 on:
   push:
     branches: [ "main" ]
+  workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -58,6 +59,11 @@ jobs:
         run: |
           python -m VSETH_Bylaw_Parser generate VSS_Rechtssammlung.xml --config config/config.yaml --output-folder output/ --format all --lang de fr it
 
+      - name: Show LaTeX logs on failure
+        if: failure()
+        run: |
+          find output/pdf -name '*.log' -exec sh -c 'echo "==== {} ===="; tail -n 200 "$1"' _ {} \;
+          
       - name: Use VSS favicon instead of VSETH's
         run: |
           cp config/assets/VSS-Logo.svg output/website/VSS-Logo.svg
