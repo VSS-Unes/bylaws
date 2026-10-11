@@ -25,9 +25,10 @@
                         <text language="fr"> Lorsque le Comité exécutif est complet, il faut veiller à ce que : </text>
                         <text language="it"> Quando il comitato esecutivo è al completo, bisogna garantire che: </text><letters>
                             <letter>
-                                <text language="de"> keine Geschlechtsidentität mit mehr als vier Personen vertreten ist; </text>
-                                <text language="fr"> aucune identité de genre ne soit représentée par plus de quatre personnes ; </text>
-                            <text language="it"> nessuna identità di genere sia rappresentata da più di quattro persone; </text></letter>
+                                <changed gremium="DV" agenda_item="2.1" meeting_number="188" implementation_date="2026-06-06" />
+                                <text language="de"> keine Geschlechtsidentität mit mehr als drei Personen, abzüglich des Co-Präsidiums, vertreten ist; </text>
+                                <text language="fr"> aucune identité de genre ne soit représentée par plus de trois personnes, sans compter la co-présidence; </text>
+                            <text language="it"> nessuna identità di genere sia rappresentata da più di tre persone, senza contare la copresidenza; </text></letter>
                             <letter>
                                 <text language="de"> zwei Sprachregionen des Verbandes mit mindestens zwei Personen vertreten sind; </text>
                                 <text language="fr"> deux régions linguistiques de l'association soit représentées par au moins deux personnes chacune ; </text>
@@ -54,6 +55,12 @@
                         <text language="de"> Ein Verzicht gilt bis zur nächsten ordentlichen Wahl. </text>
                         <text language="fr"> Une renonciation porte jusqu'à la prochaine élection ordinaire. </text>
                     <text language="it"> La rinuncia è valida fino alla successiva elezione ordinaria. </text></paragraph>
+                    <paragraph>
+                        <inserted gremium="DV" agenda_item="6.11" meeting_number="187" implementation_date="2026-05-04" />
+                        <text language="de"> Die Delegiertenversammlung kann vor der Wahl des Vorstandes mit Zwei-Drittel-Mehr entscheiden, von der Quote nach Abs. 1 Bst. a abzusehen. Dieser Beschluss gilt dann bis zur nächsten ordentlichen Wahl des Vorstandes. </text>
+                        <text language="fr"> Avant l'élection du comité, l'Assemblée des délégué·e·s peut décider à la majorité des deux tiers de ne pas appliquer le quota prévu à l'al. 1, let. a. Cette décision porte alors jusqu'à la prochaine élection ordinaire du Comité exécutif. </text>
+                        <text language="it"> Prima dell’elezione del comitato, l’Assemblea dei e delle delegati/e può decidere con una maggioranza dei due terzi di non applicare la quota di cui al cpv. 1 lett. a. Tale decisione è valida fino alla successiva elezione ordinaria del comitato esecutivo. La modifica entra in vigore immediatamente. </text>
+                    </paragraph>
                 </paragraphs>
             </article>
             <article title_de="Quoten im Co-Präsidium" title_fr="Quotas au sein de la coprésidence" title_it="Quote nella copresidenza">
